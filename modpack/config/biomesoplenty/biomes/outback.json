@@ -1,0 +1,17 @@
+{
+    "fillerBlock": {
+    "block": "biomesoplenty:dirt",
+    "properties": {
+      "coarse": "false",
+      "variant": "sandy"
+    }
+  },
+  "averageHeight": 86.0,
+  "topBlock": {
+    "block": "biomesoplenty:grass",
+    "properties": {
+      "snowy": "false",
+      "variant": "sandy"
+    }
+  }
+}

@@ -1,0 +1,127 @@
+{
+	"name" : "magiculture:spawners_swamp",
+	"spawners" : [
+		{
+			"type" : "ZOMBIE",
+			"potentials" : [
+				{"name" : "minecraft:zombie", "weight" : 5},
+				{"name" : "minecraft:zombie_villager", "weight" : 1},
+				{"name" : "minecraft:slime", "nbt" : "{Size:1}", "weight" : 4},
+				{"name" : "grimoireofgaia:sludge_girl", "weight" : 1}
+			],
+			"level" : [0, 1]
+		},
+		{
+			"type" : "ZOMBIE",
+			"potentials" : [
+				{"name" : "minecraft:zombie", "weight" : 10},
+				{"name" : "minecraft:cave_spider", "weight" : 1},
+				{"name" : "quark:dweller", "weight" : 2},
+				{"name" : "grimoireofgaia:naga", "weight" : 1}
+			],
+			"level" : 2
+		},
+		{
+			"type" : "ZOMBIE",
+			"potentials" : [
+				{"name" : "minecraft:zombie", "weight" : 3},
+				{"name" : "minecraft:cave_spider", "weight" : 1},
+				{"name" : "quark:dweller", "weight" : 2},
+				{"name" : "grimoireofgaia:arachne", "weight" : 1}
+			],
+			"level" : 3
+		},
+		{
+			"type" : "ZOMBIE",
+			"potentials" : [
+				{"name" : "minecraft:zombie_pigman", "nbt" : "{Anger:32767}", "weight" : 8},
+				{"name" : "quark:dweller", "weight" : 4},
+				{"name" : "grimoireofgaia:wither_cow", "weight" : 1}
+			],
+			"level" : 4
+		},
+		{
+			"type" : "SPIDER",
+			"potentials" : [
+				{"name" : "minecraft:spider", "weight" : 2},
+				{"name" : "minecraft:slime", "nbt" : "{Size:1}", "weight" : 1}
+			],
+			"level" : [0, 1]
+		},
+		{
+			"type" : "SPIDER",
+			"potentials" : [
+				{"name" : "minecraft:spider", "weight" : 1},
+				{"name" : "minecraft:cave_spider", "weight" : 1}
+			],
+			"level" : 2
+		},
+		{
+			"type" : "SPIDER",
+			"potentials" : [
+				{"name" : "minecraft:cave_spider", "weight" : 8},
+				{"name" : "grimoireofgaia:arachne", "weight" : 1}
+			],
+			"level" : 3
+		},
+		{
+			"type" : "SPIDER",
+			"potentials" : [
+				{"name" : "minecraft:blaze", "weight" : 1},
+				{"name" : "thaumcraft:firebat", "weight" : 1}
+			],
+			"level" : 4
+		},
+		{
+			"type" : "SKELETON",
+			"potentials" : [
+				{"name" : "minecraft:skeleton", "weight" : 7},
+				{"name" : "minecraft:slime", "nbt" : "{Size:1}", "weight" : 1},
+				{"name" : "grimoireofgaia:siren", "weight" : 1}
+			],
+			"level" : [0, 1]
+		},
+		{
+			"type" : "SKELETON",
+			"potentials" : [
+				{"name" : "minecraft:skeleton", "weight" : 10},
+				{"name" : "minecraft:witch", "weight" : 1},
+				{"name" : "grimoireofgaia:siren", "weight" : 2}
+			],
+			"level" : 2
+		},
+		{
+			"type" : "SKELETON",
+			"potentials" : [
+				{"name" : "minecraft:skeleton", "weight" : 3},
+				{"name" : "quark:ashen", "weight" : 1},
+				{"name" : "minecraft:witch", "weight" : 1}
+			],
+			"level" : 3
+		},
+		{
+			"type" : "SKELETON",
+			"potentials" : [
+				{"name" : "minecraft:wither_skeleton", "weight" : 8},
+				{"name" : "quark:ashen", "weight" : 4},
+				{"name" : "grimoireofgaia:succubus", "weight" : 1}
+			],
+			"level" : 4
+		},
+		{
+			"type" : "CREEPER",
+			"potentials" : [
+				{"name" : "minecraft:creeper", "weight" : 3},
+				{"name" : "grimoireofgaia:creep", "weight" : 1}
+			],
+			"level" : [0, 1, 2, 3, 4]
+		},
+		{
+			"type" : "ENDERMAN",
+			"potentials" : [
+				{"name" : "minecraft:witch", "weight" : 1}
+			],
+			"level" : 3
+		}
+	]
+}

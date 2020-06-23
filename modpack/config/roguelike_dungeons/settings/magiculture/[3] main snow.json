@@ -1,0 +1,21 @@
+{
+	"name" : "magiculture:main_snow",
+	"exclusive" : true,
+	"criteria" : {
+		"dimensionWL" : 0,
+		"biomeTypes" : [
+			"SNOWY"
+		],
+		"weight" : 5
+	},
+	"inherit" : [
+		"magiculture:tower_snow",
+		"magiculture:layout",
+		"magiculture:rooms_snow",
+		"magiculture:segments_snow",
+		"magiculture:spawners_mountain",
+		"magiculture:theme_snow",
+		"magiculture:loot_mountain",
+		"magiculture:filters_none"
+	]
+}

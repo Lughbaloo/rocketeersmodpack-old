@@ -1,0 +1,43 @@
+{
+	"name" : "magiculture:tower_plains",
+	"tower" : {
+        "type" : "ROGUE",
+        "theme" : {
+            "base" : "NETHER",
+            "primary": {
+				"walls" : {
+					"type" : "WEIGHTED", 
+					"data" : [
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestone", "meta" : 1}, "weight" : 24},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestone", "meta" : 2}, "weight" : 8},
+						{"type" : "METABLOCK", "data" : {"name" : "minecraft:gravel", "meta" : 2}, "weight" : 8},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestonemossy", "meta" : 1}, "weight" : 12}
+					]
+				},
+				"pillar" : {
+					"type" : "METABLOCK", "data" : {"name" : "rustic:stone_pillar", "meta" : 0}
+				},
+				"stair" : {
+					"type" : "METABLOCK", "data" : {"name" : "minecraft:stone_brick_stairs"}
+				}
+			},
+			"secondary": {
+				"walls" : {
+					"type" : "WEIGHTED", 
+					"data" : [
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestone", "meta" : 1}, "weight" : 24},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestone", "meta" : 2}, "weight" : 8},
+						{"type" : "METABLOCK", "data" : {"name" : "minecraft:gravel", "meta" : 2}, "weight" : 8},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestonemossy", "meta" : 1}, "weight" : 12}
+					]
+				},
+				"pillar" : {
+					"type" : "METABLOCK", "data" : {"name" : "rustic:stone_pillar", "meta" : 0}
+				},
+				"stair" : {
+					"type" : "METABLOCK", "data" : {"name" : "minecraft:stone_brick_stairs"}
+				}
+			}
+        }
+    }
+}

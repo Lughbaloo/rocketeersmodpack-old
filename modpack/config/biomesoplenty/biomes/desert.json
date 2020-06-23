@@ -1,0 +1,32 @@
+{
+  "canGenerateVillages": false,
+  "generators": {
+    "tiny_cacti": {
+      "with": {
+        "block": "biomesoplenty:plant_1",
+        "properties": {
+          "variant": "tinycactus"
+        }
+      },
+      "generationAttempts": 16,
+      "amountPerChunk": 0.5,
+      "enable": true
+    },
+    "quicksand": {
+      "liquid": {
+        "block": "biomesoplenty:sand",
+        "properties": {
+          "level": "0"
+        }
+      },
+      "amountPerChunk": 0.2,
+      "enable": false,
+      "grassBorderWith": {
+        "block": "minecraft:grass",
+        "properties": {
+          "snowy": "false"
+        }
+      }
+    }
+  }
+}

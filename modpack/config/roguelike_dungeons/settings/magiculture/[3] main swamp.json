@@ -1,0 +1,21 @@
+{
+	"name" : "magiculture:main_swamp",
+	"exclusive" : true,
+	"criteria" : {
+		"dimensionWL" : 0,
+		"biomeTypes" : [
+			"SWAMP"
+		],
+		"weight" : 5
+	},
+	"inherit" : [
+		"magiculture:tower_swamp",
+		"magiculture:layout",
+		"magiculture:rooms_swamp",
+		"magiculture:segments_swamp",
+		"magiculture:spawners_swamp",
+		"magiculture:theme_swamp",
+		"magiculture:loot",
+		"magiculture:filters_swamp"
+	]
+}

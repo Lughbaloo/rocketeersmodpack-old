@@ -1,0 +1,18 @@
+{
+	"name" : "magiculture:main",
+	"exclusive" : true,
+	"criteria" : {
+		"dimensionWL" : 0,
+		"weight" : 1
+	},
+	"inherit" : [
+		"magiculture:tower",
+		"magiculture:layout",
+		"magiculture:rooms",
+		"magiculture:segments",
+		"magiculture:spawners",
+		"magiculture:theme",
+		"magiculture:loot",
+		"magiculture:filters"
+	]
+}

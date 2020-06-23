@@ -1,0 +1,24 @@
+{
+  "canGenerateRivers": false,
+  "fillerBlock": {
+    "block": "biomesoplenty:dirt",
+    "properties": {
+      "coarse": "false",
+      "variant": "sandy"
+    }
+  },
+  "topBlock": {
+    "block": "biomesoplenty:grass",
+    "properties": {
+      "snowy": "false",
+      "variant": "sandy"
+    }
+  },
+  "generators": {
+    "grass": {
+      "amountPerChunk": 4,
+      "enable": true,
+      "generators": {}
+    }
+	}
+}

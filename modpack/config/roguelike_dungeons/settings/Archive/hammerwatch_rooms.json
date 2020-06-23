@@ -1,0 +1,25 @@
+{
+	"name" : "hammerwatch:rooms",
+	"rooms" : [
+		{"level" : 0, "type" : "secret", "name" : "SMITH", "count" : "1"},
+		{"level" : 0, "type" : "secret", "name" : "BEDROOM", "count" : "1"},
+		{"level" : 0, "type" : "single", "name" : "MESS"},
+		{"level" : 0, "type" : "single", "name" : "STORAGE"},
+		{"level" : 0, "type" : "single", "name" : "LIBRARY"},
+		
+		{"level" : [1, 2, 3, 4], "type" : "random", "name" : "BRICK", "weight" : 10},
+		{"level" : [1, 2, 3, 4], "type" : "random", "name" : "CORNER", "weight" : 10},		
+		{"level" : [1, 2, 3, 4], "type" : "random", "name" : "SPIDER", "weight" : 1},
+		{"level" : [1, 2, 3, 4], "type" : "random", "name" : "CRYPT", "weight" : 1},
+		{"level" : [1, 2, 3, 4], "type" : "random", "name" : "PRISON", "weight" : 1},
+		{"level" : [1, 2, 3, 4], "type" : "random", "name" : "FIRE", "weight" : 1},
+		{"level" : [1, 2, 3, 4], "type" : "random", "name" : "SLIME", "weight" : 1},
+		{"level" : [1, 2, 3, 4], "type" : "random", "name" : "OSSUARY", "weight" : 1},
+		{"level" : [1, 2, 3, 4], "type" : "random", "name" : "OBSIDIAN", "weight" : 1},		
+		{"level" : [1, 2, 3, 4], "type" : "random", "name" : "STORAGE", "weight" : 1},
+		{"level" : [1, 2, 3, 4], "type" : "random", "name" : "DARKHALL", "weight" : 1},
+	
+		{"level" : 4, "type" : "random", "name" : "BLAZE", "weight" : 2}
+
+	]
+}

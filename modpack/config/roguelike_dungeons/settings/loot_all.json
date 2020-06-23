@@ -1,0 +1,147 @@
+{
+	"name" : "loot_all",
+	"loot_rules" : [
+		{"type" : "ARMOUR",
+			"loot" : [
+				{"data" : {"name" : "minecraft:fish", "min" : 1, "max" : 10}, "weight" : 1}
+			],
+			"level" : [0, 1, 2, 3, 4],
+			"each" : true,
+			"quantity" : 0
+		},
+		{"type" : "WEAPONS",
+			"loot" : [
+				{"data" : {"name" : "minecraft:fish", "min" : 1, "max" : 10}, "weight" : 1}
+			],
+			"level" : [0, 1, 2, 3, 4],
+			"each" : true,
+			"quantity" : 0
+		},
+		{"type" : "BLOCKS",
+			"loot" : [
+				{"data" : {"name" : "minecraft:cobblestone", "min" : 20, "max" : 40}, "weight" : 1}
+			],
+			"level" : [0, 1, 2, 3, 4],
+			"each" : true,
+			"quantity" : 1
+		},
+		{"type" : "ENCHANTING",
+			"loot" : [
+				{"data" : {"name" : "minecraft:experience_bottle", "min" : 5, "max" : 15}, "weight" : 2},
+				{"data" : {"name" : "minecraft:book", "min" : 1, "max" : 6}, "weight" : 1}
+			],
+			"level" : [0, 1, 2, 3, 4],
+			"each" : true,
+			"quantity" : 1
+		},
+		{"type" : "FOOD",
+			"loot" : [
+				{"data" : {"name" : "minecraft:cookie", "min" : 2, "max" : 4}, "weight" : 1},
+				{"data" : {"name" : "minecraft:bread", "min" : 2, "max" : 6}, "weight" : 5},
+				{"data" : {"name" : "minecraft:potato", "min" : 2, "max" : 8}, "weight" : 2},
+				{"data" : {"name" : "minecraft:carrot", "min" : 2, "max" : 8}, "weight" : 2},
+				{"data" : {"name" : "minecraft:rotten_flesh", "min" : 5, "max" : 8}, "weight" : 3},
+				{"data" : {"type" : "mixture", "name" : "coffee"}, "weight" : 1},
+				{"data" : {"name" : "minecraft:bone"}, "weight" : 1},
+				{"data" : {"name" : "minecraft:coal", "min" : 1, "max" : 5}, "weight" : 2}
+			],
+			"level" : [0, 1, 2, 3, 4],
+			"each" : true,
+			"quantity" : 6
+		},
+		{"type" : "ORE",
+			"loot" : [
+				{"data" : {"name" : "minecraft:fish", "min" : 1, "max" : 10}, "weight" : 1}
+			],
+			"level" : [0, 1, 2, 3, 4],
+			"each" : true,
+			"quantity" : 0
+		},
+		{"type" : "POTIONS",
+			"loot" : [
+				{"data" : {"type" : "potion", "name" : "strength"}, "weight" : 1},
+				{"data" : {"type" : "potion", "name" : "regeneration"}, "weight" : 1},
+				{"data" : {"type" : "potion", "name" : "leaping"}, "weight" : 1},
+				{"data" : {"type" : "potion", "name" : "night_vision"}, "weight" : 1},
+				{"data" : {"type" : "potion", "name" : "fire_resistance"}, "weight" : 1},
+				{"data" : {"type" : "potion", "name" : "swiftness"}, "weight" : 1},
+				{"data" : {"type" : "potion", "name" : "healing"}, "weight" : 1}
+				
+			],
+			"level" : [0, 1, 2, 3, 4],
+			"each" : true,
+			"quantity" : 4
+		},
+		{"type" : "STARTER",
+			"loot" : [
+				{"data" : {"name" : "minecraft:fish", "min" : 1, "max" : 10}, "weight" : 1}
+			],
+			"level" : [0, 1, 2, 3, 4],
+			"each" : true,
+			"quantity" : 0
+		},
+		{"type" : "TOOLS",
+			"loot" : [
+				{"data" : {"name" : "minecraft:fish", "min" : 1, "max" : 10}, "weight" : 1}
+			],
+			"level" : [0, 1, 2, 3, 4],
+			"each" : true,
+			"quantity" : 0
+		},
+		{"type" : "SUPPLIES",
+			"loot" : [
+				{"data" : {"name" : "minecraft:wheat_seeds", "min" : 2, "max" : 4}, "weight" : 1},
+				{"data" : {"name" : "minecraft:pumpkin_seeds", "min" : 2, "max" : 4}, "weight" : 1},
+				{"data" : {"name" : "minecraft:melon_seeds", "min" : 2, "max" : 4}, "weight" : 1},
+				{"data" : {"name" : "minecraft:lead"}, "weight" : 1},
+				{"data" : {"name" : "minecraft:wheat", "min" : 2, "max" : 4}, "weight" : 1},
+				{"data" : {"name" : "minecraft:beetroot_seeds", "min" : 2, "max" : 4}, "weight" : 1},
+				{"data" : {"name" : "minecraft:sapling", "min" : 2, "max" : 4}, "weight" : 1},
+				{"data" : {"name" : "minecraft:bucket"}, "weight" : 2},
+				{"data" : {"name" : "minecraft:torch", "min" : 5, "max" : 20}, "weight" : 3},
+				{"data" : {"name" : "minecraft:coal", "min" : 4, "max" : 16}, "weight" : 3},
+				{"data" : {"name" : "minecraft:ladder", "min" : 5, "max" : 20}, "weight" : 2}
+			],
+			"level" : [0, 1, 2, 3, 4],
+			"each" : true,
+			"quantity" : 6
+		},
+		{"type" : "SMITH",
+			"loot" : [
+				{"data" : {"name" : "minecraft:fish", "min" : 1, "max" : 10}, "weight" : 1}
+			],
+			"level" : [0, 1, 2, 3, 4],
+			"each" : true,
+			"quantity" : 0
+		},
+		{"type" : "MUSIC",
+			"loot" : [
+				{"data" : {"name" : "minecraft:fish", "min" : 1, "max" : 10}, "weight" : 1}
+			],
+			"level" : [0, 1, 2, 3, 4],
+			"each" : true,
+			"quantity" : 0
+		},
+		{"type" : "REWARD",
+			"loot" : [
+				{"data" : {"name" : "minecraft:fish", "min" : 1, "max" : 10}, "weight" : 1}
+			],
+			"level" : [0, 1, 2, 3, 4],
+			"each" : true,
+			"quantity" : 0
+		},
+		{"type" : "BREWING",
+			"loot" : [
+				{"data" : {"name" : "minecraft:blaze_powder"}, "weight" : 1},
+				{"data" : {"name" : "minecraft:fermented_spider_eye"}, "weight" : 1},
+				{"data" : {"name" : "minecraft:spider_eye"}, "weight" : 1},
+				{"data" : {"name" : "minecraft:magma_cream"}, "weight" : 1},
+				{"data" : {"name" : "minecraft:speckled_melon"}, "weight" : 1},
+				{"data" : {"name" : "minecraft:glass_bottle", "min" : 2, "max" : 7}, "weight" : 1}
+			],
+			"level" : [0, 1, 2, 3, 4],
+			"each" : true,
+			"quantity" : 5
+		}
+	]
+}

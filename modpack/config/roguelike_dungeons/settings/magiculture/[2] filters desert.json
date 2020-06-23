@@ -1,0 +1,7 @@
+{
+	"name" : "magiculture:filters_desert",
+	"filters" : [
+		{"level" : 2, "name" : "cobweb"},
+		{"level" : 3, "name" : "cobweb"}
+	]
+}

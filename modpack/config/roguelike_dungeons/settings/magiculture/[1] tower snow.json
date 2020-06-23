@@ -1,0 +1,53 @@
+{
+	"name" : "magiculture:tower_snow",
+	"tower" : {
+        "type" : "ROGUE",
+        "theme" : {
+            "base" : "ICE",
+            "primary": {
+				"walls" : {
+					"type" : "WEIGHTED",
+					"data" : [
+						{"type" : "METABLOCK", "data" : {"name" : "minecraft:snow", "meta" : 0}, "weight" : 3},
+						{"type" : "METABLOCK", "data" : {"name" : "quark:snow_bricks", "meta" : 0}, "weight" : 2}
+					]
+				},
+					"pillar" : {
+						"type" : "METABLOCK",
+						"data" : {
+							"name" : "quark:snow_bricks",
+							"meta" : 0
+						}
+					},
+					"stair" : {
+						"type" : "METABLOCK",
+						"data" : {
+							"name" : "quark:snow_bricks_stairs"
+						}
+					}
+				},
+			"secondary": {
+				"walls" : {
+					"type" : "WEIGHTED",
+					"data" : [
+						{"type" : "METABLOCK", "data" : {"name" : "minecraft:snow", "meta" : 0}, "weight" : 3},
+						{"type" : "METABLOCK", "data" : {"name" : "quark:snow_bricks", "meta" : 0}, "weight" : 5}
+					]
+				},
+					"pillar" : {
+						"type" : "METABLOCK",
+						"data" : {
+							"name" : "quark:snow_bricks",
+							"meta" : 0
+						}
+					},
+					"stair" : {
+						"type" : "METABLOCK",
+						"data" : {
+							"name" : "quark:snow_bricks_stairs"
+						}
+					}
+				}
+        }
+    }
+}

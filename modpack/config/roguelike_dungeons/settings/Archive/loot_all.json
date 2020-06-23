@@ -1,0 +1,304 @@
+{
+	"name" : "magiculture:loot_all",
+	"loot_rules" : [
+		{
+			"level" : [0, 1, 2, 3, 4],
+			"type" : "FOOD",
+			"loot" : [
+				{"data" : {"name" : "minecraft:cookie", "min" : 2, "max" : 8}, "weight" : 1},
+				{"data" : {"name" : "minecraft:bread", "min" : 1, "max" : 3}, "weight" : 5},
+				{"data" : {"name" : "minecraft:apple"}, "weight" : 1},
+				{"data" : {"name" : "minecraft:cooked_porkchop"}, "weight" : 2},
+				{"data" : {"name" : "minecraft:cooked_chicken"}, "weight" : 2},
+				{"data" : {"name" : "minecraft:cooked_beef"}, "weight" : 2},
+				{"data" : {"name" : "minecraft:cooked_rabbit"}, "weight" : 1},
+				{"data" : {"name" : "minecraft:cooked_fish"}, "weight" : 1},
+				{"data" : {"name" : "minecraft:baked_potato"}, "weight" : 1},
+				{"data" : {"name" : "minecraft:rabbit_stew"}, "weight" : 1},
+				{"data" : {"name" : "minecraft:mushroom_stew"}, "weight" : 1}
+			],
+			"each" : true,
+			"quantity" : 3
+		},
+		{	
+			"type" : "FOOD", 
+			"loot" : [	
+				{"data" : {"name" : "toughasnails:fruit_juice", "meta" : 1}},
+				{"data" : {"name" : "toughasnails:fruit_juice", "meta" : 8}},
+				{"data" : {"name" : "toughasnails:fruit_juice", "meta" : 0}},
+				{"data" : {"name" : "toughasnails:fruit_juice", "meta" : 3}}
+			],
+			"level" : 0,
+			"each" : true,
+			"quantity" : 3
+		},
+		{
+			"type" : "FOOD", 
+			"loot" : [
+				{"data" : {"name" : "toughasnails:fruit_juice", "meta" : 1}},
+				{"data" : {"name" : "toughasnails:fruit_juice", "meta" : 2}},
+				{"data" : {"name" : "toughasnails:fruit_juice", "meta" : 3}},
+				{"data" : {"name" : "toughasnails:fruit_juice", "meta" : 8}},
+				{"data" : {"name" : "toughasnails:fruit_juice", "meta" : 0}},
+				{"data" : {"name" : "toughasnails:fruit_juice", "meta" : 9}}
+			],
+			"level" : 1,
+			"each" : true,
+			"quantity" : 2
+		},
+		{	
+			"type" : "FOOD", 
+			"loot" : [
+				{"data" : {"name" : "toughasnails:fruit_juice", "meta" : 1}},
+				{"data" : {"name" : "toughasnails:fruit_juice", "meta" : 2}},
+				{"data" : {"name" : "toughasnails:fruit_juice", "meta" : 3}},
+				{"data" : {"name" : "toughasnails:fruit_juice", "meta" : 8}},
+				{"data" : {"name" : "toughasnails:fruit_juice", "meta" : 0}},
+				{"data" : {"name" : "toughasnails:fruit_juice", "meta" : 9}}
+			],
+			"level" : 2,
+			"each" : true,
+			"quantity" : 5
+		},
+		{	
+			"type" : "FOOD", 
+			"loot" : [
+				{"data" : {"name" : "toughasnails:fruit_juice", "meta" : 1}},
+				{"data" : {"name" : "toughasnails:fruit_juice", "meta" : 2}},
+				{"data" : {"name" : "toughasnails:fruit_juice", "meta" : 3}},
+				{"data" : {"name" : "toughasnails:fruit_juice", "meta" : 7}},
+				{"data" : {"name" : "toughasnails:fruit_juice", "meta" : 5}},
+				{"data" : {"name" : "toughasnails:fruit_juice", "meta" : 4}}
+			],
+			"level" : 3,
+			"each" : true,
+			"quantity" : 5
+		},
+		{	
+			"type" : "FOOD", 
+			"loot" : [
+				{"data" : {"name" : "toughasnails:fruit_juice", "meta" : 6}},
+				{"data" : {"name" : "toughasnails:fruit_juice", "meta" : 7}},
+				{"data" : {"name" : "toughasnails:fruit_juice", "meta" : 4}},
+				{"data" : {"name" : "golden_carrot", "min" : 2, "max" : 5}, "weight" : 10},
+				{"data" : {"name" : "golden_apple", "min" : 1, "max" : 1}, "weight" : 10}
+			],
+			"level" : 4,
+			"each" : true,
+			"quantity" : 5
+		},
+		{
+			"level" : [0, 1, 2, 3, 4],
+			"type" : "POTIONS",
+			"loot" : [
+				{"data" : {"type" : "potion", "name" : "strength"}, "weight" : 1},
+				{"data" : {"type" : "potion", "name" : "regeneration"}, "weight" : 1},
+				{"data" : {"type" : "potion", "name" : "leaping"}, "weight" : 1},
+				{"data" : {"type" : "potion", "name" : "night_vision"}, "weight" : 1},
+				{"data" : {"type" : "potion", "name" : "fire_resistance"}, "weight" : 1},
+				{"data" : {"type" : "potion", "name" : "swiftness"}, "weight" : 1},
+				{"data" : {"type" : "potion", "name" : "healing"}, "weight" : 1}
+				
+			],
+			"each" : true,
+			"quantity" : 4
+		},
+		{
+			"level" : [0, 1, 2, 3, 4],
+			"type" : "MUSIC",
+			"loot" : [
+				{"data" : {"name" : "record_13"}},
+				{"data" : {"name" : "record_cat"}},
+				{"data" : {"name" : "record_blocks"}},
+				{"data" : {"name" : "record_chirp"}},
+				{"data" : {"name" : "record_far"}},
+				{"data" : {"name" : "record_mall"}},
+				{"data" : {"name" : "record_mellohi"}},
+				{"data" : {"name" : "record_stal"}},
+				{"data" : {"name" : "record_strad"}},
+				{"data" : {"name" : "record_ward"}},
+				{"data" : {"name" : "record_wait"}},
+				{"data" : {"name" : "record_11"}}
+			],
+			"each" : true,
+			"quantity" : 2
+		},
+		{
+			"level" : [0, 1, 2, 3, 4],
+			"type" : "SUPPLIES",
+			"loot" : [
+				{"data" : {"name" : "ebwizardry:magic_crystal", "min" : 3, "max" : 6}, "weight" : 9},
+				{"data" : {"name" : "minecraft:torch", "min" : 5, "max" : 20}, "weight" : 5},
+				{"data" : {"name" : "ebwizardry:mana_flask", "min" : 2, "max" : 3}, "weight" : 2},
+				{"data" : {"name" : "grimoireofgaia:chest", "meta": 0}, "weight" : 3},
+				{"data" : {"name" : "rustic:elixir", "nbt" : '{ElixirEffects: [{Effect: "minecraft:instant_health", Duration: 1, Amplifier: 0}]}'}, "weight" : 1},
+				{"data" : {"name" : "rustic:elixir", "nbt" : '{ElixirEffects: [{Effect: "minecraft:haste", Duration: 3600, Amplifier: 1}]}' }, "weight" : 1},
+				{"data" : {"name" : "rustic:elixir", "nbt" : '{ElixirEffects: [{Effect: "minecraft:speed", Duration: 3600, Amplifier: 1}]}' }, "weight" : 1},
+				{"data" : {"name" : "rustic:elixir", "nbt" : '{ElixirEffects: [{Effect: "potioncore:archery", Duration: 3600, Amplifier: 0}]}' }, "weight" : 1},
+				{"data" : {"name" : "rustic:elixir", "nbt" : '{ElixirEffects: [{Effect: "potioncore:magic_focus", Duration: 3600, Amplifier: 0}]}' }, "weight" : 1},
+				{"data" : {"name" : "rustic:elixir", "nbt" : '{ElixirEffects: [{Effect: "potioncore:recoil", Duration: 3600, Amplifier: 0}]}' }, "weight" : 1},
+				{"data" : {"name" : "rustic:elixir", "nbt" : '{ElixirEffects: [{Effect: "potioncore:repair", Duration: 3600, Amplifier: 0}]}' }, "weight" : 1},
+				{"data" : {"name" : "rustic:elixir", "nbt" : '{ElixirEffects: [{Effect: "minecraft:regeneration", Duration: 450, Amplifier: 0}]}' }, "weight" : 1},
+				{"data" : {"name" : "rustic:elixir", "nbt" : '{ElixirEffects: [{Effect: "minecraft:night_vision", Duration: 3600, Amplifier: 0}]}' }, "weight" : 2},
+				{"data" : {"name" : "rustic:elixir", "nbt" : '{ElixirEffects: [{Effect: "extraalchemy:effect.return", Duration: 1, Amplifier: 0}]}' }, "weight" : 1},
+				{"data" : {"name" : "rustic:elixir", "nbt" : '{ElixirEffects: [{Effect: "minecraft:luck", Duration: 3600, Amplifier: 0}]}' }, "weight" : 3}
+			],
+			"each" : true,
+			"quantity" : 4
+		},
+		{
+			"level" : [0, 1, 2, 3, 4],
+			"type" : "SMITH",
+			"loot" : [
+				{"data" : {"name" : "quark:rune", "meta" : 0}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 1}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 2}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 3}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 4}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 5}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 6}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 7}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 8}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 9}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 10}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 11}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 12}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 13}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 14}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 15}, "weight" : 1},
+				{"data" : {"name" : "dynamicswordskills:skillorb", "meta" : 0, "min" : 1, "max" : 2}, "weight" : 5},
+				{"data" : {"name" : "dynamicswordskills:skillorb", "meta" : 1, "min" : 1, "max" : 2}, "weight" : 2},
+				{"data" : {"name" : "dynamicswordskills:skillorb", "meta" : 2, "min" : 1, "max" : 2}, "weight" : 2},
+				{"data" : {"name" : "dynamicswordskills:skillorb", "meta" : 3, "min" : 1, "max" : 2}, "weight" : 2},
+				{"data" : {"name" : "dynamicswordskills:skillorb", "meta" : 4, "min" : 1, "max" : 2}, "weight" : 2}
+			],
+			"each" : true,
+			"quantity" : 2
+		},
+		{
+			"level" : [0, 1, 2, 3, 4],
+			"type" : "STARTER",
+			"loot" : [
+				{"data" : {"type" : "specialty", "equipment" : "legs", "quality" : "wood", "level" : 1}, "weight" : 1}
+			],
+			"each" : true,
+			"quantity" : 1
+		},
+		{	
+			"type" : "STARTER", 
+			"loot" : [
+				{"data" : {"name" : "minecraft:leather", "meta" : 0}, "weight" : 2},
+				{"data" : {"name" : "minecraft:bread", "meta" : 0}, "weight" : 1},
+				{"data" : {"name" : "minecraft:apple", "meta" : 0}, "weight" : 1},
+				{"data" : {"name" : "minecraft:torch", "min" : 5, "max" : 20}, "weight" : 3}
+			],
+			"level" : [0, 1, 2, 3, 4],
+			"each" : true,
+			"quantity" : 4
+		},
+		{
+			"level" : [0, 1, 2, 3, 4],
+			"type" : "STARTER",
+			"loot" : [
+				{"data" : {"name" : "minecraft:wooden_pickaxe"}, "weight" : 4},
+				{"data" : {"name" : "minecraft:wooden_axe"}, "weight" : 4},
+				{"data" : {"name" : "minecraft:wooden_shovel"}, "weight" : 4}
+			],
+			"each" : true,
+			"quantity" : 2
+		},
+		{
+			"level" : [0, 1, 2, 3, 4],
+			"type" : "STARTER",
+			"loot" : [
+				{"data" : {"name" : "minecraft:wooden_sword"}, "weight" : 4}
+			],
+			"each" : true,
+			"quantity" : 1
+		},
+		{	
+			"type" : "STARTER", 
+			"loot" : [
+				{"data" : {"name" : "antiqueatlas:antique_atlas", "meta" : 0}, "weight" : 2},
+				{"data" : {"name" : "antiqueatlas:empty_antique_atlas", "meta" : 0}, "weight" : 3},
+				{"data" : {"name" : "minecraft:compass", "meta" : 0}, "weight" : 1},
+				{"data" : {"name" : "minecraft:clock", "meta" : 0}, "weight" : 1},
+				{"data" : {"name" : "toughasnails:canteen", "meta" : 0}, "weight" : 1},
+				{"data" : {"name" : "minecraft:fishing_rod", "meta" : 0}, "weight" : 1},
+				{"data" : {"name" : "toughasnails:thermometer", "meta" : 0}, "weight" : 1},
+				{"data" : {"name" : "rustic:elixir", "nbt" : '{ElixirEffects: [{Effect: "minecraft:instant_health", Duration: 1, Amplifier: 0}]}' }, "weight" : 2}
+			],
+			"level" : [0, 1, 2, 3, 4],
+			"each" : true,
+			"quantity" : 2
+		},
+		{
+			"level" : [0, 1, 2, 3, 4],
+			"type" : "BLOCKS",
+			"loot" : [
+				{"data" : {"name" : "minecraft:cobblestone", "min" : 20, "max" : 40}, "weight" : 1}
+			],
+			"each" : true,
+			"quantity" : 1
+		},		
+		{
+			"level" : [0, 1, 2, 3, 4],
+			"type" : "BREWING",
+			"loot" : [
+				{"data" : {"name" : "minecraft:blaze_powder"}, "weight" : 1},
+				{"data" : {"name" : "minecraft:fermented_spider_eye"}, "weight" : 1},
+				{"data" : {"name" : "minecraft:spider_eye"}, "weight" : 1},
+				{"data" : {"name" : "minecraft:magma_cream"}, "weight" : 1},
+				{"data" : {"name" : "minecraft:speckled_melon"}, "weight" : 1},
+				{"data" : {"name" : "minecraft:ghast_tear"}, "weight" : 1}
+			],
+			"each" : true,
+			"quantity" : 8
+		},
+		{	
+			"type" : "SMITH", 
+			"loot" : [
+				{"data" : {"name" : "rustic:elixir", "nbt" : '{ElixirEffects: [{Effect: "rustic:ironskin", Duration: 3600, Amplifier: 0}]}' }, "weight" : 4},
+				{"data" : {"name" : "rustic:elixir", "nbt" : '{ElixirEffects: [{Effect: "potioncore:repair", Duration: 3600, Amplifier: 0}]}' }, "weight" : 6},
+				{"data" : {"name" : "quark:rune", "meta" : 0}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 1}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 2}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 3}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 4}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 5}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 6}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 7}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 8}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 9}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 10}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 11}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 12}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 13}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 14}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 15}, "weight" : 1}
+			],
+			"level" : [0,1,2,3,4],
+			"each" : true,
+			"quantity" : 2
+		},
+		{
+			"level" : [0, 1, 2, 3, 4],
+			"type" : "BREWING",
+			"loot" : [
+				{"data" : {"name" : "minecraft:glass_bottle", "min" : 2, "max" : 7}, "weight" : 1}
+			],
+			"each" : true,
+			"quantity" : 2
+		},
+		{
+			"level" : [0, 1, 2, 3, 4],
+			"type" : "ENCHANTING",
+			"loot" : [
+				{"data" : {"name" : "minecraft:experience_bottle", "min" : 5, "max" : 15}, "weight" : 2},
+				{"data" : {"name" : "minecraft:book", "min" : 1, "max" : 3}, "weight" : 1}
+			],
+			"each" : true,
+			"quantity" : 1
+		}
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"name" : "magiculture:main_jungle",
+	"exclusive" : true,
+	"criteria" : {
+		"dimensionWL" : 0,
+		"biomeTypes" : [
+			"JUNGLE"
+		],
+		"weight" : 5
+	},
+	"inherit" : [
+		"magiculture:tower_jungle",
+		"magiculture:layout",
+		"magiculture:rooms_swamp",
+		"magiculture:segments_swamp",
+		"magiculture:spawners_swamp",
+		"magiculture:theme_jungle",
+		"magiculture:loot",
+		"magiculture:filters_swamp"
+	]
+}

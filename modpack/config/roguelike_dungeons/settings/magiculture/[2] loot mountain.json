@@ -1,0 +1,12 @@
+{
+	"name" : "magiculture:loot_mountain",
+	"inherit" : [
+		"magiculture:loot0",
+		"magiculture:loot1",
+		"magiculture:loot2",
+		"magiculture:loot3",
+		"magiculture:loot4_end",
+		"magiculture:loot_all",
+		"magiculture:loot_treasure"
+	]
+}

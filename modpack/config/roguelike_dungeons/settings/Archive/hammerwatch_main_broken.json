@@ -1,0 +1,21 @@
+{
+	"name" : "hammerwatch:main",
+	"exclusive" : true,
+	"criteria" : {
+		"biomeTypes" : [
+			"PLAINS"
+		]
+	},
+	"inherit":[
+		"default:loot_all"  
+	],
+	"tower":{
+        "type":"RUIN",
+        "theme":{
+            "base":"CRYPT"
+        }
+    },
+	"filters":[
+        {"level":1, "name":"vine"}
+    ]
+}

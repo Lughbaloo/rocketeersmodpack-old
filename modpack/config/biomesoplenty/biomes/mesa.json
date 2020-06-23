@@ -1,0 +1,15 @@
+{
+  "generators": {
+    "desertgrass": {
+      "with": {
+        "block": "biomesoplenty:plant_0",
+        "properties": {
+          "variant": "desertgrass"
+        }
+      },
+      "generationAttempts": 32,
+      "amountPerChunk": 8,
+      "enable": true
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+	"name" : "magiculture:tower_jungle",
+	"tower" : {
+        "type" : "PYRAMID",
+        "theme" : {
+            "base" : "JUNGLE",
+            "primary": {
+				"walls" : {
+					"type" : "WEIGHTED",
+					"data" : [
+						{"type" : "METABLOCK", "data" : {"name" : "mossy_cobblestone", "meta" : 0}, "weight" : 12},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestone", "meta" : 2}, "weight" : 12},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestone2", "meta" : 2}, "weight" : 6},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestonemossy", "meta" : 1}, "weight" : 8},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestonemossy", "meta" : 2}, "weight" : 4}
+					]
+				},
+					"pillar" : {
+						"type" : "WEIGHTED",
+						"data" : [
+							{"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestonemossy1", "meta" : 12}, "weight" : 8},
+							{"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestone2", "meta" : 4}, "weight" : 2}
+						]
+				},
+					"stair" : {
+						"type" : "METABLOCK",
+						"data" : {
+							"name" : "stone_stairs"
+						}
+					}
+				},
+			"secondary": {
+				"walls" : {
+					"type" : "WEIGHTED",
+					"data" : [
+						{"type" : "METABLOCK", "data" : {"name" : "mossy_cobblestone", "meta" : 0}, "weight" : 12},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestone", "meta" : 2}, "weight" : 12},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestone2", "meta" : 2}, "weight" : 4},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestonemossy", "meta" : 1}, "weight" : 8},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestonemossy", "meta" : 2}, "weight" : 4}
+					]
+				},
+					"pillar" : {
+					"type" : "WEIGHTED",
+					"data" : [
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestonemossy1", "meta" : 12}, "weight" : 8},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestone2", "meta" : 4}, "weight" : 2}
+					]
+				},
+					"stair" : {
+						"type" : "METABLOCK",
+						"data" : {
+							"name" : "stone_stairs"
+						}
+					}
+				}
+        }
+    }
+}

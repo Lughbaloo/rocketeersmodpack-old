@@ -1,0 +1,47 @@
+{
+  "canGenerateRivers": true,
+  "variationBelow": 40.0,
+  "variationAbove": 100.0,
+  "averageHeight": 120.0,
+  "canSpawnInBiome": true,
+  "generators": {
+    "water_reeds": {
+      "with": {
+        "block": "biomesoplenty:plant_1",
+        "properties": {
+          "variant": "reed"
+        }
+      },
+      "generationAttempts": 32,
+      "amountPerChunk": 4,
+      "enable": true
+    },
+    "mud_splatter": {
+      "with": {
+        "block": "biomesoplenty:mud",
+        "properties": {
+          "variant": "mud"
+        }
+      },
+      "generationAttempts": 64,
+      "amountPerChunk": 8,
+      "enable": true
+    },
+    "rafflesia": {
+      "with": {
+        "block": "biomesoplenty:plant_1",
+        "properties": {
+          "variant": "rafflesia"
+        }
+      },
+      "generationAttempts": 32,
+      "amountPerChunk": 0.3,
+      "enable": true
+    },
+    "grass": {
+      "amountPerChunk": 64.0,
+      "enable": true,
+      "generators": {}
+    }
+	}
+}

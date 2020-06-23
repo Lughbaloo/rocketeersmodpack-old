@@ -1,0 +1,52 @@
+{
+	"name" : "magiculture:tower_forest",
+	"tower" : {
+        "type" : "HOUSE",
+        "theme" : {
+            "base" : "HOUSE",
+            "primary": {
+					"walls" : {
+                        "type" : "WEIGHTED", 
+                        "data" : [
+                            {"type" : "METABLOCK", "data" : {"name" : "minecraft:brick_block", "meta" : 0}, "weight" : 1}
+                        ]
+                    },
+					"pillar" : {
+						"type" : "METABLOCK",
+						"data" : {
+							"name" : "chisel:granite",
+							"meta" : 7
+						}
+					},
+					"stair" : {
+						"type" : "METABLOCK",
+						"data" : {
+							"name" : "minecraft:brick_stairs"
+						}
+					}
+				},
+				"secondary": {
+					"walls" : {
+                        "type" : "METABLOCK",
+						"data" : {
+							"name" : "minecraft:planks",
+							"meta" : 0
+						}
+                    },
+					"pillar" : {
+						"type" : "METABLOCK",
+						"data" : {
+							"name" : "rustic:granite_pillar",
+							"meta" : 0
+						}
+					},
+					"stair" : {
+						"type" : "METABLOCK",
+						"data" : {
+							"name" : "minecraft:oak_stairs"
+						}
+					}
+				}
+        }
+    }
+}

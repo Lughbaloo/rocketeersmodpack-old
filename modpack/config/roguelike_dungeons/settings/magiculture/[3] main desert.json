@@ -1,0 +1,21 @@
+{
+	"name" : "magiculture:main_desert",
+	"exclusive" : true,
+	"criteria" : {
+		"dimensionWL" : 0,
+		"biomeTypes" : [
+			"SANDY"
+		],
+		"weight" : 5
+	},
+	"inherit" : [
+		"magiculture:tower_desert",
+		"magiculture:layout",
+		"magiculture:rooms_desert",
+		"magiculture:segments_desert",
+		"magiculture:spawners_desert",
+		"magiculture:theme_desert",
+		"magiculture:loot",
+		"magiculture:filters_desert"
+	]
+}

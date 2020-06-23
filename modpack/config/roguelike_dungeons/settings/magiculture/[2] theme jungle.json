@@ -1,0 +1,221 @@
+{
+	"name" : "magiculture:theme_jungle",
+	"themes" : [
+		{
+			"level" : 0,
+			"base" : "MUDDY",
+			"primary" : {
+				"walls" : {
+					"type" : "WEIGHTED",
+					"data" : [
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:dirt", "meta" : 0}, "weight" : 9},
+						{"type" : "METABLOCK", "data" : {"name" : "dirt", "meta" : 1}, "weight" : 5},
+						{"type" : "METABLOCK", "data" : {"name" : "cobblestone", "meta" : 0}, "weight" : 1},
+						{"type" : "METABLOCK", "data" : {"name" : "mossy_cobblestone", "meta" : 0}, "weight" : 2}
+					]
+				},
+				"floor" : {
+					"type" : "WEIGHTED",
+					"data" : [
+						{"type" : "METABLOCK", "data" : {"name" : "minecraft:grass", "meta" : 0}, "weight" : 12},
+						{"type" : "METABLOCK", "data" : {"name" : "minecraft:clay", "meta" : 0}, "weight" : 2},
+						{"type" : "METABLOCK", "data" : {"name" : "minecraft:dirt", "meta" : 1}, "weight" : 5}
+					]
+				},
+				"pillar" : {
+						"type" : "WEIGHTED",
+						"data" : [
+							{"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestonemossy1", "meta" : 12}, "weight" : 8},
+							{"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestone2", "meta" : 4}, "weight" : 2}
+						]
+					},
+				"stair" : {"type" : "METABLOCK", "data" : {"name" : "stone_stairs"}}
+			},
+			"secondary" : {
+				"walls" : {
+					"type" : "WEIGHTED",
+					"data" : [
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestone", "meta" : 1}, "weight" : 1},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestone", "meta" : 2}, "weight" : 3},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestonemossy", "meta" : 1}, "weight" : 8}
+					]
+				},
+				"pillar" : {
+						"type" : "WEIGHTED",
+						"data" : [
+							{"type" : "METABLOCK", "data" : {"name" : "minecraft:cobblestone", "meta" : 1}, "weight" : 8},
+							{"type" : "METABLOCK", "data" : {"name" : "minecraft:mossy_cobblestone", "meta" : 3}, "weight" : 2}
+						]
+					},
+				"stair" : {"type" : "METABLOCK", "data" : {"name" : "stone_stairs"}}
+			}
+		},
+		{
+			"level" : 1,
+			"base" : "MUDDY",
+			"primary" : {
+				"walls" : {
+					"type" : "WEIGHTED",
+					"data" : [
+						{"type" : "METABLOCK", "data" : {"name" : "dirt", "meta" : 1}, "weight" : 4},
+						{"type" : "METABLOCK", "data" : {"name" : "clay", "meta" : 0}, "weight" : 3},
+						{"type" : "METABLOCK", "data" : {"name" : "cobblestone", "meta" : 0}, "weight" : 2},
+						{"type" : "METABLOCK", "data" : {"name" : "mossy_cobblestone", "meta" : 0}, "weight" : 5}
+					]
+				},
+				"floor" : {
+					"type" : "WEIGHTED",
+					"data" : [
+						{"type" : "METABLOCK", "data" : {"name" : "animania:block_mud", "meta" : 0}, "weight" : 6},
+						{"type" : "METABLOCK", "data" : {"name" : "dirt", "meta" : 1}, "weight" : 5},
+						{"type" : "METABLOCK", "data" : {"name" : "clay", "meta" : 0}, "weight" : 3},
+						{"type" : "METABLOCK", "data" : {"name" : "mycelium", "meta" : 0}, "weight" : 6}
+					]
+				},
+				"pillar" : {
+						"type" : "WEIGHTED",
+						"data" : [
+							{"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestonemossy1", "meta" : 12}, "weight" : 8},
+							{"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestone2", "meta" : 4}, "weight" : 2}
+						]
+					},
+				"stair" : {"type" : "METABLOCK", "data" : {"name" : "stone_stairs"}},
+				"door" : {"name" : "iron_door"}
+			},
+			"secondary" : {
+				"walls" : {
+					"type" : "WEIGHTED",
+					"data" : [
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestone", "meta" : 1}, "weight" : 1},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestone", "meta" : 2}, "weight" : 3},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestonemossy", "meta" : 1}, "weight" : 8}
+					]
+				},
+				"floor" : {
+					"type" : "WEIGHTED",
+					"data" : [
+						{"type" : "METABLOCK", "data" : {"name" : "minecraft:grass", "meta" : 0}, "weight" : 12},
+						{"type" : "METABLOCK", "data" : {"name" : "minecraft:clay", "meta" : 0}, "weight" : 2},
+						{"type" : "METABLOCK", "data" : {"name" : "minecraft:dirt", "meta" : 1}, "weight" : 5}
+					]
+				},
+				"pillar" : {
+						"type" : "WEIGHTED",
+						"data" : [
+							{"type" : "METABLOCK", "data" : {"name" : "minecraft:cobblestone", "meta" : 1}, "weight" : 8},
+							{"type" : "METABLOCK", "data" : {"name" : "minecraft:mossy_cobblestone", "meta" : 3}, "weight" : 2}
+						]
+					},
+				"stair" : {"type" : "METABLOCK", "data" : {"name" : "stone_stairs"}}
+			}
+		},
+		{
+			"level" : 2,
+			"primary" : {
+				"walls" : {
+					"type" : "WEIGHTED",
+					"data" : [
+						{"type" : "METABLOCK", "data" : {"name" : "minecraft:cobblestone", "meta" : 1}, "weight" : 2},
+						{"type" : "METABLOCK", "data" : {"name" : "minecraft:mossy_cobblestone", "meta" : 0}, "weight" : 3},
+						{"type" : "METABLOCK", "data" : {"name" : "quark:limestone", "meta" : 3}, "weight" : 8},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestone", "meta" : 12}, "weight" : 2},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestone", "meta" : 13}, "weight" : 1},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestone", "meta" : 14}, "weight" : 2},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestonemossy", "meta" : 12}, "weight" : 2},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestonemossy", "meta" : 13}, "weight" : 1},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestonemossy", "meta" : 14}, "weight" : 2}
+					]
+				},
+				"floor" : {
+					"type" : "WEIGHTED",
+					"data" : [
+						{"type" : "METABLOCK", "data" : {"name" : "minecraft:cobblestone", "meta" : 1}, "weight" : 2},
+						{"type" : "METABLOCK", "data" : {"name" : "minecraft:mossy_cobblestone", "meta" : 0}, "weight" : 3},
+						{"type" : "METABLOCK", "data" : {"name" : "quark:limestone", "meta" : 3}, "weight" : 8},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestone", "meta" : 12}, "weight" : 2},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestone", "meta" : 13}, "weight" : 1},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestone", "meta" : 14}, "weight" : 2},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestonemossy", "meta" : 12}, "weight" : 2},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestonemossy", "meta" : 13}, "weight" : 1},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestonemossy", "meta" : 14}, "weight" : 2}
+					]
+				},
+				"stair" : {"type" : "METABLOCK", "data" : {"name" : "stone_stairs"}},
+				"pillar" : {
+					"type" : "WEIGHTED",
+					"data" : [
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestonemossy1", "meta" : 12}, "weight" : 8},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestone2", "meta" : 4}, "weight" : 2}
+					]
+				},
+				"door" : {"name" : "iron_door"}
+			},
+			"secondary" : {
+				"walls" : {"type" : "METABLOCK", "data" : {"name" : "planks", "meta" : 3}},
+				"pillar" : {"type" : "METABLOCK", "data" : {"name" : "log", "meta" : 3}},
+				"stair" : {"type" : "METABLOCK", "data" : {"name" : "jungle_stairs"}}
+			}
+		},
+		{
+			"level" : 3,
+			"primary" : {
+				"walls" : {
+					"type" : "WEIGHTED",
+					"data" : [
+						{"type" : "METABLOCK", "data" : {"name" : "quark:limestone", "meta" : 0}, "weight" : 9},
+						{"type" : "METABLOCK", "data" : {"name" : "quark:world_stone_bricks", "meta" : 5}, "weight" : 1}
+					]
+				},
+				"floor" : {
+					"type" : "WEIGHTED",
+					"data" : [
+						{"type" : "METABLOCK", "data" : {"name" : "quark:limestone", "meta" : 0}, "weight" : 9},
+						{"type" : "METABLOCK", "data" : {"name" : "quark:world_stone_bricks", "meta" : 5}, "weight" : 1}
+					]
+				},
+				"pillar" : {
+					"type" : "WEIGHTED",
+					"data" : [
+						{"type" : "METABLOCK", "data" : {"name" : "quark:limestone", "meta" : 0}, "weight" : 9},
+						{"type" : "METABLOCK", "data" : {"name" : "quark:world_stone_bricks", "meta" : 5}, "weight" : 1}
+					]
+				},
+				"stair" : {"type" : "METABLOCK", "data" : {"name" : "quark:stone_limestone_stairs"}},
+				"door" : {"name" : "iron_door"}
+			},
+			"secondary" : {
+				"walls" : {"type" : "METABLOCK", "data" : {"name" : "planks", "meta" : 0}},
+				"pillar" : {"type" : "METABLOCK", "data" : {"name" : "log", "meta" : 0}},
+				"stair" : {"type" : "METABLOCK", "data" : {"name" : "oak_stairs"}}
+			}
+		},
+		{
+			"level" : 4,
+			"primary" : {
+				"walls" : {
+					"type" : "WEIGHTED",
+					"data" : [
+						{"type" : "METABLOCK", "data" : {"name" : "quark:biome_cobblestone", "meta" : 0}, "weight" : 24},
+						{"type" : "METABLOCK", "data" : {"name" : "minecraft:magma", "meta" : 0}, "weight" : 1},
+						{"type" : "METABLOCK", "data" : {"name" : "ceramics:clay_hard", "meta" : 5}, "weight" : 16}
+					]
+				},
+				"floor" : {
+					"type" : "WEIGHTED",
+					"data" : [
+						{"type" : "METABLOCK", "data" : {"name" : "botania:altgrass", "meta" : 3}, "weight" : 12},
+						{"type" : "METABLOCK", "data" : {"name" : "quark:biome_cobblestone", "meta" : 0}, "weight" : 24},
+						{"type" : "METABLOCK", "data" : {"name" : "minecraft:magma", "meta" : 0}, "weight" : 2}
+					]
+				},
+				"stair" : {"type" : "METABLOCK", "data" : {"name" : "ceramics:lava_bricks_stairs"}},
+				"pillar" : {"type" : "METABLOCK", "data" : {"name" : "obsidian"}}
+			},
+			"secondary" : {
+				"walls" : {"type" : "METABLOCK", "data" : {"name" : "ceramics:clay_hard", "meta" : 5}},
+				"stair" : {"type" : "METABLOCK", "data" : {"name" : "ceramics:lava_bricks_stairs"}},
+				"pillar" : {"type" : "METABLOCK", "data" : {"name" : "ceramics:clay_hard", "meta" : 5}}
+			}
+		}
+	]
+}

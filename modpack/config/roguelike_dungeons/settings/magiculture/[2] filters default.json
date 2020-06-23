@@ -1,0 +1,7 @@
+{
+	"name" : "magiculture:filters",
+	"filters" : [
+		{"level" : 3, "name" : "mud"},
+		{"level" : 3, "name" : "vine"}
+	]
+}

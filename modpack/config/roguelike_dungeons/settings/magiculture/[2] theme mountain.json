@@ -1,0 +1,159 @@
+{
+	"name" : "magiculture:theme_mountain",
+	"themes" : [
+		{
+			"level" : 0,
+			"base" : "ENIKO",
+			"primary" : {
+				"walls" : {
+					"type" : "WEIGHTED",
+					"data" : [
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestone", "meta" : 1}, "weight" : 24},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestone", "meta" : 2}, "weight" : 4},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestone2", "meta" : 2}, "weight" : 1}
+					]
+				}
+			},
+			"secondary" : {
+				"walls" : {
+					"type" : "WEIGHTED",
+					"data" : [
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestone", "meta" : 1}, "weight" : 24},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestone", "meta" : 2}, "weight" : 4},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestone2", "meta" : 2}, "weight" : 1}
+					]
+				}
+			}
+		},
+		{
+			"level" : 1,
+			"base" : "ENIKO2",
+			"primary" : {
+				"walls" : {
+					"type" : "WEIGHTED",
+					"data" : [
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestone", "meta" : 1}, "weight" : 24},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestone", "meta" : 2}, "weight" : 12},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestonemossy", "meta" : 1}, "weight" : 8}
+					]
+				}
+			},
+			"secondary" : {
+				"walls" : {
+					"type" : "WEIGHTED",
+					"data" : [
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestone", "meta" : 1}, "weight" : 24},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestone", "meta" : 2}, "weight" : 8},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestonemossy", "meta" : 1}, "weight" : 8}
+					]
+				}
+			}
+		},
+		{
+			"level" : 2,
+			"primary" : {
+				"walls" : {
+					"type" : "WEIGHTED",
+					"data" : [
+						{"type" : "METABLOCK", "data" : {"name" : "quark:biome_cobblestone", "meta" : 1}, "weight" : 27},
+						{"type" : "METABLOCK", "data" : {"name" : "minecraft:packed_ice", "meta" : 0}, "weight" : 8}
+					]
+				},
+				"floor" : {
+					"type" : "WEIGHTED",
+					"data" : [
+						{"type" : "METABLOCK", "data" : {"name" : "quark:biome_cobblestone", "meta" : 1}, "weight" : 8},
+						{"type" : "METABLOCK", "data" : {"name" : "minecraft:packed_ice", "meta" : 0}, "weight" : 16},
+						{"type" : "METABLOCK", "data" : {"name" : "minecraft:ice", "meta" : 0}, "weight" : 2}
+					]
+				},
+				"pillar" : {
+					"type" : "WEIGHTED",
+					"data" : [
+						{"type" : "METABLOCK", "data" : {"name" : "quark:biome_cobblestone", "meta" : 1}, "weight" : 1}
+					]
+				},
+				"stair" : {"type" : "METABLOCK", "data" : {"name" : "quark:icy_stone_stairs"}},
+				"door" : {"name" : "iron_door"}
+			},
+			"secondary" : {
+				"walls" : {
+					"type" : "WEIGHTED",
+					"data" : [
+						{"type" : "METABLOCK", "data" : {"name" : "quark:biome_cobblestone", "meta" : 1}, "weight" : 1}
+					]
+				},
+				"stair" : {"type" : "METABLOCK", "data" : {"name" : "quark:icy_stone_stairs"}},
+				"pillar" : {"type" : "METABLOCK", "data" : {"name" : "quark:biome_cobblestone", "meta" : 1}}
+			}
+		},
+		{
+			"level" : 3,
+			"primary" : {
+				"walls" : {
+					"type" : "WEIGHTED",
+					"data" : [
+						{"type" : "METABLOCK", "data" : {"name" : "astralsorcery:blockmarble", "meta" : 0}, "weight" : 4},
+						{"type" : "METABLOCK", "data" : {"name" : "astralsorcery:blockmarble", "meta" : 1}, "weight" : 20}
+					]
+				},
+				"floor" : {
+					"type" : "WEIGHTED",
+					"data" : [
+						{"type" : "METABLOCK", "data" : {"name" : "astralsorcery:blockmarble", "meta" : 0}, "weight" : 1}
+					]
+				},
+				"stair" : {"type" : "METABLOCK", "data" : {"name" : "quark:stone_marble_bricks_stairs"}},
+				"pillar" : {"type" : "METABLOCK", "data" : {"name" : "astralsorcery:blockmarble", "meta" : 2}},
+				"door" : {"name" : "iron_door"}
+			},
+			"secondary" : {
+				"walls" : {
+					"type" : "WEIGHTED",
+					"data" : [
+						{"type" : "METABLOCK", "data" : {"name" : "astralsorcery:blockmarble", "meta" : 1}, "weight" : 1}
+					]
+				},
+				"stair" : {"type" : "METABLOCK", "data" : {"name" : "quark:stone_marble_bricks_stairs"}},
+				"pillar" : {"type" : "METABLOCK", "data" : {"name" : "astralsorcery:blockmarble", "meta" : 4}}
+			}
+		},
+		{
+			"level" : 4,
+			"primary" : {
+				"walls" : {
+					"type" : "WEIGHTED",
+					"data" : [
+						{"type" : "METABLOCK", "data" : {"name" : "minecraft:end_bricks", "meta" : 0}, "weight" : 24},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:endstone", "meta" : 2}, "weight" : 7},
+						{"type" : "METABLOCK", "data" : {"name" : "minecraft:end_stone", "meta" : 0}, "weight" : 3},
+						{"type" : "METABLOCK", "data" : {"name" : "quark:biotite_ore", "meta" : 0}, "weight" : 2}
+					]
+				},
+				"floor" : {
+					"type" : "WEIGHTED",
+					"data" : [
+						{"type" : "METABLOCK", "data" : {"name" : "minecraft:end_stone", "meta" : 0}, "weight" : 8},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:endstone1", "meta" : 8}, "weight" : 32},
+						{"type" : "METABLOCK", "data" : {"name" : "quark:biotite_ore", "meta" : 0}, "weight" : 2},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:glowstone1", "meta" : 12}, "weight" : 1},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:purpur", "meta" : 0}, "weight" : 15}
+					]
+				},
+				"stair" : {"type" : "METABLOCK", "data" : {"name" : "quark:end_bricks_stairs"}},
+				"pillar" : {"type" : "METABLOCK", "data" : {"name" : "obsidian"}},
+				"door" : {"name" : "iron_door"}
+			},
+			"secondary" : {
+				"walls" : {
+					"type" : "WEIGHTED",
+					"data" : [
+						{"type" : "METABLOCK", "data" : {"name" : "purpur_block"}, "weight" : 5}
+					]
+				},
+				"stair" : {"type" : "METABLOCK", "data" : {"name" : "purpur_stairs"}},
+				"pillar" : {"type" : "METABLOCK", "data" : {"name" : "purpur_pillar"}}
+			}
+		}
+	]
+}

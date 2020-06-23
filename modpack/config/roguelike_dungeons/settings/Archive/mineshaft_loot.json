@@ -1,0 +1,11 @@
+{
+	"name" : "mineshaft:loot",
+	"inherit" : [
+		"mineshaft:loot0",
+		"mineshaft:loot1",
+		"mineshaft:loot2",
+		"mineshaft:loot3",
+		"mineshaft:loot4",
+		"mineshaft:loot_all"
+	]
+}

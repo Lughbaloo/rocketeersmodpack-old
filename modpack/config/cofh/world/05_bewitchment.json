@@ -1,0 +1,120 @@
+{
+	"dependencies": "bewitchment",
+	"populate": {
+		"amethyst_ore": {
+			"enabled": "true",
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "amethyst_ore"
+				},
+				"material": "minecraft:stone",
+				"cluster-size": 5
+			},
+			"cluster-count": 5,
+			"min-height": 2,
+			"max-height": 75,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"garnet_ore": {
+			"enabled": "true",
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "garnet_ore"
+				},
+				"material": "minecraft:stone",
+				"cluster-size": 0
+			},
+			"cluster-count": 0,
+			"min-height": 2,
+			"max-height": 75,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"silver_ore": {
+			"enabled": "true",
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "silver_ore"
+				},
+				"material": "minecraft:stone",
+				"cluster-size": 0
+			},
+			"cluster-count": 0,
+			"min-height": 2,
+			"max-height": 75,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"opal_ore": {
+			"enabled": "true",
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "opal_ore"
+				},
+				"material": "minecraft:stone",
+				"cluster-size": 0
+			},
+			"cluster-count": 0,
+			"min-height": 2,
+			"max-height": 75,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"salt_ore": {
+			"enabled": "true",
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "salt_ore"
+				},
+				"material": "minecraft:stone",
+				"cluster-size": 0
+			},
+			"cluster-count": 0,
+			"min-height": 2,
+			"max-height": 75,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		}
+	}
+}

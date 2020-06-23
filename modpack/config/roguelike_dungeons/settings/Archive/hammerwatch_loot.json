@@ -1,0 +1,11 @@
+{
+	"name" : "hammerwatch:loot",
+	"inherit" : [
+		"hammerwatch:loot0",
+		"hammerwatch:loot1",
+		"hammerwatch:loot2",
+		"hammerwatch:loot3",
+		"hammerwatch:loot4",
+		"hammerwatch:loot_all"
+	]
+}

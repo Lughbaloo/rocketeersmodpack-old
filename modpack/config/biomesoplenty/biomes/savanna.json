@@ -1,0 +1,21 @@
+{
+  "canGenerateVillages": false,
+  "generators": {
+    "quicksand": {
+      "liquid": {
+        "block": "biomesoplenty:sand",
+        "properties": {
+          "level": "0"
+        }
+      },
+      "amountPerChunk": 0.1,
+      "enable": false,
+      "grassBorderWith": {
+        "block": "minecraft:grass",
+        "properties": {
+          "snowy": "false"
+        }
+      }
+    }
+  }
+}

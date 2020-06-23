@@ -1,0 +1,18 @@
+//Skeleton Miner
+/summon skeleton ~ ~1 ~ {HandItems:[{Count:1,id:iron_pickaxe},{}],ArmorItems:[{},{},{Count:1,id:leather_chestplate,tag:{display:{color:4673362}}},{id:"minecraft:skull",Damage:3,tag:{SkullOwner:{Id:"fc0cbbe8-e2e2-4118-99a4-e4f811e75511",Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTM3ZjhmOTVjMTI1NzU3Y2JmNzY3YTExZjUyYTRlNjY5MWNlMThhMjU5NzhjNjhjZmEzOTEwMzYwZmUifX19"}]}}},Count:1}],CustomName:"Skeleton Miner",HandDropChances:[0.1f,0.0f]}
+
+
+
+//Skeleton Miner (w/ Sharpness)
+/summon skeleton ~ ~1 ~ {HandItems:[{Count:1,id:iron_pickaxe,tag:{ench:[{id:32,lvl:2},{id:34,lvl:2}]}},{}],ArmorItems:[{},{},{Count:1,id:leather_chestplate,tag:{display:{color:4673362}}},{id:"minecraft:skull",Damage:3,tag:{SkullOwner:{Id:"fc0cbbe8-e2e2-4118-99a4-e4f811e75511",Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTM3ZjhmOTVjMTI1NzU3Y2JmNzY3YTExZjUyYTRlNjY5MWNlMThhMjU5NzhjNjhjZmEzOTEwMzYwZmUifX19"}]}}},Count:1}],CustomName:"Skeleton Miner",HandDropChances:[0.1f,0.0f]}
+
+
+
+//Scorched Skeleton (w/ Sharpness and Fire Aspect)
+/summon wither_skeleton ~ ~1 ~ {HandItems:[{Count:1,id:iron_pickaxe,tag:{ench:[{id:16,lvl:3},{id:20,lvl:1}]}},{}],ArmorItems:[{},{},{Count:1,id:leather_chestplate,tag:{display:{color:4673362}}},{id:"minecraft:skull",Damage:3,tag:{SkullOwner:{Id:"7206d9bc-3be7-4c56-9d52-9099960b04c3",Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWYzNmU1M2YzOTU1OTNlZGRjODFlNTExODc4NDU2ZDc3MjRlNTMzMzdhM2Y1YjFkMzI0ZmZiOWUxNjBmNjRjIn19fQ=="}]}}},Count:1}],CustomName:"Scorched Miner",HandDropChances:[0.1f,0.0f]}
+
+
+
+//Undead Miner
+/summon zombie ~ ~1 ~ {HandItems:[{Count:1,id:iron_pickaxe},{}],ArmorItems:[{},{},{Count:1,id:leather_chestplate,tag:{display:{color:4673362}}},{Count:1,id:iron_helmet}],CustomName:"Undead Miner"}
+

@@ -1,0 +1,26 @@
+[
+  {
+    "dimension": 0,
+    "minheight": 52,
+    "hostile": true,
+    "result": "deny"
+  },
+  {
+	"dimension": 0,
+	"minheight": 52,
+    "mod": "jaff",
+    "result": "allow"
+  },
+  {
+	"dimension": 0,
+	"minheight": 52,
+    "mob": "minecraft:squid",
+	"mincount": 16,
+    "result": "deny"
+  },
+  {
+	"dimension": 0,
+	"mod": "primal",
+	"result": "allow"
+  }
+]

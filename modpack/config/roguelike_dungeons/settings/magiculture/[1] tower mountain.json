@@ -1,0 +1,24 @@
+{
+	"name" : "magiculture:tower_mountain",
+	"tower" : {
+        "type" : "ENIKO",
+        "theme" : {
+            "base" : "OAK",
+            "primary": {
+				"walls" : {
+					"type" : "WEIGHTED", 
+					"data" : [
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestone", "meta" : 1}, "weight" : 24},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestone", "meta" : 2}, "weight" : 3}
+					]
+				},
+				"pillar" : {
+					"type" : "METABLOCK", "data" : {"name" : "rustic:stone_pillar", "meta" : 0}
+				},
+				"stair" : {
+					"type" : "METABLOCK", "data" : {"name" : "minecraft:stone_brick_stairs"}
+				}
+			}
+        }
+    }
+}

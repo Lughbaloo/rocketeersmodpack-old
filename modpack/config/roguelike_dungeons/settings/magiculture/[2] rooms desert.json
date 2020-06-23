@@ -1,0 +1,36 @@
+{
+	"name" : "magiculture:rooms_desert",
+	"rooms" : [
+		{"level" : [0, 1, 2, 3], "type" : "random", "name" : "PYRAMIDSPAWNER", "weight" : 10},
+		{"level" : [0, 1, 2, 3], "type" : "random", "name" : "PYRAMIDCORNER", "weight" : 3},
+		{"level" : [1, 2, 3], "type" : "single", "name" : "PYRAMIDTOMB"},
+		
+		{"level" : 0, "type" : "single", "name" : "FIRE"},
+		{"level" : 0, "type" : "single", "name" : "STORAGE"},
+		
+		{"level" : 1, "type" : "single", "name" : "LAB"},
+		{"level" : 1, "type" : "single", "name" : "MESS"},
+		
+		{"level" : [2, 3], "type" : "single", "name" : "OSSUARY"},
+		{"level" : 2, "type" : "single", "name" : "CREEPER"},
+		{"level" : 2, "type" : "single", "name" : "SPIDER"},
+		{"level" : 2, "type" : "random", "name" : "CRYPT", "weight" : 2},
+		{"level" : 2, "type" : "random", "name" : "PRISON", "weight" : 2},
+		
+		{"level" : 3, "type" : "single", "name" : "ENDER"},
+		{"level" : 3, "type" : "random", "name" : "SPIDER", "weight" : 2},
+		{"level" : 3, "type" : "random", "name" : "CREEPER", "weight" : 1},
+		
+		{"level" : 4, "type" : "single", "name" : "REWARD"},
+		{"level" : 4, "type" : "single", "name" : "OBSIDIAN"},
+		{"level" : 4, "type" : "single", "name" : "DARKHALL"},
+		{"level" : 4, "type" : "random", "name" : "NETHER", "weight" : 10},
+		{"level" : 4, "type" : "random", "name" : "NETHERFORT", "weight" : 1},
+		{"level" : 4, "type" : "random", "name" : "REWARD", "weight" : 1},
+		{"level" : 4, "type" : "random", "name" : "BLAZE", "weight" : 2},
+		
+		{"level": 0, "type" : "secret", "name" : "SMITH", "count" : "1"},
+		{"level": 0, "type" : "secret", "name" : "BEDROOM", "count" : "1"},
+		{"level": 1, "type" : "secret", "name" : "BTEAM", "count" : "1"}
+	]
+}

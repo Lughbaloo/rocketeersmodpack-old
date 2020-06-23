@@ -1,0 +1,32 @@
+{
+  "generators": {
+    "algae": {
+      "with": {
+        "block": "biomesoplenty:coral",
+        "properties": {
+          "level": "15",
+          "variant": "algae"
+        }
+      },
+      "generationAttempts": 32,
+      "amountPerChunk": 32.0,
+      "enable": true
+    },
+    "kelp": {
+      "minHeight": 2,
+      "with": {
+        "block": "biomesoplenty:seaweed",
+        "properties": {
+          "level": "15",
+          "position": "single",
+          "variant": "kelp"
+        }
+      },
+      "generationAttempts": 12,
+      "amountPerChunk": 10.0,
+      "maxHeight": 4,
+      "enable": true,
+      "randomDirection": false
+    }
+	}
+}

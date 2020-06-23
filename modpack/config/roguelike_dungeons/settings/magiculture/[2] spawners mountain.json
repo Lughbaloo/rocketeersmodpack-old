@@ -1,0 +1,136 @@
+{
+	"name" : "magiculture:spawners_mountain",
+	"spawners" : [
+		{
+			"type" : "ZOMBIE",
+			"potentials" : [
+				{"name" : "minecraft:zombie", "weight" : 10},
+				{"name" : "minecraft:zombie_villager", "weight" : 1},
+				{"name" : "grimoireofgaia:kobold", "weight" : 1}
+			],
+			"level" : 0
+		},
+		{
+			"type" : "ZOMBIE",
+			"potentials" : [
+				{"name" : "minecraft:zombie", "weight" : 5},
+				{"name" : "minecraft:zombie_villager", "weight" : 1},
+				{"name" : "grimoireofgaia:kobold", "weight" : 1}
+			],
+			"level" : 1
+		},
+		{
+			"type" : "ZOMBIE",
+			"potentials" : [
+				{"name" : "minecraft:zombie", "weight" : 6},
+				{"name" : "minecraft:vindication_illager", "weight" : 4},
+				{"name" : "quark:dweller", "weight" : 2},
+				{"name" : "grimoireofgaia:oni", "weight" : 1}
+			],
+			"level" : 2
+		},
+		{
+			"type" : "ZOMBIE",
+			"potentials" : [
+				{"name" : "minecraft:vindication_illager", "weight" : 12},
+				{"name" : "quark:dweller", "weight" : 5},
+				{"name" : "grimoireofgaia:deathword", "weight" : 1},
+				{"name" : "grimoireofgaia:oni", "weight" : 2}
+			],
+			"level" : 3
+		},
+		{
+			"type" : "ZOMBIE",
+			"potentials" : [
+				{"name" : "minecraft:enderman", "weight" : 15},
+				{"name" : "endthereal:eetle", "weight" : 12},
+				{"name" : "grimoireofgaia:ender_dragon_girl", "weight" : 1}
+			],
+			"level" : 4
+		},
+		{
+			"type" : "SPIDER",
+			"potentials" : [
+				{"name" : "minecraft:spider", "weight" : 1}
+			],
+			"level" : [0, 1]
+		},
+		{
+			"type" : "SPIDER",
+			"potentials" : [
+				{"name" : "minecraft:silverfish", "weight" : 3},
+				{"name" : "thermalfoundation:blizz", "weight" : 2}
+			],
+			"level" : 2
+		},
+		{
+			"type" : "SPIDER",
+			"potentials" : [
+				{"name" : "quark:wraith", "weight" : 1}
+			],
+			"level" : 3
+		},
+		{
+			"type" : "SPIDER",
+			"potentials" : [
+				{"name" : "minecraft:endermite", "weight" : 1},
+				{"name" : "grimoireofgaia:ender_eye", "weight" : 1}
+			],
+			"level" : 4
+		},
+		{
+			"type" : "SKELETON",
+			"potentials" : [
+				{"name" : "minecraft:skeleton", "weight" : 12}
+			],
+			"level" : 0
+		},
+		{
+			"type" : "SKELETON",
+			"potentials" : [
+				{"name" : "minecraft:stray", "weight" : 8}
+			],
+			"level" : 1
+		},
+		{
+			"type" : "SKELETON",
+			"potentials" : [
+				{"name" : "minecraft:stray", "weight" : 10},
+				{"name" : "quark:ashen", "weight" : 2}
+			],
+			"level" : 2
+		},
+		{
+			"type" : "SKELETON",
+			"potentials" : [
+				{"name" : "minecraft:stray", "weight" : 12},
+				{"name" : "quark:ashen", "weight" : 8},
+				{"name" : "grimoireofgaia:dhampir", "weight" : 1}
+			],
+			"level" : 3
+		},
+		{
+			"type" : "SKELETON",
+			"potentials" : [
+				{"name" : "minecraft:stray", "weight" : 12},
+				{"name" : "quark:ashen", "weight" : 8}
+			],
+			"level" : 4
+		},
+		{
+			"type" : "CREEPER",
+			"potentials" : [
+				{"name" : "minecraft:creeper", "weight" : 5},
+				{"name" : "grimoireofgaia:creep", "weight" : 1}
+			],
+			"level" : [0, 1, 2, 3, 4]
+		},
+		{
+			"type" : "ENDERMAN",
+			"potentials" : [
+				{"name" : "minecraft:enderman", "weight" : 3}
+			],
+			"level" : 3
+		}
+	]
+}

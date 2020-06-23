@@ -1,0 +1,9 @@
+{
+	"name" : "mineshaft:tower",
+	"tower" : {
+		"type" : "HOLE",
+		"theme" : {
+			"base" : "MINESHAFT"
+		}
+	}
+}

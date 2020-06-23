@@ -1,0 +1,61 @@
+{
+"topBlock": {
+    "block": "biomesoplenty:grass",
+    "properties": {
+      "snowy": "false",
+      "variant": "sandy"
+    }
+  },
+  "canSpawnInBiome": true,
+  "generators": {
+    "dunegrass": {
+      "with": {
+        "block": "biomesoplenty:plant_1",
+        "properties": {
+          "variant": "dunegrass"
+        }
+      },
+      "generationAttempts": 8,
+      "amountPerChunk": 14.0,
+      "enable": true
+    },
+	"grass": {
+      "amountPerChunk": 4,
+      "enable": true,
+      "generators": {}
+    },
+    "tiny_cacti": {
+      "with": {
+        "block": "biomesoplenty:plant_1",
+        "properties": {
+          "variant": "tinycactus"
+        }
+      },
+      "generationAttempts": 8,
+      "amountPerChunk": 3,
+      "enable": true
+    },
+    "desert_sprouts": {
+      "with": {
+        "block": "biomesoplenty:plant_0",
+        "properties": {
+          "variant": "desertsprouts"
+        }
+      },
+      "generationAttempts": 8,
+      "amountPerChunk": 5.0,
+      "enable": false
+    },
+    "desertgrass": {
+      "with": {
+        "block": "biomesoplenty:plant_0",
+        "properties": {
+          "variant": "desertgrass"
+        }
+      },
+      "generationAttempts": 8,
+      "amountPerChunk": 8.0,
+      "enable": true
+    }
+	}
+}

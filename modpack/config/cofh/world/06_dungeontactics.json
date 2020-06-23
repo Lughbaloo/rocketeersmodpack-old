@@ -1,0 +1,74 @@
+{
+	"dependencies": "dungeontactics",
+	"populate": {
+		"silver_ore": {
+			"enabled": "true",
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "silver_ore"
+				},
+				"material": "minecraft:stone",
+				"cluster-size": 5
+			},
+			"cluster-count": 5,
+			"min-height": 2,
+			"max-height": 75,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"mithril_ore": {
+			"enabled": "true",
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "mithril_ore"
+				},
+				"material": "minecraft:stone",
+				"cluster-size": 0
+			},
+			"cluster-count": 0,
+			"min-height": 2,
+			"max-height": 75,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"stonequartz_ore": {
+			"enabled": "true",
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "stonequartz_ore"
+				},
+				"material": "minecraft:stone",
+				"cluster-size": 0
+			},
+			"cluster-count": 0,
+			"min-height": 2,
+			"max-height": 75,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		}
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"name" : "mineshaft:theme",
+	"themes" : [
+		{
+			"level" : [0, 1, 2, 3, 4]
+			"base" : "MINESHAFT"
+		}
+	]
+}

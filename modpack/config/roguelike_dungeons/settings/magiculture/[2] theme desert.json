@@ -1,0 +1,120 @@
+{
+	"name" : "magiculture:theme_desert",
+	"themes" : [
+		{
+			"level" : 0,
+			"base" : "SANDSTONE"
+		},
+		{
+			"level" : 1,
+			"base" : "SANDSTONE",
+			"primary" : {
+				"walls" : {
+					"type" : "WEIGHTED",
+					"data" : [
+						{"type" : "METABLOCK", "data" : {"name" : "quark:sandstone_new", "meta" : 0}, "weight" : 36},
+						{"type" : "METABLOCK", "data" : {"name" : "quark:sandstone_new", "meta" : 1}, "weight" : 18},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:sandstone-scribbles", "meta" : 0}, "weight" : 1},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:sandstone-scribbles", "meta" : 1}, "weight" : 1},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:sandstone-scribbles", "meta" : 2}, "weight" : 1},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:sandstone-scribbles", "meta" : 3}, "weight" : 1},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:sandstone-scribbles", "meta" : 4}, "weight" : 1},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:sandstone-scribbles", "meta" : 5}, "weight" : 1},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:sandstone-scribbles", "meta" : 6}, "weight" : 1},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:sandstone-scribbles", "meta" : 7}, "weight" : 1},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:sandstone-scribbles", "meta" : 8}, "weight" : 1},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:sandstone-scribbles", "meta" : 9}, "weight" : 1},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:sandstone-scribbles", "meta" : 10}, "weight" : 1},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:sandstone-scribbles", "meta" : 11}, "weight" : 1},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:sandstone-scribbles", "meta" : 12}, "weight" : 1},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:sandstone-scribbles", "meta" : 13}, "weight" : 1},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:sandstone-scribbles", "meta" : 14}, "weight" : 1},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:sandstone-scribbles", "meta" : 15}, "weight" : 1}
+					]
+				},
+				"stair" : {"type" : "METABLOCK", "data" : {"name" : "quark:sandstone_bricks_stairs"}},
+				"pillar" : {"type" : "METABLOCK", "data" : {"name" : "quark:sandstone_new", "meta" : 1}}
+			}
+		},
+		{
+			"level" : 2,
+			"base" : "SANDSTONERED",
+			"primary" : {
+				"walls" : {
+					"type" : "WEIGHTED",
+					"data" : [
+						{"type" : "METABLOCK", "data" : {"name" : "quark:sandstone_new", "meta" : 2}, "weight" : 12},
+						{"type" : "METABLOCK", "data" : {"name" : "quark:sandstone_new", "meta" : 3}, "weight" : 6},
+						{"type" : "METABLOCK", "data" : {"name" : "minecraft:red_sandstone", "meta" : 0}, "weight" : 3}
+					]
+				},
+				"stair" : {"type" : "METABLOCK", "data" : {"name" : "quark:red_sandstone_bricks_stairs"}},
+				"pillar" : {"type" : "METABLOCK", "data" : {"name" : "quark:sandstone_new", "meta" : 3}},
+				"door" : {"name" : "iron_door"}
+			}
+		},
+		{
+			"level" : 3,
+			"primary" : {
+				"walls" : {
+					"type" : "WEIGHTED",
+					"data" : [
+						{"type" : "METABLOCK", "data" : {"name" : "quark:soul_sandstone", "meta" : 0}, "weight" : 4},
+						{"type" : "METABLOCK", "data" : {"name" : "quark:sandstone_new", "meta" : 4}, "weight" : 12},
+						{"type" : "METABLOCK", "data" : {"name" : "quark:sandstone_new", "meta" : 5}, "weight" : 8},
+						{"type" : "METABLOCK", "data" : {"name" : "minecraft:soul_sand", "meta" : 0}, "weight" : 3}
+					]
+				},
+				"stair" : {"type" : "METABLOCK", "data" : {"name" : "quark:soul_sandstone_bricks_stairs"}},
+				"pillar" : {"type" : "METABLOCK", "data" : {"name" : "quark:sandstone_new", "meta" : 5}},
+				"door" : {"name" : "iron_door"}
+			},
+			"secondary" : {
+				"walls" : {
+					"type" : "WEIGHTED",
+					"data" : [
+						{"type" : "METABLOCK", "data" : {"name" : "quark:soul_sandstone", "meta" : 1}, "weight" : 1}
+					]
+				},
+				"stair" : {"type" : "METABLOCK", "data" : {"name" : "quark:soul_sandstone_stairs"}},
+				"pillar" : {"type" : "METABLOCK", "data" : {"name" : "quark:soul_sandstone", "meta" : 2}}
+			}
+		},
+		{
+			"level" : 4,
+			"primary" : {
+				"walls" : {
+					"type" : "WEIGHTED",
+					"data" : [
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:netherrack", "meta" : 0}, "weight" : 10},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:netherbrick", "meta" : 1}, "weight" : 32},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:netherbrick", "meta" : 14}, "weight" : 48},
+						{"type" : "METABLOCK", "data" : {"name" : "magma"}, "weight" : 2}
+					]
+				},
+				"floor" : {
+					"type" : "WEIGHTED",
+					"data" : [
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:netherrack", "meta" : 0}, "weight" : 10},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:netherbrick", "meta" : 1}, "weight" : 32},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:netherbrick", "meta" : 14}, "weight" : 48},
+						{"type" : "METABLOCK", "data" : {"name" : "magma"}, "weight" : 5},
+						{"type" : "METABLOCK", "data" : {"name" : "quark:smoker"}, "weight" : 1}
+					]
+				},
+				"stair" : {"type" : "METABLOCK", "data" : {"name" : "nether_brick_stairs"}},
+				"pillar" : {"type" : "METABLOCK", "data" : {"name" : "obsidian"}}
+			},
+			"secondary" : {
+				"walls" : {
+					"type" : "WEIGHTED",
+					"data" : [
+						{"type" : "METABLOCK", "data" : {"name" : "nether_brick"}, "weight" : 5}
+					]
+				},
+				"stair" : {"type" : "METABLOCK", "data" : {"name" : "nether_brick_stairs"}},
+				"pillar" : {"type" : "METABLOCK", "data" : {"name" : "nether_brick"}}
+			}
+		}
+	]
+}

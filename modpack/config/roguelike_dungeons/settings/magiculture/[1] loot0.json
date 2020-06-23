@@ -1,0 +1,240 @@
+{
+	"name" : "magiculture:loot0",
+	"loot_rules" : [
+		{
+			"level" : 0,
+			"type" : "TOOLS",
+			"loot" : [
+				{"data" : {"name" : "embers:pickaxe_copper"}, "weight" : 4},
+				{"data" : {"name" : "embers:axe_copper"}, "weight" : 4},
+				{"data" : {"name" : "embers:shovel_copper"}, "weight" : 4},
+				{"data" : {"name" : "minecraft:stone_pickaxe"}, "weight" : 6},
+				{"data" : {"name" : "minecraft:stone_axe"}, "weight" : 6},
+				{"data" : {"name" : "minecraft:stone_shovel"}, "weight" : 6}
+			],
+			"each" : true,
+			"quantity" : 2
+		},
+		{	
+			"type" : "TOOLS", 
+			"loot" : [
+				{"data" : {"name" : "brick_block", "min" : 8, "max" : 16}, "weight" : 7},
+				{"data" : {"name" : "log", "meta" : 0, "min" : 8, "max" : 16}, "weight" : 5},
+				{"data" : {"name" : "cobblestone", "min" : 8, "max" : 16}, "weight" : 5},
+				{"data" : {"name" : "stonebrick", "min" : 8, "max" : 16}, "weight" : 7},
+				{"data" : {"name" : "glass", "min" : 8, "max" : 16}, "weight" : 5},
+				{"data" : {"name" : "ladder", "min" : 8, "max" : 16}, "weight" : 10},
+				{"data" : {"name" : "rustic:elixir", "nbt" : '{ElixirEffects: [{Effect: "minecraft:haste", Duration: 3600, Amplifier: 0}]}' }, "weight" : 3},
+				{"data" : {"name" : "rustic:elixir", "nbt" : '{ElixirEffects: [{Effect: "minecraft:speed", Duration: 3600, Amplifier: 0}]}' }, "weight" : 3}
+			],
+			"level" : 0,
+			"each" : true,
+			"quantity" : 3
+		},
+		{
+			"level" : 0,
+			"type" : "WEAPONS",
+			"loot" : [
+				{"data" : {"name" : "embers:sword_copper"}, "weight" : 5},
+				{"data" : {"name" : "spartanweaponry:longbow_copper"}, "weight" : 1},
+				{"data" : {"name" : "spartanweaponry:dagger_copper"}, "weight" : 1},
+				{"data" : {"name" : "spartanweaponry:longsword_copper"}, "weight" : 1},
+				{"data" : {"name" : "spartanweaponry:spear_copper"}, "weight" : 1},
+				{"data" : {"name" : "spartanweaponry:battleaxe_copper"}, "weight" : 1},
+				{"data" : {"name" : "spartanweaponry:hammer_copper"}, "weight" : 1},
+				{"data" : {"name" : "spartanweaponry:boomerang_copper"}, "weight" : 1},
+				{"data" : {"name" : "spartanweaponry:greatsword_copper"}, "weight" : 1},
+				{"data" : {"name" : "minecraft:stone_sword"}, "weight" : 9},
+				{"data" : {"name" : "minecraft:bow"}, "weight" : 7},
+				{"data" : {"name" : "spartanweaponry:club_wood"}, "weight" : 2},
+				{"data" : {"name" : "spartanweaponry:longbow_leather"}, "weight" : 2},
+				{"data" : {"name" : "spartanweaponry:boomerang_wood"}, "weight" : 2},
+				{"data" : {"name" : "spartanweaponry:dagger_stone"}, "weight" : 2},
+				{"data" : {"name" : "spartanweaponry:spear_stone"}, "weight" : 2},
+				{"data" : {"name" : "spartanweaponry:battleaxe_stone"}, "weight" : 2},
+				{"data" : {"name" : "spartanweaponry:hammer_stone"}, "weight" : 2},
+				{"data" : {"name" : "spartanweaponry:boomerang_stone"}, "weight" : 2},
+				{"data" : {"name" : "ebwizardry:magic_wand"}, "weight" : 5},
+				{"data" : {"name" : "yoyos:stone_yoyo", "min" : 1, "max" : 1}, "weight" : 2}
+			],
+			"each" : true,
+			"quantity" : 2
+		},
+		{	
+			"type" : "WEAPONS", 
+			"loot" : [
+				{"data" : {"name" : "arrow", "min" : 6, "max" : 9}, "weight" : 36},
+				{"data" : {"name" : "quark:arrow_torch", "min" : 3, "max" : 6}, "weight" : 16},
+				{"data" : {"name" : "quark:arrow_explosive", "min" : 3, "max" : 4}, "weight" : 8},
+				{"data" : {"name" : "web"}, "weight" : 20},
+				{"data" : {"name" : "xreliquary:glowing_water", "min" : 2, "max" : 3}, "weight" : 7},
+				{"data" : {"name" : "rustic:elixir", "nbt" : '{ElixirEffects: [{Effect: "minecraft:strength", Duration: 3600, Amplifier: 0}]}' }, "weight" : 8},
+				{"data" : {"name" : "rustic:elixir", "nbt" : '{ElixirEffects: [{Effect: "potioncore:archery", Duration: 3600, Amplifier: 0}]}' }, "weight" : 5},
+				{"data" : {"name" : "rustic:elixir", "nbt" : '{ElixirEffects: [{Effect: "potioncore:magic_focus", Duration: 3600, Amplifier: 0}]}' }, "weight" : 3},
+				{"data" : {"name" : "dynamicswordskills:skillorb", "meta" : 0, "min" : 1, "max" : 1}, "weight" : 9},
+				{"data" : {"name" : "ebwizardry:scroll", "meta" : 3, "min" : 2, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "ebwizardry:scroll", "meta" : 2, "min" : 2, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "ebwizardry:scroll", "meta" : 17, "min" : 2, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "ebwizardry:scroll", "meta" : 20, "min" : 2, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "ebwizardry:scroll", "meta" : 7, "min" : 2, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "ebwizardry:spell_book", "meta" : 2, "min" : 1, "max" : 1}, "weight" : 1},
+				{"data" : {"name" : "ebwizardry:spell_book", "meta" : 3, "min" : 1, "max" : 1}, "weight" : 1},
+				{"data" : {"name" : "ebwizardry:spell_book", "meta" : 5, "min" : 1, "max" : 1}, "weight" : 1},
+				{"data" : {"name" : "ebwizardry:spell_book", "meta" : 6, "min" : 1, "max" : 1}, "weight" : 1},
+				{"data" : {"name" : "ebwizardry:spell_book", "meta" : 9, "min" : 1, "max" : 1}, "weight" : 1},
+				{"data" : {"name" : "ebwizardry:spell_book", "meta" : 111, "min" : 1, "max" : 1}, "weight" : 1},
+				{"data" : {"name" : "ebwizardry:spell_book", "meta" : 112, "min" : 1, "max" : 1}, "weight" : 1}
+			],
+			"level" : 0,
+			"each" : true,
+			"quantity" : 2
+		},
+		{
+			"level" : 0,
+			"type" : "ARMOUR",
+			"loot" : [
+				{"data" : {"name" : "minecraft:leather_helmet"}, "weight" : 1},
+				{"data" : {"name" : "minecraft:leather_chestplate"}, "weight" : 1},
+				{"data" : {"name" : "minecraft:leather_leggings"}, "weight" : 1},
+				{"data" : {"name" : "minecraft:leather_boots"}, "weight" : 1},
+				{"data" : {"name" : "minecraft:leather_helmet", "ench" : 12}, "weight" : 1},
+				{"data" : {"name" : "minecraft:leather_chestplate", "ench" : 12}, "weight" : 1},
+				{"data" : {"name" : "minecraft:leather_leggings", "ench" : 12}, "weight" : 1},
+				{"data" : {"name" : "minecraft:leather_boots", "ench" : 12}, "weight" : 1},
+				{"data" : {"name" : "minecraft:chainmail_helmet"}, "weight" : 1},
+				{"data" : {"name" : "minecraft:chainmail_chestplate"}, "weight" : 1},
+				{"data" : {"name" : "minecraft:chainmail_leggings"}, "weight" : 1},
+				{"data" : {"name" : "minecraft:chainmail_boots"}, "weight" : 1},
+				{"data" : {"name" : "spartanshields:shield_basic_stone"}, "weight" : 8},
+				{"data" : {"name" : "spartanshields:shield_basic_copper"}, "weight" : 4}
+			],
+			"each" : true,
+			"quantity" : 2
+		},
+		{	
+			"type" : "ARMOUR", 
+			"loot" : [
+				{"data" : {"name" : "web"}, "weight" : 36},
+				{"data" : {"name" : "rustic:elixir", "nbt" : '{ElixirEffects: [{Effect: "minecraft:instant_health", Duration: 1, Amplifier: 0}]}' }, "weight" : 24},
+				{"data" : {"name" : "rustic:elixir", "nbt" : '{ElixirEffects: [{Effect: "minecraft:regeneration", Duration: 900, Amplifier: 0}]}' }, "weight" : 12},
+				{"data" : {"name" : "rustic:elixir", "nbt" : '{ElixirEffects: [{Effect: "minecraft:health_boost", Duration: 3600, Amplifier: 0}]}' }, "weight" : 8},
+				{"data" : {"name" : "ebwizardry:scroll", "meta" : 8, "min" : 2, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "ebwizardry:scroll", "meta" : 10, "min" : 2, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "ebwizardry:scroll", "meta" : 12, "min" : 2, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "ebwizardry:scroll", "meta" : 38, "min" : 2, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "ebwizardry:scroll", "meta" : 123, "min" : 2, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "ebwizardry:spell_book", "meta" : 7, "min" : 1, "max" : 1}, "weight" : 1},
+				{"data" : {"name" : "ebwizardry:spell_book", "meta" : 8, "min" : 1, "max" : 1}, "weight" : 1},
+				{"data" : {"name" : "ebwizardry:spell_book", "meta" : 10, "min" : 1, "max" : 1}, "weight" : 1},
+				{"data" : {"name" : "ebwizardry:spell_book", "meta" : 11, "min" : 1, "max" : 1}, "weight" : 1},
+				{"data" : {"name" : "ebwizardry:spell_book", "meta" : 12, "min" : 1, "max" : 1}, "weight" : 1},
+				{"data" : {"name" : "ebwizardry:spell_book", "meta" : 113, "min" : 1, "max" : 1}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 0}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 1}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 2}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 3}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 4}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 5}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 6}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 7}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 8}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 9}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 10}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 11}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 12}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 13}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 14}, "weight" : 1},
+				{"data" : {"name" : "quark:rune", "meta" : 15}, "weight" : 1}
+			],
+			"level" : 0,
+			"each" : true,
+			"quantity" : 2
+		},
+		{
+			"level" : 0,
+			"type" : "ORE",
+			"loot" : [
+				{"data" : {"name" : "embers:pickaxe_copper"}, "weight" : 6},
+				{"data" : {"name" : "prospectus:item_prospector_copper"}, "weight" : 2},
+				{"data" : {"name" : "embers:pickaxe_copper", "ench" : 12}, "weight" : 6},
+				{"data" : {"name" : "thermalfoundation:tool.hammer_copper"}, "weight" : 3},
+				{"data" : {"name" : "minecraft:stone_pickaxe"}, "weight" : 12}
+			],
+			"each" : true,
+			"quantity" : 1
+		},
+		{
+			"level" : 0,
+			"type" : "ORE",
+			"loot" : [
+				{"data" : {"name" : "coal", "min" : 5, "max" : 8}, "weight" : 10},
+				{"data" : {"name" : "embers:ingot_copper", "meta" : 0, "min" : 3, "max" : 5}, "weight" : 10},
+				{"data" : {"name" : "contenttweaker:cluster_copper", "min" : 3, "max" : 5}, "weight" : 8},
+				{"data" : {"name" : "iron_ingot", "meta" : 0, "min" : 1, "max" : 2}, "weight" : 4},
+				{"data" : {"name" : "contenttweaker:cluster_iron", "min" : 3, "max" : 5}, "weight" : 5},
+				{"data" : {"name" : "ebwizardry:magic_crystal", "meta" : 0, "min" : 3, "max" : 7}, "weight" : 7},
+				{"data" : {"name" : "rustic:elixir", "nbt" : '{ElixirEffects: [{Effect: "minecraft:haste", Duration: 3600, Amplifier: 0}]}' }, "weight" : 3}
+			],
+			"each" : true,
+			"quantity" : 3
+		},
+		{
+			"level" : 0,
+			"type" : "SMITH",
+			"loot" : [
+				{"data" : {"type" : "specialty", "level" : 0}, "weight" : 3},
+				{"data" : {"type" : "specialty", "level" : 1}, "weight" : 1}
+			],
+			"each" : true,
+			"quantity" : 2
+		},
+		{
+			"level" : 0,
+			"loot" : [
+				{"data" : {"name" : "minecraft:stick"}, "weight" : 2},
+				{"data" : {"name" : "minecraft:leather"}, "weight" : 2},
+				{"data" : {"name" : "minecraft:gunpowder"}, "weight" : 1},
+				{"data" : {"name" : "minecraft:flint"}, "weight" : 1},
+				{"data" : {"name" : "minecraft:paper"}, "weight" : 1},
+				{"data" : {"name" : "minecraft:book"}, "weight" : 1},
+				{"data" : {"name" : "minecraft:clay_ball"}, "weight" : 1},
+				{"data" : {"name" : "minecraft:bone"}, "weight" : 1},
+				{"data" : {"name" : "minecraft:string"}, "weight" : 1},
+				{"data" : {"name" : "minecraft:rotten_flesh"}, "weight" : 1},
+				{"data" : {"name" : "minecraft:feather"}, "weight" : 1},
+				{"data" : {"name" : "ebwizardry:magic_crystal"}, "weight" : 1},
+				{"data" : {"name" : "minecraft:torch", "min" : 3, "max" : 6}, "weight" : 5},
+				{"data" : {"name" : "web", "meta" : 0}, "weight" : 16}
+			],
+			"each" : true,
+			"quantity" : 6
+		},
+		{
+			"level" : 0,
+			"loot" : [
+				{"data" : {"type" : "enchanted_book", "ench" : 8}, "weight" : 8},
+				{"data" : {"type" : "specialty", "level" : 0, "quality" : "stone"}, "weight" : 2},
+				{"data" : {"type" : "specialty", "level" : 0, "quality" : "iron"}, "weight" : 1},
+				{"data" : {"name" : "experience_bottle", "min" : 2, "max" : 4}, "weight" : 6},
+				{"data" : {"name" : "qualitytools:emerald_ring", "meta" : 0}, "weight" : 2},
+				{"data" : {"name" : "qualitytools:emerald_amulet", "meta" : 0}, "weight" : 2},
+				{"data" : {"name" : "waystones:return_scroll", "meta" : 0}, "weight" : 2},
+				{"data" : {"name" : "Botania:worldseed", "meta" : 0}, "weight" : 1},
+				{"data" : {"name" : "minecraft:name_tag", "meta" : 0}, "weight" : 4},
+				{"data" : {"name" : "minecraft:saddle", "meta" : 0}, "weight" : 3},
+				{"data" : {"name" : "minecraft:iron_horse_armor", "meta" : 0}, "weight" : 2},
+				{"data" : {"name" : "rustic:elixir", "nbt" : '{ElixirEffects: [{Effect: "minecraft:instant_health", Duration: 1, Amplifier: 0}]}' }, "weight" : 12},
+				{"data" : {"name" : "rustic:elixir", "nbt" : '{ElixirEffects: [{Effect: "minecraft:speed", Duration: 3600, Amplifier: 0}]}' }, "weight" : 4},
+				{"data" : {"name" : "rustic:elixir", "nbt" : '{ElixirEffects: [{Effect: "minecraft:night_vision", Duration: 3600, Amplifier: 0}]}' }, "weight" : 3},
+				{"data" : {"name" : "rustic:elixir", "nbt" : '{ElixirEffects: [{Effect: "extraalchemy:effect.return", Duration: 1, Amplifier: 0}]}' }, "weight" : 2},
+				{"data" : {"name" : "rustic:elixir", "nbt" : '{ElixirEffects: [{Effect: "potioncore:repair", Duration: 3600, Amplifier: 0}]}' }, "weight" : 1},
+				{"data" : {"name" : "ebwizardry:identification_scroll", "meta" : 0}, "weight" : 7},
+				{"data" : {"name" : "thaumcraft:loot_bag", "meta" : 0}, "weight" : 3},
+				{"data" : {"name" : "grimoireofgaia:bag_record"}, "weight" : 1},
+				{"data" : {"name" : "web", "meta" : 0}, "weight" : 24}
+			],
+			"each" : true,
+			"quantity" : 1
+		}
+	]
+}

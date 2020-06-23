@@ -1,0 +1,31 @@
+{
+	"name" : "magiculture:segments_snow",
+	"segments" : [
+		{"level": [0,1,2,3,4], "type" : "CHEST", "weight" : 1},
+		{"level": [0,1,2,3], "type" : "SHELF", "weight" : 3},
+		{"level": [0,1,2,3,4], "type" : "INSET", "weight" : 3},
+		{"level": [1,2,3,4], "type" : "SPAWNER", "weight" : 2},
+		{"level": 0, "type" : "DOOR", "weight" : 10},
+		{"level": 0, "type" : "LAMP", "weight" : 2},
+		{"level": 0, "type" : "BOOKS", "weight" : 2},
+		{"level": 0, "type" : "FIREARCH", "weight" : 2},
+		
+		{"level": 1, "type" : "WALL", "weight" : 5},
+		{"level": 1, "type" : "LAMP", "weight" : 2},
+		{"level": 1, "type" : "TOMB", "weight" : 1},
+		
+		{"level": [2,3], "type" : "CELL", "weight" : 2},
+		{"level": [2,3], "type" : "TOMB", "weight" : 2},
+		{"level": [1, 2,3], "type" : "SKULL", "weight" : 2},
+		
+		{"level": 2, "type" : "ARROW", "weight" : 1},
+		
+		{"level": 3, "type" : "ARCH", "arch" : true},
+		{"level": 3, "type" : "BOOKS", "weight" : 2},
+		{"level": 3, "type" : "PLANT", "weight" : 3},
+		
+		{"level": 4, "type" : "SKULL", "weight" : 2},
+		{"level": 4, "type" : "TOMB", "weight" : 1},
+		{"level": 4, "type" : "ARCH", "arch" : true}
+	]
+}

@@ -1,0 +1,59 @@
+{
+	"dependencies": "astralsorcery",
+	"populate": {
+		"rock_crystal": {
+			"enabled": "true",
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "astralsorcery:blockcustomore",
+					"properties": {
+						"type": "rock_crystal"
+					}
+				},
+				"material": "minecraft:stone",
+				"cluster-size": 5
+			},
+			"cluster-count": 5,
+			"min-height": 2,
+			"max-height": 75,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		{
+		"starmetal": {
+			"enabled": "true",
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "astralsorcery:blockcustomore",
+					"properties": {
+						"type": "starmetal"
+					}
+				},
+				"material": "minecraft:stone",
+				"cluster-size": 0
+			},
+			"cluster-count": 0,
+			"min-height": 2,
+			"max-height": 75,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		
+	}
+}

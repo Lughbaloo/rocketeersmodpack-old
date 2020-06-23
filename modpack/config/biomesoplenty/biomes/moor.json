@@ -1,0 +1,33 @@
+{
+  "variationBelow": 1.0,
+  "variationAbove": 2.0,
+  "averageHeight": 64.0,
+  "generators": {
+    "grass": {
+      "amountPerChunk": 16.0,
+      "enable": true,
+      "generators": {}
+    },
+    "lakes": {
+      "liquid": {
+        "block": "minecraft:water",
+        "properties": {
+          "level": "0"
+        }
+      },
+      "amountPerChunk": 1.4,
+      "enable": true,
+      "frozenLiquid": {
+        "block": "minecraft:ice",
+        "properties": {}
+      },
+      "grassBorderWith": {
+        "block": "biomesoplenty:grass",
+        "properties": {
+          "snowy": "false",
+          "variant": "loamy"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+	"name" : "magiculture:rooms_snow",
+	"rooms" : [
+		{"level" : [0, 1, 2], "type" : "random", "name" : "PYRAMIDSPAWNER", "weight" : 10},
+		{"level" : [1, 2, 3, 4],  "type" : "random", "name" : "PYRAMIDCORNER", "weight" : 3},
+		{"level" : [3, 4], "type" : "random", "name" : "BRICK", "weight" : 10},
+		
+		{"level" : 0, "type" : "single", "name" : "SLIME"},
+		{"level" : 0, "type" : "single", "name" : "FIRE"},
+		{"level" : 0, "type" : "single", "name" : "STORAGE"},
+		
+		{"level" : 1, "type" : "single", "name" : "SLIME"},
+		{"level" : 1, "type" : "single", "name" : "STORAGE"},
+		{"level" : 1, "type" : "single", "name" : "MESS"},
+		
+		{"level" : [2, 3], "type" : "single", "name" : "OSSUARY"},
+		{"level" : 2, "type" : "single", "name" : "CREEPER"},
+		{"level" : 2, "type" : "random", "name" : "PRISON", "weight" : 2},
+		
+		{"level" : 3, "type" : "single", "name" : "ENDER"},
+		{"level" : 3, "type" : "single", "name" : "STORAGE"},
+		{"level" : 3, "type" : "single", "name" : "PYRAMIDTOMB"},
+		
+		{"level" : 4, "type" : "single", "name" : "REWARD"},
+		{"level" : 4, "type" : "single", "name" : "ENCHANT"},
+		{"level" : 4, "type" : "single", "name" : "DARKHALL"},
+		{"level" : 4, "type" : "random", "name" : "PYRAMIDTOMB", "weight" : 2},
+		{"level" : 4, "type" : "random", "name" : "ENDER", "weight" : 5},
+		
+		{"level": 0, "type" : "secret", "name" : "SMITH", "count" : "1"},
+		{"level": 0, "type" : "secret", "name" : "BEDROOM", "count" : "1"},
+		{"level": 1, "type" : "secret", "name" : "BTEAM", "count" : "1"}
+	]
+}

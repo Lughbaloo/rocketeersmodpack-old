@@ -1,0 +1,9 @@
+{
+	"name" : "magiculture:filters_swamp",
+	"filters" : [
+		{"level" : 0, "name" : "mud"},
+		{"level" : 1, "name" : "mud"},
+		{"level" : 1, "name" : "vine"},
+		{"level" : 3, "name" : "cobweb"}
+	]
+}
