@@ -32,10 +32,3 @@ modpack/config/IC2.ini
 modpack/forge-1.12.2-14.23.5.2854.jar
 modpack/banned-players.json
 modpack/banned-ips.json
-modpack/world/level.dat_old
-modpack/world/data/obelisk.dat
-modpack/world/AE2/spawndata/0_0_1.dat
-modpack/world/AE2/spawndata/0_0_0.dat
-modpack/world/AE2/spawndata/0_0_-1.dat
-modpack/world/AE2/spawndata/0_-1_1.dat
-modpack/world/AE2/compass/0_-1024_0.dat
