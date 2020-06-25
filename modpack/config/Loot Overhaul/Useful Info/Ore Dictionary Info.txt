@@ -264,17 +264,12 @@ blockAdobe
 primal:adobe_brick - any
 
 
-blockAeonsteel
-tinkerscompendium:block_aeonsteel - 0
-
-
 blockAlubrass
 tconstruct:metal - 5
 mctbasemod:block_materials2 - 5
 
 
 blockAluminum
-thermalfoundation:storage - 4
 nuclearcraft:ingot_block - 12
 chisel:blockaluminum - 0
 chisel:blockaluminum - 1
@@ -326,14 +321,8 @@ blockBeryllium
 nuclearcraft:ingot_block - 9
 
 
-blockBlackcloth
-
-
 blockBlaze
 botania:blazeblock - 0
-
-
-blockBluecloth
 
 
 blockBone
@@ -351,7 +340,6 @@ primal:metalblock - 12
 
 
 blockBronze
-thermalfoundation:storage_alloy - 3
 ic2:resource - 5
 forestry:resource_storage - 3
 chisel:blockbronze - 0
@@ -363,9 +351,6 @@ chisel:blockbronze - 5
 chisel:blockbronze - 6
 mctbasemod:block_materials1 - 4
 primal:metalblock - 11
-
-
-blockBrowncloth
 
 
 blockCactus
@@ -382,7 +367,6 @@ quark:candle - any
 
 
 blockCharcoal
-thermalfoundation:storage_resource - 0
 chisel:block_charcoal - 0
 chisel:block_charcoal - 1
 chisel:block_charcoal - 2
@@ -1654,13 +1638,11 @@ chisel:concrete_yellow2 - 0
 
 
 blockConstantan
-thermalfoundation:storage_alloy - 4
 immersiveengineering:storage - 6
 mctbasemod:block_materials1 - 6
 
 
 blockCopper
-thermalfoundation:storage - 0
 ic2:resource - 6
 forestry:resource_storage - 1
 nuclearcraft:ingot_block - 0
@@ -1711,10 +1693,6 @@ chisel:diamond - 10
 chisel:diamond - 11
 
 
-blockDogbearium
-tinkerscompendium:block_dogbearium - 0
-
-
 blockDraconium
 mctbasemod:block_materials1 - 14
 
@@ -1745,7 +1723,6 @@ midnight:ebonys_block - 0
 
 
 blockElectrum
-thermalfoundation:storage_alloy - 1
 chisel:blockelectrum - 0
 chisel:blockelectrum - 1
 chisel:blockelectrum - 2
@@ -1775,10 +1752,6 @@ chisel:emerald - 12
 chisel:emerald - 13
 
 
-blockEnderium
-thermalfoundation:storage_alloy - 7
-
-
 blockFerroboron
 
 
@@ -1795,16 +1768,11 @@ nuclearcraft:ingot_block - 8
 nuclearcraft:ingot_block - 9
 
 
-blockFroststeel
-tinkerscompendium:block_froststeel - 0
-
-
 blockFuel
 primal:calcified_paraffin - any
 
 
 blockFuelCoke
-thermalfoundation:storage_resource - 1
 chisel:block_coal_coke - 0
 chisel:block_coal_coke - 1
 chisel:block_coal_coke - 2
@@ -2065,8 +2033,6 @@ tconstruct:clear_stained_glass - 13
 
 
 blockGlassHardened
-thermalfoundation:glass - any
-thermalfoundation:glass_alloy - any
 primal:ironglass - any
 primal:obsidian_transparent - any
 
@@ -2294,7 +2260,6 @@ iceandfire:dragonsteel_ice_block - 0
 
 
 blockInvar
-thermalfoundation:storage_alloy - 2
 chisel:blockinvar - 0
 chisel:blockinvar - 1
 chisel:blockinvar - 2
@@ -2306,7 +2271,6 @@ mctbasemod:block_materials1 - 3
 
 
 blockIridium
-thermalfoundation:storage - 7
 mctbasemod:block_materials1 - 13
 
 
@@ -2359,7 +2323,6 @@ chisel:lapis - 8
 
 
 blockLead
-thermalfoundation:storage - 3
 ic2:resource - 7
 nuclearcraft:ingot_block - 2
 chisel:blocklead - 0
@@ -2394,10 +2357,6 @@ primal:carbonate_stone - any
 
 blockLithium
 nuclearcraft:ingot_block - 6
-
-
-blockLumium
-thermalfoundation:storage_alloy - 6
 
 
 blockMagentacloth
@@ -2446,9 +2405,7 @@ minecraft:gold_block - 0
 
 
 blockMithril
-thermalfoundation:storage - 8
 dungeontactics:mithril_block - 0
-tinkerscompendium:block_mithril - 0
 
 
 blockMossy
@@ -2527,7 +2484,6 @@ bewitchment:nethersteel_watching_hellish - 0
 
 
 blockNickel
-thermalfoundation:storage - 5
 chisel:blocknickel - 0
 chisel:blocknickel - 1
 chisel:blocknickel - 2
@@ -2538,10 +2494,6 @@ chisel:blocknickel - 6
 immersiveengineering:storage - 4
 mctbasemod:block_materials1 - 2
 primal:metalblock - 15
-
-
-blockNihilite
-tinkerscompendium:block_nihilite - 0
 
 
 blockOctine
@@ -2555,20 +2507,12 @@ bewitchment:block_of_opal - 0
 blockOrangecloth
 
 
-blockOrichalcum
-tinkerscompendium:block_orichalcum - 0
-
-
 blockOsmium
 mctbasemod:block_materials1 - 11
 
 
 blockPackedIce
 minecraft:packed_ice - 0
-
-
-blockPandorium
-tinkerscompendium:block_pandorium - 0
 
 
 blockParaffin
@@ -2587,7 +2531,6 @@ blockPinkcloth
 
 
 blockPlatinum
-thermalfoundation:storage - 6
 chisel:blockplatinum - 0
 chisel:blockplatinum - 1
 chisel:blockplatinum - 2
@@ -2597,7 +2540,6 @@ chisel:blockplatinum - 5
 chisel:blockplatinum - 6
 immersiveintelligence:storage - 0
 primal:metalblock - 14
-tinkerscompendium:block_platinum - 0
 
 
 blockPlutonium242
@@ -2678,14 +2620,6 @@ botania:quartztypeblaze - 3
 botania:quartztypeblaze - 4
 
 
-blockQuartzDark
-botania:quartztypedark - 0
-botania:quartztypedark - 1
-botania:quartztypedark - 2
-botania:quartztypedark - 3
-botania:quartztypedark - 4
-
-
 blockQuartzElven
 botania:quartztypeelf - 0
 botania:quartztypeelf - 1
@@ -2728,10 +2662,6 @@ botania:quartztypesunny - 1
 botania:quartztypesunny - 2
 botania:quartztypesunny - 3
 botania:quartztypesunny - 4
-
-
-blockQueensgold
-tinkerscompendium:block_queensgold - 0
 
 
 blockRawsalt
@@ -2781,17 +2711,6 @@ mctbasemod:block_materials2 - 10
 
 blockRefinedObsidian
 mctbasemod:block_materials2 - 9
-
-
-blockRockwool
-thermalfoundation:rockwool - any
-
-
-blockRosegold
-tinkerscompendium:block_rosegold - 0
-
-
-blockRoughspun
 
 
 blockRuby
@@ -2955,15 +2874,7 @@ blockShibuichi
 primal:metalblock - 4
 
 
-blockSignalum
-thermalfoundation:storage_alloy - 5
-
-
-blockSilky
-
-
 blockSilver
-thermalfoundation:storage - 2
 bewitchment:block_of_silver - 0
 bewitchment:block_of_silver_symbol - 0
 bewitchment:block_of_silver_bevel - 0
@@ -2989,10 +2900,6 @@ iceandfire:silver_block - 0
 mctbasemod:block_materials1 - 7
 primal:metalblock - 6
 dungeontactics:silver_block - 0
-
-
-blockSinisterium
-tinkerscompendium:block_sinisterium - 0
 
 
 blockSlime
@@ -3030,7 +2937,6 @@ primal:soul_stone - any
 
 
 blockSteel
-thermalfoundation:storage_alloy - 0
 ic2:resource - 8
 chisel:blocksteel - 0
 chisel:blocksteel - 1
@@ -3092,7 +2998,6 @@ nuclearcraft:block_depleted_thorium - 0
 
 
 blockTin
-thermalfoundation:storage - 1
 ic2:resource - 9
 forestry:resource_storage - 2
 nuclearcraft:ingot_block - 1
@@ -3105,9 +3010,6 @@ chisel:blocktin - 5
 chisel:blocktin - 6
 mctbasemod:block_materials1 - 1
 primal:metalblock - 9
-
-
-blockTitanium
 
 
 blockTopaz
@@ -3149,10 +3051,6 @@ nuclearcraft:block_depleted_uranium - 0
 
 blockValonite
 thebetweenlands:valonite_block - 0
-
-
-blockValyriansteel
-tinkerscompendium:block_valyriansteel - 0
 
 
 blockWall
@@ -3940,22 +3838,6 @@ circuitProcessorRaw
 immersiveintelligence:material - 10
 
 
-clathrateEnder
-thermalfoundation:material - 895
-
-
-clathrateGlowstone
-thermalfoundation:material - 894
-
-
-clathrateOil
-thermalfoundation:material - 892
-
-
-clathrateRedstone
-thermalfoundation:material - 893
-
-
 clay
 minecraft:clay_ball - any
 
@@ -4284,128 +4166,8 @@ cofh:potion
 minecraft:potion - 0
 
 
-coinAeonsteel
-tinkerscompendium:coin_aeonsteel - 0
-
-
-coinAluminum
-thermalfoundation:coin - 68
-
-
-coinBronze
-thermalfoundation:coin - 99
-
-
-coinConstantan
-thermalfoundation:coin - 100
-
-
-coinCopper
-thermalfoundation:coin - 64
-
-
-coinDogbearium
-tinkerscompendium:coin_dogbearium - 0
-
-
-coinElectrum
-thermalfoundation:coin - 97
-
-
-coinEnderium
-thermalfoundation:coin - 103
-
-
-coinFroststeel
-tinkerscompendium:coin_froststeel - 0
-
-
 coinGarlic
 harvestcraft:garliccoinitem - 0
-
-
-coinGold
-thermalfoundation:coin - 1
-tinkerscompendium:coin_gold - 0
-
-
-coinInvar
-thermalfoundation:coin - 98
-
-
-coinIridium
-thermalfoundation:coin - 71
-
-
-coinIron
-thermalfoundation:coin - 0
-
-
-coinLead
-thermalfoundation:coin - 67
-
-
-coinLumium
-thermalfoundation:coin - 102
-
-
-coinMithril
-thermalfoundation:coin - 72
-tinkerscompendium:coin_mithril - 0
-
-
-coinNickel
-thermalfoundation:coin - 69
-
-
-coinNihilite
-tinkerscompendium:coin_nihilite - 0
-
-
-coinOrichalcum
-tinkerscompendium:coin_orichalcum - 0
-
-
-coinPandorium
-tinkerscompendium:coin_pandorium - 0
-
-
-coinPlatinum
-thermalfoundation:coin - 70
-tinkerscompendium:coin_platinum - 0
-
-
-coinQueensgold
-tinkerscompendium:coin_queensgold - 0
-
-
-coinRosegold
-tinkerscompendium:coin_rosegold - 0
-
-
-coinSignalum
-thermalfoundation:coin - 101
-
-
-coinSilver
-thermalfoundation:coin - 66
-tinkerscompendium:coin_silver - 0
-
-
-coinSinisterium
-tinkerscompendium:coin_sinisterium - 0
-
-
-coinSteel
-thermalfoundation:coin - 96
-
-
-coinTin
-thermalfoundation:coin - 65
-
-
-coinValyriansteel
-tinkerscompendium:coin_valyriansteel - 0
 
 
 compass
@@ -5161,32 +4923,16 @@ crystalCertusQuartz
 appliedenergistics2:material - 0
 
 
-crystalCinnabar
-thermalfoundation:material - 866
-
-
 crystalCobalt
 mctbasemod:materials - 179
-
-
-crystalCrudeOil
-thermalfoundation:material - 892
 
 
 crystalDraconium
 mctbasemod:materials - 201
 
 
-crystalEnder
-thermalfoundation:material - 895
-
-
 crystalFluix
 appliedenergistics2:material - 7
-
-
-crystalGlowstone
-thermalfoundation:material - 894
 
 
 crystalIridium
@@ -5205,25 +4951,12 @@ crystalPureNetherQuartz
 appliedenergistics2:material - 11
 
 
-crystalRedstone
-thermalfoundation:material - 893
-
-
 crystalSlag
-thermalfoundation:material - 864
 mctbasemod:materials - 568
 primal:slag - 0
-immersiveengineering:material - 7
-
-
-crystalSlagRich
-thermalfoundation:material - 865
 
 
 daylightDetector
-
-
-denseoreAeonsteel
 
 
 denseoreAlubrass
@@ -5256,34 +4989,22 @@ denseoreCobalt
 denseoreCocoaButter
 
 
-denseoreConstantan
-
-
 denseoreCopper
 
 
 denseoreDarkChocolate
 
 
-denseoreDogbearium
+denseoreDiamond
 
 
 denseoreElectrum
 
 
-denseoreEnderium
-
-
 denseoreFerroboron
 
 
-denseoreFiery
-
-
 denseoreFireDragonsteel
-
-
-denseoreFroststeel
 
 
 denseoreGold
@@ -5295,16 +5016,7 @@ denseoreHardCarbon
 denseoreIceDragonsteel
 
 
-denseoreInvar
-
-
-denseoreIridium
-
-
 denseoreIron
-
-
-denseoreKnightmetal
 
 
 denseoreKnightslime
@@ -5314,9 +5026,6 @@ denseoreLead
 
 
 denseoreLithium
-
-
-denseoreLumium
 
 
 denseoreMagnesium
@@ -5334,25 +5043,10 @@ denseoreManyullyn
 denseoreMarshmallow
 
 
-denseoreMithril
-
-
 denseoreNickel
 
 
-denseoreNihilite
-
-
-denseoreOrichalcum
-
-
-denseorePandorium
-
-
 denseorePigiron
-
-
-denseorePlatinum
 
 
 denseorePlutonium
@@ -5361,19 +5055,7 @@ denseorePlutonium
 denseorePotassium
 
 
-denseoreQueensgold
-
-
-denseoreRosegold
-
-
-denseoreSignalum
-
-
 denseoreSilver
-
-
-denseoreSinisterium
 
 
 denseoreSodium
@@ -5388,22 +5070,13 @@ denseoreThorium
 denseoreTin
 
 
-denseoreTitanium
-
-
 denseoreTough
-
-
-denseoreTungsten
 
 
 denseoreUnsweetenedChocolate
 
 
 denseoreUranium
-
-
-denseoreValyriansteel
 
 
 denseoreZinc
@@ -5782,14 +5455,6 @@ dustAdvancedElectronicAlloy
 immersiveintelligence:material_dust - 0
 
 
-dustAeonsteel
-tinkerscompendium:dust_aeonsteel - 0
-
-
-dustAerotheum
-thermalfoundation:material - 1026
-
-
 dustAlubrass
 
 
@@ -5803,7 +5468,6 @@ dungeontactics:aluminium_dust - 0
 
 
 dustAluminum
-thermalfoundation:material - 68
 nuclearcraft:dust - 12
 immersiveengineering:metal - 10
 mctbasemod:materials - 78
@@ -5831,24 +5495,12 @@ dustAstralStarmetal
 astralsorcery:itemcraftingcomponent - 2
 
 
-dustBasalz
-thermalfoundation:material - 2053
-
-
 dustBeryllium
 nuclearcraft:dust - 9
 
 
 dustBlaze
 minecraft:blaze_powder - 0
-
-
-dustBlitz
-thermalfoundation:material - 2051
-
-
-dustBlizz
-thermalfoundation:material - 2049
 
 
 dustBorax
@@ -5869,7 +5521,6 @@ primal:brass_dust - 0
 
 
 dustBronze
-thermalfoundation:material - 99
 ic2:dust - 0
 mctbasemod:materials - 111
 primal:bronze_dust - 0
@@ -5892,7 +5543,6 @@ appliedenergistics2:material - 2
 
 
 dustCharcoal
-thermalfoundation:material - 769
 mctbasemod:materials - 529
 
 
@@ -5904,7 +5554,6 @@ ic2:dust - 1
 
 
 dustCoal
-thermalfoundation:material - 768
 ic2:dust - 2
 nuclearcraft:gem_dust - 7
 mctbasemod:materials - 507
@@ -5929,7 +5578,6 @@ mctbasemod:materials - 518
 
 
 dustConstantan
-thermalfoundation:material - 100
 immersiveengineering:metal - 15
 
 
@@ -5938,7 +5586,6 @@ mctbasemod:materials - 133
 
 
 dustCopper
-thermalfoundation:material - 64
 ic2:dust - 4
 nuclearcraft:dust - 0
 immersiveengineering:metal - 9
@@ -5953,7 +5600,6 @@ primal:crude_iron_dust - 0
 
 
 dustCryotheum
-thermalfoundation:material - 1025
 
 
 dustCrystalBinder
@@ -6009,10 +5655,6 @@ dustDirtyTin
 mctbasemod:materials - 35
 
 
-dustDogbearium
-tinkerscompendium:dust_dogbearium - 0
-
-
 dustDraconium
 mctbasemod:materials - 199
 
@@ -6022,7 +5664,6 @@ mctbasemod:materials - 210
 
 
 dustElectrum
-thermalfoundation:material - 97
 immersiveengineering:metal - 16
 mctbasemod:materials - 144
 
@@ -6045,7 +5686,6 @@ appliedenergistics2:material - 46
 
 
 dustEnderium
-thermalfoundation:material - 103
 mctbasemod:materials - 419
 
 
@@ -6058,9 +5698,6 @@ nuclearcraft:compound - 2
 
 
 dustFerroboron
-
-
-dustFiery
 
 
 dustFireDragonsteel
@@ -6083,16 +5720,11 @@ dustFormaldehyde
 immersiveintelligence:material - 23
 
 
-dustFroststeel
-tinkerscompendium:dust_froststeel - 0
-
-
 dustGlowstone
 minecraft:glowstone_dust - 0
 
 
 dustGold
-thermalfoundation:material - 1
 ic2:dust - 7
 appliedenergistics2:material - 51
 immersiveengineering:metal - 19
@@ -6100,7 +5732,6 @@ mctbasemod:materials - 12
 primal:gold_dust - 0
 magneticraft:dusts - 1
 dungeontactics:gold_dust - 0
-tinkerscompendium:dust_gold - 0
 
 
 dustGraphite
@@ -6127,17 +5758,14 @@ dustIceDragonsteel
 
 
 dustInvar
-thermalfoundation:material - 98
 mctbasemod:materials - 100
 
 
 dustIridium
-thermalfoundation:material - 71
 mctbasemod:materials - 188
 
 
 dustIron
-thermalfoundation:material - 0
 ic2:dust - 8
 appliedenergistics2:material - 49
 immersiveengineering:metal - 18
@@ -6145,9 +5773,6 @@ mctbasemod:materials - 1
 primal:iron_dust - 0
 magneticraft:dusts - 0
 dungeontactics:iron_dust - 0
-
-
-dustKnightmetal
 
 
 dustKnightslime
@@ -6158,7 +5783,6 @@ ic2:dust - 9
 
 
 dustLead
-thermalfoundation:material - 67
 ic2:dust - 10
 nuclearcraft:dust - 2
 immersiveengineering:metal - 11
@@ -6174,7 +5798,6 @@ nuclearcraft:dust - 6
 
 
 dustLumium
-thermalfoundation:material - 102
 mctbasemod:materials - 430
 
 
@@ -6184,10 +5807,6 @@ nuclearcraft:dust - 7
 
 dustMagnetite
 primal:magnetite_dust - 0
-
-
-dustMana
-thermalfoundation:material - 1028
 
 
 dustManganese
@@ -6213,10 +5832,8 @@ ic2:dust - 33
 
 
 dustMithril
-thermalfoundation:material - 72
 magneticraft:dusts - 9
 dungeontactics:mithril_dust - 0
-tinkerscompendium:dust_mithril - 0
 
 
 dustNetherQuartz
@@ -6229,7 +5846,6 @@ ic2:dust - 30
 
 
 dustNickel
-thermalfoundation:material - 69
 immersiveengineering:metal - 13
 mctbasemod:materials - 45
 primal:nickel_dust - 0
@@ -6237,32 +5853,15 @@ magneticraft:dusts - 10
 dungeontactics:nickel_dust - 0
 
 
-dustNihilite
-tinkerscompendium:dust_nihilite - 0
-
-
 dustObsidian
-thermalfoundation:material - 770
 ic2:dust - 12
 nuclearcraft:gem_dust - 3
-
-
-dustOrichalcum
-tinkerscompendium:dust_orichalcum - 0
 
 
 dustOsmium
 mctbasemod:materials - 89
 magneticraft:dusts - 11
 dungeontactics:osmium_dust - 0
-
-
-dustPandorium
-tinkerscompendium:dust_pandorium - 0
-
-
-dustPetrotheum
-thermalfoundation:material - 1027
 
 
 dustPhosphorus
@@ -6273,11 +5872,9 @@ dustPigiron
 
 
 dustPlatinum
-thermalfoundation:material - 70
 immersiveintelligence:material_dust - 2
 primal:platinum_dust - 0
 dungeontactics:platinum_dust - 0
-tinkerscompendium:dust_platinum - 0
 
 
 dustPotassiumFluoride
@@ -6290,10 +5887,6 @@ nuclearcraft:compound - 6
 
 dustPrismarine
 minecraft:prismarine_crystals - 0
-
-
-dustPyrotheum
-thermalfoundation:material - 1024
 
 
 dustQuartz
@@ -6310,10 +5903,6 @@ dustQuartzEnrichedIron
 mctbasemod:materials - 155
 
 
-dustQueensgold
-tinkerscompendium:dust_queensgold - 0
-
-
 dustRedstone
 minecraft:redstone - 0
 
@@ -6328,10 +5917,6 @@ mctbasemod:materials - 320
 
 dustRhodochrosite
 nuclearcraft:gem_dust - 1
-
-
-dustRosegold
-tinkerscompendium:dust_rosegold - 0
 
 
 dustSalt
@@ -6363,7 +5948,6 @@ primal:salt_dust_void - 0
 
 
 dustSaltpeter
-thermalfoundation:material - 772
 immersiveengineering:material - 24
 
 
@@ -6376,7 +5960,6 @@ primal:shibuichi_dust - 0
 
 
 dustSignalum
-thermalfoundation:material - 101
 mctbasemod:materials - 408
 
 
@@ -6389,7 +5972,6 @@ ic2:dust - 13
 
 
 dustSilver
-thermalfoundation:material - 66
 ic2:dust - 14
 nuclearcraft:dust - 13
 immersiveengineering:metal - 12
@@ -6397,11 +5979,6 @@ mctbasemod:materials - 56
 primal:silver_dust - 0
 magneticraft:dusts - 12
 dungeontactics:silver_dust - 0
-tinkerscompendium:dust_silver - 0
-
-
-dustSinisterium
-tinkerscompendium:dust_sinisterium - 0
 
 
 dustSodiumFluoride
@@ -6413,7 +5990,6 @@ nuclearcraft:compound - 5
 
 
 dustSteel
-thermalfoundation:material - 96
 immersiveengineering:metal - 17
 mctbasemod:materials - 122
 magneticraft:dusts - 6
@@ -6425,7 +6001,6 @@ ic2:dust - 15
 
 
 dustSulfur
-thermalfoundation:material - 771
 ic2:dust - 16
 nuclearcraft:gem_dust - 6
 immersiveengineering:material - 25
@@ -6457,7 +6032,6 @@ nuclearcraft:dust_oxide - 0
 
 
 dustTin
-thermalfoundation:material - 65
 ic2:dust - 17
 nuclearcraft:dust - 1
 mctbasemod:materials - 34
@@ -6586,10 +6160,6 @@ primal:urushi_ground - 0
 primal:sinuous_resin - 0
 
 
-dustValyriansteel
-tinkerscompendium:dust_valyriansteel - 0
-
-
 dustVanadium
 primal:vanadium_dust - 0
 
@@ -6612,7 +6182,6 @@ immersiveintelligence:material - 18
 
 
 dustWood
-thermalfoundation:material - 800
 immersiveintelligence:material - 22
 
 
@@ -6636,7 +6205,6 @@ nuclearcraft:dust - 10
 
 dye
 minecraft:dye - any
-thermalfoundation:dye - any
 botania:dye - any
 bewitchment:iron_gall_ink - 0
 bewitchment:catechu_brown - 0
@@ -6644,7 +6212,6 @@ bewitchment:catechu_brown - 0
 
 dyeBlack
 minecraft:dye - 0
-thermalfoundation:dye - 0
 biomesoplenty:black_dye - 0
 botania:dye - 15
 bewitchment:iron_gall_ink - 0
@@ -6655,7 +6222,6 @@ mysticalworld:ink_bottle - 0
 
 dyeBlue
 minecraft:dye - 4
-thermalfoundation:dye - 4
 biomesoplenty:blue_dye - 0
 bewitchment:blue_ink_cap - 0
 botania:dye - 11
@@ -6664,7 +6230,6 @@ quark:root_dye - 0
 
 dyeBrown
 minecraft:dye - 3
-thermalfoundation:dye - 3
 biomesoplenty:brown_dye - 0
 nuclearcraft:cocoa_solids - 0
 botania:dye - 12
@@ -6674,68 +6239,57 @@ primal:paraffin_clump - 0
 
 dyeCyan
 minecraft:dye - 6
-thermalfoundation:dye - 6
 botania:dye - 9
 
 
 dyeGray
 minecraft:dye - 8
-thermalfoundation:dye - 8
 botania:dye - 7
 
 
 dyeGreen
 minecraft:dye - 2
-thermalfoundation:dye - 2
 biomesoplenty:green_dye - 0
 botania:dye - 13
 
 
 dyeLightBlue
 minecraft:dye - 12
-thermalfoundation:dye - 12
 botania:dye - 3
 
 
 dyeLightGray
 minecraft:dye - 7
-thermalfoundation:dye - 7
 botania:dye - 8
 
 
 dyeLime
 minecraft:dye - 10
-thermalfoundation:dye - 10
 botania:dye - 5
 
 
 dyeMagenta
 minecraft:dye - 13
-thermalfoundation:dye - 13
 botania:dye - 2
 
 
 dyeOrange
 minecraft:dye - 14
-thermalfoundation:dye - 14
 botania:dye - 1
 
 
 dyePink
 minecraft:dye - 9
-thermalfoundation:dye - 9
 botania:dye - 6
 
 
 dyePurple
 minecraft:dye - 5
-thermalfoundation:dye - 5
 botania:dye - 10
 
 
 dyeRed
 minecraft:dye - 1
-thermalfoundation:dye - 1
 botania:dye - 14
 primal:inferum_ground - 0
 
@@ -6745,7 +6299,6 @@ dyeSilver
 
 dyeWhite
 minecraft:dye - 15
-thermalfoundation:dye - 15
 biomesoplenty:white_dye - 0
 botania:dye - 0
 quark:root_dye - 2
@@ -6753,7 +6306,6 @@ quark:root_dye - 2
 
 dyeYellow
 minecraft:dye - 11
-thermalfoundation:dye - 11
 botania:dye - 4
 
 
@@ -6779,8 +6331,8 @@ immersiveintelligence:material - 0
 elementalFume
 bewitchment:swirl_of_depths - 0
 bewitchment:stone_ichor - 0
-bewitchment:heaven_extract - 0
 bewitchment:fiery_unguent - 0
+bewitchment:heaven_extract - 0
 
 
 elvenDragonstone
@@ -11248,7 +10800,6 @@ forestry:fruits - 6
 
 
 fuelCoke
-thermalfoundation:material - 802
 ic2:coke - 0
 immersiveengineering:material - 6
 mctbasemod:materials - 524
@@ -11474,15 +11025,10 @@ gaiaIngot
 botania:manaresource - 14
 
 
-gearAeonsteel
-tinkerscompendium:gear_aeonsteel - 0
-
-
 gearAlubrass
 
 
 gearAluminum
-thermalfoundation:material - 260
 mctbasemod:materials - 86
 
 
@@ -11501,7 +11047,6 @@ immersiveintelligence:motor_gear - 1
 
 
 gearBronze
-thermalfoundation:material - 291
 forestry:gear_bronze - 0
 mctbasemod:materials - 119
 
@@ -11517,12 +11062,10 @@ gearCocoaButter
 
 
 gearConstantan
-thermalfoundation:material - 292
 mctbasemod:materials - 141
 
 
 gearCopper
-thermalfoundation:material - 256
 forestry:gear_copper - 0
 immersiveintelligence:motor_gear - 0
 mctbasemod:materials - 31
@@ -11532,12 +11075,7 @@ gearDarkChocolate
 
 
 gearDiamond
-thermalfoundation:material - 26
 mctbasemod:materials - 482
-
-
-gearDogbearium
-tinkerscompendium:gear_dogbearium - 0
 
 
 gearDominos
@@ -11553,37 +11091,25 @@ mctbasemod:materials - 218
 
 
 gearElectrum
-thermalfoundation:material - 289
 mctbasemod:materials - 152
 
 
 gearEmerald
-thermalfoundation:material - 27
 mctbasemod:materials - 493
 
 
 gearEnderium
-thermalfoundation:material - 295
 mctbasemod:materials - 427
 
 
 gearFerroboron
 
 
-gearFiery
-
-
 gearFireDragonsteel
 
 
-gearFroststeel
-tinkerscompendium:gear_froststeel - 0
-
-
 gearGold
-thermalfoundation:material - 25
 mctbasemod:materials - 20
-tinkerscompendium:gear_gold - 0
 
 
 gearHardCarbon
@@ -11593,29 +11119,22 @@ gearIceDragonsteel
 
 
 gearInvar
-thermalfoundation:material - 290
 mctbasemod:materials - 108
 
 
 gearIridium
-thermalfoundation:material - 263
 mctbasemod:materials - 196
 
 
 gearIron
-thermalfoundation:material - 24
 immersiveintelligence:motor_gear - 2
 mctbasemod:materials - 9
-
-
-gearKnightmetal
 
 
 gearKnightslime
 
 
 gearLead
-thermalfoundation:material - 259
 mctbasemod:materials - 75
 
 
@@ -11623,7 +11142,6 @@ gearLithium
 
 
 gearLumium
-thermalfoundation:material - 294
 mctbasemod:materials - 438
 
 
@@ -11642,71 +11160,31 @@ gearManyullyn
 gearMarshmallow
 
 
-gearMithril
-thermalfoundation:material - 264
-tinkerscompendium:gear_mithril - 0
-
-
 gearNickel
-thermalfoundation:material - 261
 mctbasemod:materials - 53
-
-
-gearNihilite
-tinkerscompendium:gear_nihilite - 0
-
-
-gearOrichalcum
-tinkerscompendium:gear_orichalcum - 0
 
 
 gearOsmium
 mctbasemod:materials - 97
 
 
-gearPandorium
-tinkerscompendium:gear_pandorium - 0
-
-
 gearPigiron
 
 
-gearPlatinum
-thermalfoundation:material - 262
-tinkerscompendium:gear_platinum - 0
-
-
-gearQueensgold
-tinkerscompendium:gear_queensgold - 0
-
-
-gearRosegold
-tinkerscompendium:gear_rosegold - 0
-
-
 gearSignalum
-thermalfoundation:material - 293
 mctbasemod:materials - 416
 
 
 gearSilver
-thermalfoundation:material - 258
 mctbasemod:materials - 64
-tinkerscompendium:gear_silver - 0
-
-
-gearSinisterium
-tinkerscompendium:gear_sinisterium - 0
 
 
 gearSteel
-thermalfoundation:material - 288
 immersiveintelligence:motor_gear - 3
 mctbasemod:materials - 130
 
 
 gearStone
-thermalfoundation:material - 23
 mctbasemod:materials - 471
 
 
@@ -11714,7 +11192,6 @@ gearThorium
 
 
 gearTin
-thermalfoundation:material - 257
 forestry:gear_tin - 0
 mctbasemod:materials - 42
 
@@ -11732,12 +11209,7 @@ gearUnsweetenedChocolate
 gearUranium
 
 
-gearValyriansteel
-tinkerscompendium:gear_valyriansteel - 0
-
-
 gearWood
-thermalfoundation:material - 22
 appliedenergistics2:material - 40
 mctbasemod:materials - 460
 
@@ -11758,8 +11230,8 @@ gemAlexandrite
 
 
 gemAll
-bewitchment:opal - 0
 bewitchment:garnet - 0
+bewitchment:opal - 0
 bewitchment:amethyst - 0
 minecraft:quartz - 0
 minecraft:diamond - 0
@@ -12284,62 +11756,6 @@ chisel:glowstone1 - 15
 chisel:glowstone2 - 0
 
 
-grainAeonsteel
-tinkerscompendium:grain_aeonsteel - 0
-
-
-grainDogbearium
-tinkerscompendium:grain_dogbearium - 0
-
-
-grainFroststeel
-tinkerscompendium:grain_froststeel - 0
-
-
-grainGold
-tinkerscompendium:grain_gold - 0
-
-
-grainMithril
-tinkerscompendium:grain_mithril - 0
-
-
-grainNihilite
-tinkerscompendium:grain_nihilite - 0
-
-
-grainOrichalcum
-tinkerscompendium:grain_orichalcum - 0
-
-
-grainPandorium
-tinkerscompendium:grain_pandorium - 0
-
-
-grainPlatinum
-tinkerscompendium:grain_platinum - 0
-
-
-grainQueensgold
-tinkerscompendium:grain_queensgold - 0
-
-
-grainRosegold
-tinkerscompendium:grain_rosegold - 0
-
-
-grainSilver
-tinkerscompendium:grain_silver - 0
-
-
-grainSinisterium
-tinkerscompendium:grain_sinisterium - 0
-
-
-grainValyriansteel
-tinkerscompendium:grain_valyriansteel - 0
-
-
 grass
 minecraft:grass - 0
 biomesoplenty:grass - 0
@@ -12589,10 +12005,6 @@ ingotAdvancedElectronicAlloy
 immersiveintelligence:material_ingot - 0
 
 
-ingotAeonsteel
-tinkerscompendium:ingot_aeonsteel - 0
-
-
 ingotAlubrass
 tconstruct:ingots - 5
 mctbasemod:materials - 447
@@ -12603,7 +12015,6 @@ magneticraft:ingots - 7
 
 
 ingotAluminum
-thermalfoundation:material - 132
 nuclearcraft:ingot - 12
 immersiveengineering:metal - 1
 mctbasemod:materials - 84
@@ -12717,7 +12128,6 @@ tconstruct:materials - 0
 
 
 ingotBronze
-thermalfoundation:material - 163
 ic2:ingot - 1
 forestry:ingot_bronze - 0
 nuclearcraft:alloy - 0
@@ -12798,13 +12208,11 @@ mctbasemod:materials - 271
 
 
 ingotConstantan
-thermalfoundation:material - 164
 immersiveengineering:metal - 6
 mctbasemod:materials - 139
 
 
 ingotCopper
-thermalfoundation:material - 128
 ic2:ingot - 2
 forestry:ingot_copper - 0
 nuclearcraft:ingot - 0
@@ -12875,8 +12283,7 @@ ingotDarkSteel
 mctbasemod:materials - 293
 
 
-ingotDogbearium
-tinkerscompendium:ingot_dogbearium - 0
+ingotDiamond
 
 
 ingotDraconium
@@ -12892,7 +12299,6 @@ mctbasemod:materials - 227
 
 
 ingotElectrum
-thermalfoundation:material - 161
 immersiveengineering:metal - 7
 mctbasemod:materials - 150
 
@@ -12906,7 +12312,6 @@ mctbasemod:materials - 315
 
 
 ingotEnderium
-thermalfoundation:material - 167
 mctbasemod:materials - 425
 
 
@@ -12928,10 +12333,6 @@ twilightforest:fiery_ingot - 0
 
 ingotFireDragonsteel
 iceandfire:dragonsteel_fire_ingot - 0
-
-
-ingotFroststeel
-tinkerscompendium:ingot_froststeel - 0
 
 
 ingotGold
@@ -12959,12 +12360,10 @@ iceandfire:dragonsteel_ice_ingot - 0
 
 
 ingotInvar
-thermalfoundation:material - 162
 mctbasemod:materials - 106
 
 
 ingotIridium
-thermalfoundation:material - 135
 mctbasemod:materials - 194
 
 
@@ -12986,7 +12385,6 @@ mctbasemod:materials - 392
 
 
 ingotLead
-thermalfoundation:material - 131
 ic2:ingot - 3
 nuclearcraft:ingot - 2
 immersiveengineering:metal - 2
@@ -13016,7 +12414,6 @@ nuclearcraft:alloy - 4
 
 
 ingotLumium
-thermalfoundation:material - 166
 mctbasemod:materials - 436
 
 
@@ -13058,10 +12455,8 @@ nuclearcraft:marshmallow - 0
 
 
 ingotMithril
-thermalfoundation:material - 136
 magneticraft:ingots - 9
 dungeontactics:mithril_ingot - 0
-tinkerscompendium:ingot_mithril - 0
 
 
 ingotNeptunium236
@@ -13090,32 +12485,19 @@ nuclearcraft:neptunium - 5
 
 
 ingotNickel
-thermalfoundation:material - 133
 immersiveengineering:metal - 4
 mctbasemod:materials - 51
 primal:nickel_ingot - 0
 magneticraft:ingots - 10
 
 
-ingotNihilite
-tinkerscompendium:ingot_nihilite - 0
-
-
 ingotOctine
 thebetweenlands:octine_ingot - 0
-
-
-ingotOrichalcum
-tinkerscompendium:ingot_orichalcum - 0
 
 
 ingotOsmium
 mctbasemod:materials - 95
 magneticraft:ingots - 11
-
-
-ingotPandorium
-tinkerscompendium:ingot_pandorium - 0
 
 
 ingotPigiron
@@ -13124,10 +12506,8 @@ mctbasemod:materials - 381
 
 
 ingotPlatinum
-thermalfoundation:material - 134
 immersiveintelligence:material_ingot - 2
 primal:platinum_ingot - 0
-tinkerscompendium:ingot_platinum - 0
 
 
 ingotPlutonium
@@ -13191,10 +12571,6 @@ ingotQuartzEnrichedIron
 mctbasemod:materials - 161
 
 
-ingotQueensgold
-tinkerscompendium:ingot_queensgold - 0
-
-
 ingotRedstoneAlloy
 mctbasemod:materials - 260
 
@@ -13211,10 +12587,6 @@ ingotRefinedObsidian
 mctbasemod:materials - 326
 
 
-ingotRosegold
-tinkerscompendium:ingot_rosegold - 0
-
-
 ingotShibuichi
 nuclearcraft:alloy - 7
 primal:shibuichi_ingot - 0
@@ -13225,7 +12597,6 @@ nuclearcraft:alloy - 14
 
 
 ingotSignalum
-thermalfoundation:material - 165
 mctbasemod:materials - 414
 
 
@@ -13238,7 +12609,6 @@ nuclearcraft:alloy - 13
 
 
 ingotSilver
-thermalfoundation:material - 130
 ic2:ingot - 4
 nuclearcraft:ingot - 13
 immersiveengineering:metal - 3
@@ -13250,10 +12620,6 @@ magneticraft:ingots - 12
 dungeontactics:silver_ingot - 0
 
 
-ingotSinisterium
-tinkerscompendium:ingot_sinisterium - 0
-
-
 ingotSoularium
 mctbasemod:materials - 304
 
@@ -13263,7 +12629,6 @@ mctbasemod:materials - 348
 
 
 ingotSteel
-thermalfoundation:material - 160
 ic2:ingot - 5
 nuclearcraft:alloy - 5
 immersiveengineering:metal - 8
@@ -13331,7 +12696,6 @@ nuclearcraft:ingot_oxide - 0
 
 
 ingotTin
-thermalfoundation:material - 129
 ic2:ingot - 6
 forestry:ingot_tin - 0
 nuclearcraft:ingot - 1
@@ -13342,9 +12706,6 @@ magneticraft:ingots - 13
 
 ingotTinSilver
 nuclearcraft:alloy - 8
-
-
-ingotTitanium
 
 
 ingotTough
@@ -13408,10 +12769,6 @@ nuclearcraft:uranium - 9
 
 ingotUraniumOxide
 nuclearcraft:ingot_oxide - 1
-
-
-ingotValyriansteel
-tinkerscompendium:ingot_valyriansteel - 0
 
 
 ingotVanadium
@@ -13504,22 +12861,6 @@ forestry:beeswax - 0
 bewitchment:tallow - 0
 
 
-itemBioblend
-thermalfoundation:material - 818
-
-
-itemBioblendRich
-thermalfoundation:material - 819
-
-
-itemBiomass
-thermalfoundation:material - 816
-
-
-itemBiomassRich
-thermalfoundation:material - 817
-
-
 itemCarbonFiber
 ic2:crafting - 13
 
@@ -13530,10 +12871,6 @@ ic2:crafting - 13
 
 itemCarbonMesh
 ic2:crafting - 14
-
-
-itemCinnabar
-thermalfoundation:material - 866
 
 
 itemCompressedDiamond
@@ -13631,10 +12968,6 @@ harvestcraft:saltitem - 0
 animania:salt - 0
 
 
-itemSawdust
-thermalfoundation:material - 800
-
-
 itemScrap
 ic2:crafting - 23
 
@@ -13649,15 +12982,10 @@ appliedenergistics2:material - 5
 
 
 itemSlag
-thermalfoundation:material - 864
 ic2:misc_resource - 5
 immersiveengineering:material - 7
 mctbasemod:materials - 568
 primal:slag - 0
-
-
-itemSlagRich
-thermalfoundation:material - 865
 
 
 itemTinCable
@@ -14331,13 +13659,13 @@ animania:salt - 0
 
 
 listAllseed
-bewitchment:wormwood_seeds - 0
+bewitchment:hellebore_seeds - 0
+bewitchment:mandrake_seeds - 0
+bewitchment:white_sage_seeds - 0
 bewitchment:belladonna_seeds - 0
 bewitchment:garlic_seeds - 0
+bewitchment:wormwood_seeds - 0
 bewitchment:aconitum_seeds - 0
-bewitchment:mandrake_seeds - 0
-bewitchment:hellebore_seeds - 0
-bewitchment:white_sage_seeds - 0
 minecraft:wheat_seeds - 0
 minecraft:beetroot_seeds - 0
 minecraft:pumpkin_seeds - 0
@@ -15334,10 +14662,6 @@ nuggetAdvancedElectronicAlloy
 immersiveintelligence:material_nugget - 0
 
 
-nuggetAeonsteel
-tinkerscompendium:nugget_aeonsteel - 0
-
-
 nuggetAlubrass
 tconstruct:nuggets - 5
 mctbasemod:materials - 445
@@ -15348,7 +14672,6 @@ magneticraft:nuggets - 7
 
 
 nuggetAluminum
-thermalfoundation:material - 196
 immersiveengineering:metal - 21
 mctbasemod:materials - 82
 primal:aluminum_nugget - 0
@@ -15421,7 +14744,6 @@ primal:brass_nugget - 0
 
 
 nuggetBronze
-thermalfoundation:material - 227
 mctbasemod:materials - 115
 primal:bronze_nugget - 0
 
@@ -15491,13 +14813,11 @@ mctbasemod:materials - 269
 
 
 nuggetConstantan
-thermalfoundation:material - 228
 immersiveengineering:metal - 26
 mctbasemod:materials - 137
 
 
 nuggetCopper
-thermalfoundation:material - 192
 immersiveengineering:metal - 20
 mctbasemod:materials - 27
 primal:copper_nugget - 0
@@ -15549,14 +14869,9 @@ mctbasemod:materials - 291
 
 
 nuggetDiamond
-thermalfoundation:material - 16
 mctbasemod:materials - 478
 agricraft:agri_nugget - 1
 dungeontactics:diamond_nugget - 0
-
-
-nuggetDogbearium
-tinkerscompendium:nugget_dogbearium - 0
 
 
 nuggetDraconium
@@ -15572,7 +14887,6 @@ mctbasemod:materials - 225
 
 
 nuggetElectrum
-thermalfoundation:material - 225
 immersiveengineering:metal - 27
 mctbasemod:materials - 148
 
@@ -15582,7 +14896,6 @@ botania:manaresource - 19
 
 
 nuggetEmerald
-thermalfoundation:material - 17
 mctbasemod:materials - 489
 agricraft:agri_nugget - 0
 
@@ -15592,7 +14905,6 @@ mctbasemod:materials - 313
 
 
 nuggetEnderium
-thermalfoundation:material - 231
 mctbasemod:materials - 423
 
 
@@ -15603,14 +14915,7 @@ mctbasemod:materials - 236
 nuggetFerroboron
 
 
-nuggetFiery
-
-
 nuggetFireDragonsteel
-
-
-nuggetFroststeel
-tinkerscompendium:nugget_froststeel - 0
 
 
 nuggetGold
@@ -15624,12 +14929,10 @@ nuggetIceDragonsteel
 
 
 nuggetInvar
-thermalfoundation:material - 226
 mctbasemod:materials - 104
 
 
 nuggetIridium
-thermalfoundation:material - 199
 ic2:misc_resource - 2
 mctbasemod:materials - 192
 
@@ -15640,16 +14943,12 @@ immersiveengineering:metal - 29
 agricraft:agri_nugget - 3
 
 
-nuggetKnightmetal
-
-
 nuggetKnightslime
 tconstruct:nuggets - 3
 mctbasemod:materials - 390
 
 
 nuggetLead
-thermalfoundation:material - 195
 immersiveengineering:metal - 22
 mctbasemod:materials - 71
 primal:lead_nugget - 0
@@ -15669,7 +14968,6 @@ nuclearcraft:lithium - 3
 
 
 nuggetLumium
-thermalfoundation:material - 230
 mctbasemod:materials - 434
 
 
@@ -15695,10 +14993,8 @@ nuggetMarshmallow
 
 
 nuggetMithril
-thermalfoundation:material - 200
 magneticraft:nuggets - 9
 dungeontactics:mithril_nugget - 0
-tinkerscompendium:nugget_mithril - 0
 
 
 nuggetNeptunium236
@@ -15718,7 +15014,6 @@ nuclearcraft:neptunium - 7
 
 
 nuggetNickel
-thermalfoundation:material - 197
 immersiveengineering:metal - 24
 mctbasemod:materials - 49
 primal:nickel_nugget - 0
@@ -15726,16 +15021,8 @@ magneticraft:nuggets - 10
 agricraft:agri_nugget - 9
 
 
-nuggetNihilite
-tinkerscompendium:nugget_nihilite - 0
-
-
 nuggetOctine
 thebetweenlands:items_misc - 42
-
-
-nuggetOrichalcum
-tinkerscompendium:nugget_orichalcum - 0
 
 
 nuggetOsmium
@@ -15744,21 +15031,15 @@ magneticraft:nuggets - 11
 agricraft:agri_nugget - 11
 
 
-nuggetPandorium
-tinkerscompendium:nugget_pandorium - 0
-
-
 nuggetPigiron
 tconstruct:nuggets - 4
 mctbasemod:materials - 379
 
 
 nuggetPlatinum
-thermalfoundation:material - 198
 immersiveintelligence:material_nugget - 2
 primal:platinum_nugget - 0
 agricraft:agri_nugget - 10
-tinkerscompendium:nugget_platinum - 0
 
 
 nuggetPlutonium238
@@ -15805,10 +15086,6 @@ nuggetQuartzEnrichedIron
 mctbasemod:materials - 159
 
 
-nuggetQueensgold
-tinkerscompendium:nugget_queensgold - 0
-
-
 nuggetRedstoneAlloy
 mctbasemod:materials - 258
 
@@ -15821,16 +15098,11 @@ nuggetRefinedObsidian
 mctbasemod:materials - 324
 
 
-nuggetRosegold
-tinkerscompendium:nugget_rosegold - 0
-
-
 nuggetShibuichi
 primal:shibuichi_nugget - 0
 
 
 nuggetSignalum
-thermalfoundation:material - 229
 mctbasemod:materials - 412
 
 
@@ -15839,7 +15111,6 @@ immersiveintelligence:material_nugget - 5
 
 
 nuggetSilver
-thermalfoundation:material - 194
 immersiveengineering:metal - 23
 bewitchment:silver_nugget - 0
 iceandfire:silver_nugget - 0
@@ -15850,25 +15121,17 @@ agricraft:agri_nugget - 7
 dungeontactics:silver_nugget - 0
 
 
-nuggetSinisterium
-tinkerscompendium:nugget_sinisterium - 0
-
-
 nuggetSoularium
 mctbasemod:materials - 302
 
 
 nuggetSteel
-thermalfoundation:material - 224
 immersiveengineering:metal - 28
 mctbasemod:materials - 126
 primal:steel_nugget - 0
 tcomplement:materials - 20
 magneticraft:nuggets - 6
 dungeontactics:steel_nugget - 0
-
-
-nuggetSteeleaf
 
 
 nuggetSyrmorite
@@ -15903,7 +15166,6 @@ nuclearcraft:thorium - 7
 
 
 nuggetTin
-thermalfoundation:material - 193
 mctbasemod:materials - 38
 primal:tin_nugget - 0
 magneticraft:nuggets - 13
@@ -15955,10 +15217,6 @@ nuclearcraft:uranium - 11
 
 nuggetValonite
 thebetweenlands:items_misc - 43
-
-
-nuggetValyriansteel
-tinkerscompendium:nugget_valyriansteel - 0
 
 
 nuggetVanadium
@@ -16544,9 +15802,6 @@ oc:wrench
 opencomputers:wrench - 0
 
 
-oreAeonsteel
-
-
 oreAlubrass
 
 
@@ -16554,7 +15809,6 @@ oreAluminium
 
 
 oreAluminum
-thermalfoundation:ore - 4
 immersiveengineering:ore - 1
 mctbasemod:ore_cracked1 - 12
 
@@ -16619,26 +15873,14 @@ oreChocolate
 
 
 oreClathrateEnder
-thermalfoundation:ore_fluid - 4
 mctbasemod:ore_cracked2 - 5
 
 
 oreClathrateGlowstone
-thermalfoundation:ore_fluid - 3
 mctbasemod:ore_cracked2 - 1
 
 
-oreClathrateOilSand
-thermalfoundation:ore_fluid - 0
-thermalfoundation:ore_fluid - 5
-
-
-oreClathrateOilShale
-thermalfoundation:ore_fluid - 1
-
-
 oreClathrateRedstone
-thermalfoundation:ore_fluid - 2
 mctbasemod:ore_cracked2 - 0
 
 
@@ -16687,7 +15929,6 @@ oreConstantan
 
 
 oreCopper
-thermalfoundation:ore - 0
 ic2:resource - 1
 forestry:resources - 1
 nuclearcraft:ore - 0
@@ -16707,9 +15948,6 @@ oreDiamond
 minecraft:diamond_ore - 0
 mctbasemod:ore_cracked1 - 8
 dungeontactics:enddiamond_ore - 0
-
-
-oreDogbearium
 
 
 oreDraconium
@@ -16733,16 +15971,10 @@ oreEnd
 mctbasemod:ore_cracked2 - 8
 
 
-oreEnderium
-
-
 oreEssence
 
 
 oreFerroboron
-
-
-oreFiery
 
 
 oreFireDragonsteel
@@ -16750,9 +15982,6 @@ oreFireDragonsteel
 
 oreFluorite
 immersiveintelligence:ore - 4
-
-
-oreFroststeel
 
 
 oreGalena
@@ -16779,11 +16008,7 @@ oreHardCarbon
 oreIceDragonsteel
 
 
-oreInvar
-
-
 oreIridium
-thermalfoundation:ore - 7
 mctbasemod:ore_cracked2 - 7
 
 
@@ -16810,7 +16035,6 @@ dungeontactics:endlapis_ore - 0
 
 
 oreLead
-thermalfoundation:ore - 3
 ic2:resource - 2
 nuclearcraft:ore - 2
 immersiveengineering:ore - 2
@@ -16824,9 +16048,6 @@ thebetweenlands:life_crystal_stalactite - 1
 
 oreLithium
 nuclearcraft:ore - 6
-
-
-oreLumium
 
 
 oreMagnesium
@@ -16850,15 +16071,11 @@ oreMarshmallow
 
 
 oreMithril
-thermalfoundation:ore - 8
 dungeontactics:mithril_ore - 0
 
 
 oreNagrilite
 midnight:nagrilite_ore - 0
-
-
-oreNetherAeonsteel
 
 
 oreNetherAlubrass
@@ -16891,34 +16108,22 @@ oreNetherCobalt
 oreNetherCocoaButter
 
 
-oreNetherConstantan
-
-
 oreNetherCopper
 
 
 oreNetherDarkChocolate
 
 
-oreNetherDogbearium
+oreNetherDiamond
 
 
 oreNetherElectrum
 
 
-oreNetherEnderium
-
-
 oreNetherFerroboron
 
 
-oreNetherFiery
-
-
 oreNetherFireDragonsteel
-
-
-oreNetherFroststeel
 
 
 oreNetherGold
@@ -16930,16 +16135,7 @@ oreNetherHardCarbon
 oreNetherIceDragonsteel
 
 
-oreNetherInvar
-
-
-oreNetherIridium
-
-
 oreNetherIron
-
-
-oreNetherKnightmetal
 
 
 oreNetherKnightslime
@@ -16949,9 +16145,6 @@ oreNetherLead
 
 
 oreNetherLithium
-
-
-oreNetherLumium
 
 
 oreNetherMagnesium
@@ -16969,25 +16162,10 @@ oreNetherManyullyn
 oreNetherMarshmallow
 
 
-oreNetherMithril
-
-
 oreNetherNickel
 
 
-oreNetherNihilite
-
-
-oreNetherOrichalcum
-
-
-oreNetherPandorium
-
-
 oreNetherPigiron
-
-
-oreNetherPlatinum
 
 
 oreNetherPlutonium
@@ -16996,19 +16174,7 @@ oreNetherPlutonium
 oreNetherPotassium
 
 
-oreNetherQueensgold
-
-
-oreNetherRosegold
-
-
-oreNetherSignalum
-
-
 oreNetherSilver
-
-
-oreNetherSinisterium
 
 
 oreNetherSodium
@@ -17023,22 +16189,13 @@ oreNetherThorium
 oreNetherTin
 
 
-oreNetherTitanium
-
-
 oreNetherTough
-
-
-oreNetherTungsten
 
 
 oreNetherUnsweetenedChocolate
 
 
 oreNetherUranium
-
-
-oreNetherValyriansteel
 
 
 oreNetherZinc
@@ -17060,15 +16217,8 @@ oreNetherrefinedobsidian
 
 
 oreNickel
-thermalfoundation:ore - 5
 immersiveengineering:ore - 4
 mctbasemod:ore_cracked1 - 2
-
-
-oreNihilite
-
-
-oreNuggetAeonsteel
 
 
 oreNuggetAlubrass
@@ -17101,34 +16251,22 @@ oreNuggetCobalt
 oreNuggetCocoaButter
 
 
-oreNuggetConstantan
-
-
 oreNuggetCopper
 
 
 oreNuggetDarkChocolate
 
 
-oreNuggetDogbearium
+oreNuggetDiamond
 
 
 oreNuggetElectrum
 
 
-oreNuggetEnderium
-
-
 oreNuggetFerroboron
 
 
-oreNuggetFiery
-
-
 oreNuggetFireDragonsteel
-
-
-oreNuggetFroststeel
 
 
 oreNuggetGold
@@ -17140,16 +16278,7 @@ oreNuggetHardCarbon
 oreNuggetIceDragonsteel
 
 
-oreNuggetInvar
-
-
-oreNuggetIridium
-
-
 oreNuggetIron
-
-
-oreNuggetKnightmetal
 
 
 oreNuggetKnightslime
@@ -17159,9 +16288,6 @@ oreNuggetLead
 
 
 oreNuggetLithium
-
-
-oreNuggetLumium
 
 
 oreNuggetMagnesium
@@ -17179,25 +16305,10 @@ oreNuggetManyullyn
 oreNuggetMarshmallow
 
 
-oreNuggetMithril
-
-
 oreNuggetNickel
 
 
-oreNuggetNihilite
-
-
-oreNuggetOrichalcum
-
-
-oreNuggetPandorium
-
-
 oreNuggetPigiron
-
-
-oreNuggetPlatinum
 
 
 oreNuggetPlutonium
@@ -17206,19 +16317,7 @@ oreNuggetPlutonium
 oreNuggetPotassium
 
 
-oreNuggetQueensgold
-
-
-oreNuggetRosegold
-
-
-oreNuggetSignalum
-
-
 oreNuggetSilver
-
-
-oreNuggetSinisterium
 
 
 oreNuggetSodium
@@ -17233,22 +16332,13 @@ oreNuggetThorium
 oreNuggetTin
 
 
-oreNuggetTitanium
-
-
 oreNuggetTough
-
-
-oreNuggetTungsten
 
 
 oreNuggetUnsweetenedChocolate
 
 
 oreNuggetUranium
-
-
-oreNuggetValyriansteel
 
 
 oreNuggetZinc
@@ -17277,14 +16367,8 @@ oreOpal
 bewitchment:opal_ore - 0
 
 
-oreOrichalcum
-
-
 oreOsmium
 mctbasemod:ore_cracked1 - 14
-
-
-orePandorium
 
 
 orePeridot
@@ -17299,14 +16383,10 @@ orePigiron
 
 
 orePlatinum
-thermalfoundation:ore - 6
 immersiveintelligence:ore - 0
 
 
 orePlutonium
-
-
-orePoorAeonsteel
 
 
 orePoorAlubrass
@@ -17339,34 +16419,22 @@ orePoorCobalt
 orePoorCocoaButter
 
 
-orePoorConstantan
-
-
 orePoorCopper
 
 
 orePoorDarkChocolate
 
 
-orePoorDogbearium
+orePoorDiamond
 
 
 orePoorElectrum
 
 
-orePoorEnderium
-
-
 orePoorFerroboron
 
 
-orePoorFiery
-
-
 orePoorFireDragonsteel
-
-
-orePoorFroststeel
 
 
 orePoorGold
@@ -17378,16 +16446,7 @@ orePoorHardCarbon
 orePoorIceDragonsteel
 
 
-orePoorInvar
-
-
-orePoorIridium
-
-
 orePoorIron
-
-
-orePoorKnightmetal
 
 
 orePoorKnightslime
@@ -17397,9 +16456,6 @@ orePoorLead
 
 
 orePoorLithium
-
-
-orePoorLumium
 
 
 orePoorMagnesium
@@ -17417,25 +16473,10 @@ orePoorManyullyn
 orePoorMarshmallow
 
 
-orePoorMithril
-
-
 orePoorNickel
 
 
-orePoorNihilite
-
-
-orePoorOrichalcum
-
-
-orePoorPandorium
-
-
 orePoorPigiron
-
-
-orePoorPlatinum
 
 
 orePoorPlutonium
@@ -17444,19 +16485,7 @@ orePoorPlutonium
 orePoorPotassium
 
 
-orePoorQueensgold
-
-
-orePoorRosegold
-
-
-orePoorSignalum
-
-
 orePoorSilver
-
-
-orePoorSinisterium
 
 
 orePoorSodium
@@ -17471,22 +16500,13 @@ orePoorThorium
 orePoorTin
 
 
-orePoorTitanium
-
-
 orePoorTough
-
-
-orePoorTungsten
 
 
 orePoorUnsweetenedChocolate
 
 
 orePoorUranium
-
-
-orePoorValyriansteel
 
 
 orePoorZinc
@@ -17524,15 +16544,9 @@ oreQuartzBlack
 mctbasemod:ore_cracked1 - 7
 
 
-oreQueensgold
-
-
 oreRedstone
 minecraft:redstone_ore - 0
 mctbasemod:ore_cracked1 - 5
-
-
-oreRosegold
 
 
 oreRuby
@@ -17554,20 +16568,13 @@ oreScabyst
 thebetweenlands:scabyst_ore - 0
 
 
-oreSignalum
-
-
 oreSilver
-thermalfoundation:ore - 2
 bewitchment:silver_ore - 0
 immersiveengineering:ore - 3
 iceandfire:silver_ore - 0
 mctbasemod:ore_cracked1 - 10
 magneticraft:ores - 1
 dungeontactics:silver_ore - 0
-
-
-oreSinisterium
 
 
 oreSodium
@@ -17601,14 +16608,10 @@ nuclearcraft:ore - 3
 
 
 oreTin
-thermalfoundation:ore - 1
 ic2:resource - 3
 forestry:resources - 2
 nuclearcraft:ore - 1
 mctbasemod:ore_cracked1 - 1
-
-
-oreTitanium
 
 
 oreTopaz
@@ -17635,9 +16638,6 @@ mctbasemod:ore_cracked1 - 13
 
 oreValonite
 thebetweenlands:valonite_ore - 0
-
-
-oreValyriansteel
 
 
 oreVoid
@@ -18161,83 +17161,83 @@ primal:aconite_petal - 0
 
 
 petalBlack
-botania:petal - 15
 botania:mushroom - 15
+botania:petal - 15
 
 
 petalBlue
-botania:petal - 11
 botania:mushroom - 11
+botania:petal - 11
 
 
 petalBrown
-botania:petal - 12
 botania:mushroom - 12
+botania:petal - 12
 
 
 petalCyan
-botania:petal - 9
 botania:mushroom - 9
+botania:petal - 9
 
 
 petalGray
-botania:petal - 7
 botania:mushroom - 7
+botania:petal - 7
 
 
 petalGreen
-botania:petal - 13
 botania:mushroom - 13
+botania:petal - 13
 
 
 petalLightBlue
-botania:petal - 3
 botania:mushroom - 3
+botania:petal - 3
 
 
 petalLightGray
-botania:petal - 8
 botania:mushroom - 8
+botania:petal - 8
 
 
 petalLime
-botania:petal - 5
 botania:mushroom - 5
+botania:petal - 5
 
 
 petalMagenta
-botania:petal - 2
 botania:mushroom - 2
+botania:petal - 2
 
 
 petalOrange
-botania:petal - 1
 botania:mushroom - 1
+botania:petal - 1
 
 
 petalPink
-botania:petal - 6
 botania:mushroom - 6
+botania:petal - 6
 
 
 petalPurple
-botania:petal - 10
 botania:mushroom - 10
+botania:petal - 10
 
 
 petalRed
-botania:petal - 14
 botania:mushroom - 14
+botania:petal - 14
 
 
 petalWhite
-botania:petal - 0
 botania:mushroom - 0
+botania:petal - 0
 
 
 petalYellow
-botania:petal - 4
 botania:mushroom - 4
+botania:petal - 4
 
 
 pickaxeSilver
@@ -18648,10 +17648,6 @@ plateAdvancedElectronicAlloy
 immersiveintelligence:material_plate - 0
 
 
-plateAeonsteel
-tinkerscompendium:plate_aeonsteel - 0
-
-
 plateAlubrass
 
 
@@ -18659,7 +17655,6 @@ plateAluminium
 
 
 plateAluminum
-thermalfoundation:material - 324
 immersiveengineering:metal - 31
 mctbasemod:materials - 87
 primal:aluminum_plate - 0
@@ -18689,7 +17684,6 @@ ceramics:unfired_clay - 9
 
 
 plateBronze
-thermalfoundation:material - 355
 ic2:plate - 0
 mctbasemod:materials - 120
 primal:bronze_plate - 0
@@ -18727,13 +17721,11 @@ mctbasemod:materials - 274
 
 
 plateConstantan
-thermalfoundation:material - 356
 immersiveengineering:metal - 36
 mctbasemod:materials - 142
 
 
 plateCopper
-thermalfoundation:material - 320
 ic2:plate - 1
 immersiveengineering:metal - 30
 mctbasemod:materials - 32
@@ -18796,10 +17788,6 @@ mctbasemod:materials - 483
 primal:diamond_plate - 0
 
 
-plateDogbearium
-tinkerscompendium:plate_dogbearium - 0
-
-
 plateDraconium
 mctbasemod:materials - 208
 
@@ -18813,7 +17801,6 @@ mctbasemod:materials - 230
 
 
 plateElectrum
-thermalfoundation:material - 353
 immersiveengineering:metal - 37
 mctbasemod:materials - 153
 
@@ -18831,7 +17818,6 @@ mctbasemod:materials - 318
 
 
 plateEnderium
-thermalfoundation:material - 359
 mctbasemod:materials - 428
 
 
@@ -18842,23 +17828,14 @@ mctbasemod:materials - 241
 plateFerroboron
 
 
-plateFiery
-
-
 plateFireDragonsteel
 
 
-plateFroststeel
-tinkerscompendium:plate_froststeel - 0
-
-
 plateGold
-thermalfoundation:material - 33
 ic2:plate - 2
 immersiveengineering:metal - 40
 mctbasemod:materials - 21
 primal:gold_plate - 0
-tinkerscompendium:plate_gold - 0
 
 
 plateGraphite
@@ -18872,24 +17849,18 @@ plateIceDragonsteel
 
 
 plateInvar
-thermalfoundation:material - 354
 mctbasemod:materials - 109
 
 
 plateIridium
-thermalfoundation:material - 327
 mctbasemod:materials - 197
 
 
 plateIron
-thermalfoundation:material - 32
 ic2:plate - 3
 immersiveengineering:metal - 39
 mctbasemod:materials - 10
 primal:iron_plate - 0
-
-
-plateKnightmetal
 
 
 plateKnightslime
@@ -18900,7 +17871,6 @@ ic2:plate - 4
 
 
 plateLead
-thermalfoundation:material - 323
 ic2:plate - 5
 immersiveengineering:metal - 32
 mctbasemod:materials - 76
@@ -18911,7 +17881,6 @@ plateLithium
 
 
 plateLumium
-thermalfoundation:material - 358
 mctbasemod:materials - 439
 
 
@@ -18930,20 +17899,10 @@ plateManyullyn
 plateMarshmallow
 
 
-plateMithril
-thermalfoundation:material - 328
-tinkerscompendium:plate_mithril - 0
-
-
 plateNickel
-thermalfoundation:material - 325
 immersiveengineering:metal - 34
 mctbasemod:materials - 54
 primal:nickel_plate - 0
-
-
-plateNihilite
-tinkerscompendium:plate_nihilite - 0
 
 
 plateObsidian
@@ -18951,26 +17910,16 @@ ic2:plate - 6
 primal:obsidian_plate - 0
 
 
-plateOrichalcum
-tinkerscompendium:plate_orichalcum - 0
-
-
 plateOsmium
 mctbasemod:materials - 98
-
-
-platePandorium
-tinkerscompendium:plate_pandorium - 0
 
 
 platePigiron
 
 
 platePlatinum
-thermalfoundation:material - 326
 immersiveintelligence:material_plate - 2
 primal:platinum_plate - 0
-tinkerscompendium:plate_platinum - 0
 
 
 platePulsatingIron
@@ -18979,10 +17928,6 @@ mctbasemod:materials - 285
 
 plateQuartzEnrichedIron
 mctbasemod:materials - 164
-
-
-plateQueensgold
-tinkerscompendium:plate_queensgold - 0
 
 
 plateRedstoneAlloy
@@ -18997,16 +17942,11 @@ plateRefinedObsidian
 mctbasemod:materials - 329
 
 
-plateRosegold
-tinkerscompendium:plate_rosegold - 0
-
-
 plateShibuichi
 primal:shibuichi_plate - 0
 
 
 plateSignalum
-thermalfoundation:material - 357
 mctbasemod:materials - 417
 
 
@@ -19015,16 +17955,10 @@ immersiveintelligence:material_plate - 5
 
 
 plateSilver
-thermalfoundation:material - 322
 immersiveengineering:metal - 33
 bewitchment:silver_plate - 0
 mctbasemod:materials - 65
 primal:silver_plate - 0
-tinkerscompendium:plate_silver - 0
-
-
-plateSinisterium
-tinkerscompendium:plate_sinisterium - 0
 
 
 plateSoularium
@@ -19036,7 +17970,6 @@ mctbasemod:materials - 351
 
 
 plateSteel
-thermalfoundation:material - 352
 ic2:plate - 7
 immersiveengineering:metal - 38
 mctbasemod:materials - 131
@@ -19059,7 +17992,6 @@ plateThorium
 
 
 plateTin
-thermalfoundation:material - 321
 ic2:plate - 8
 mctbasemod:materials - 43
 primal:tin_plate - 0
@@ -19077,10 +18009,6 @@ plateUnsweetenedChocolate
 
 plateUranium
 immersiveengineering:metal - 35
-
-
-plateValyriansteel
-tinkerscompendium:plate_valyriansteel - 0
 
 
 plateVanadium
@@ -19514,10 +18442,6 @@ rockyChunkZinc
 magneticraft:rocky_chunks - 14
 
 
-rodAeonsteel
-tinkerscompendium:rod_aeonsteel - 0
-
-
 rodAluminum
 mctbasemod:materials - 85
 
@@ -19526,20 +18450,8 @@ rodArdite
 mctbasemod:materials - 173
 
 
-rodBasalz
-thermalfoundation:material - 2052
-
-
 rodBlaze
 minecraft:blaze_rod - 0
-
-
-rodBlitz
-thermalfoundation:material - 2050
-
-
-rodBlizz
-thermalfoundation:material - 2048
 
 
 rodBronze
@@ -19558,10 +18470,6 @@ rodCopper
 mctbasemod:materials - 30
 
 
-rodDogbearium
-tinkerscompendium:rod_dogbearium - 0
-
-
 rodDraconium
 mctbasemod:materials - 206
 
@@ -19574,13 +18482,8 @@ rodElectrum
 mctbasemod:materials - 151
 
 
-rodFroststeel
-tinkerscompendium:rod_froststeel - 0
-
-
 rodGold
 mctbasemod:materials - 19
-tinkerscompendium:rod_gold - 0
 
 
 rodInvar
@@ -19599,49 +18502,16 @@ rodLead
 mctbasemod:materials - 74
 
 
-rodMithril
-tinkerscompendium:rod_mithril - 0
-
-
 rodNickel
 mctbasemod:materials - 52
-
-
-rodNihilite
-tinkerscompendium:rod_nihilite - 0
-
-
-rodOrichalcum
-tinkerscompendium:rod_orichalcum - 0
 
 
 rodOsmium
 mctbasemod:materials - 96
 
 
-rodPandorium
-tinkerscompendium:rod_pandorium - 0
-
-
-rodPlatinum
-tinkerscompendium:rod_platinum - 0
-
-
-rodQueensgold
-tinkerscompendium:rod_queensgold - 0
-
-
-rodRosegold
-tinkerscompendium:rod_rosegold - 0
-
-
 rodSilver
 mctbasemod:materials - 63
-tinkerscompendium:rod_silver - 0
-
-
-rodSinisterium
-tinkerscompendium:rod_sinisterium - 0
 
 
 rodSteel
@@ -19650,10 +18520,6 @@ mctbasemod:materials - 129
 
 rodTin
 mctbasemod:materials - 41
-
-
-rodValyriansteel
-tinkerscompendium:rod_valyriansteel - 0
 
 
 rootsBark
@@ -20544,10 +19410,6 @@ slabQuartzBlaze
 botania:quartzslabblazehalf - 0
 
 
-slabQuartzDark
-botania:quartzslabdarkhalf - 0
-
-
 slabQuartzElven
 botania:quartzslabelfhalf - 0
 
@@ -20679,10 +19541,10 @@ forestry:slabs.fireproof.1 - any
 forestry:slabs.fireproof.2 - any
 forestry:slabs.fireproof.3 - any
 forestry:slabs.vanilla.fireproof.0 - any
+bewitchment:elder_wood_slab - 0
 bewitchment:cypress_wood_slab - 0
 bewitchment:juniper_wood_slab - 0
 bewitchment:dragons_blood_slab - 0
-bewitchment:elder_wood_slab - 0
 thebetweenlands:weedwood_plank_slab - 0
 thebetweenlands:rubber_tree_plank_slab - 0
 thebetweenlands:giant_root_plank_slab - 0
@@ -21038,10 +19900,6 @@ primal:logs_stacked_corypha - 7
 
 stairQuartzBlaze
 botania:quartzstairsblaze - 0
-
-
-stairQuartzDark
-botania:quartzstairsdark - 0
 
 
 stairQuartzElven
