@@ -83,11 +83,11 @@ primal:arrow_water - 0
 
 
 ash
-primal:ash_wolf - 0
-primal:ash_bone - 0
 primal:ash_common - 0
 primal:ash_yew - 0
 primal:ash_ironwood - 0
+primal:ash_wolf - 0
+primal:ash_bone - 0
 
 
 ashBone
@@ -6638,8 +6638,8 @@ dye
 minecraft:dye - any
 thermalfoundation:dye - any
 botania:dye - any
-bewitchment:catechu_brown - 0
 bewitchment:iron_gall_ink - 0
+bewitchment:catechu_brown - 0
 
 
 dyeBlack
@@ -6777,10 +6777,10 @@ immersiveintelligence:material - 0
 
 
 elementalFume
-bewitchment:swirl_of_depths - 0
-bewitchment:stone_ichor - 0
 bewitchment:heaven_extract - 0
+bewitchment:stone_ichor - 0
 bewitchment:fiery_unguent - 0
+bewitchment:swirl_of_depths - 0
 
 
 elvenDragonstone
@@ -14331,13 +14331,13 @@ animania:salt - 0
 
 
 listAllseed
-bewitchment:hellebore_seeds - 0
-bewitchment:belladonna_seeds - 0
-bewitchment:garlic_seeds - 0
 bewitchment:aconitum_seeds - 0
-bewitchment:wormwood_seeds - 0
-bewitchment:white_sage_seeds - 0
 bewitchment:mandrake_seeds - 0
+bewitchment:belladonna_seeds - 0
+bewitchment:wormwood_seeds - 0
+bewitchment:hellebore_seeds - 0
+bewitchment:white_sage_seeds - 0
+bewitchment:garlic_seeds - 0
 minecraft:wheat_seeds - 0
 minecraft:beetroot_seeds - 0
 minecraft:pumpkin_seeds - 0
@@ -18161,83 +18161,83 @@ primal:aconite_petal - 0
 
 
 petalBlack
-botania:petal - 15
 botania:mushroom - 15
+botania:petal - 15
 
 
 petalBlue
-botania:petal - 11
 botania:mushroom - 11
+botania:petal - 11
 
 
 petalBrown
-botania:petal - 12
 botania:mushroom - 12
+botania:petal - 12
 
 
 petalCyan
-botania:petal - 9
 botania:mushroom - 9
+botania:petal - 9
 
 
 petalGray
-botania:petal - 7
 botania:mushroom - 7
+botania:petal - 7
 
 
 petalGreen
-botania:petal - 13
 botania:mushroom - 13
+botania:petal - 13
 
 
 petalLightBlue
-botania:petal - 3
 botania:mushroom - 3
+botania:petal - 3
 
 
 petalLightGray
-botania:petal - 8
 botania:mushroom - 8
+botania:petal - 8
 
 
 petalLime
-botania:petal - 5
 botania:mushroom - 5
+botania:petal - 5
 
 
 petalMagenta
-botania:petal - 2
 botania:mushroom - 2
+botania:petal - 2
 
 
 petalOrange
-botania:petal - 1
 botania:mushroom - 1
+botania:petal - 1
 
 
 petalPink
-botania:petal - 6
 botania:mushroom - 6
+botania:petal - 6
 
 
 petalPurple
-botania:petal - 10
 botania:mushroom - 10
+botania:petal - 10
 
 
 petalRed
-botania:petal - 14
 botania:mushroom - 14
+botania:petal - 14
 
 
 petalWhite
-botania:petal - 0
 botania:mushroom - 0
+botania:petal - 0
 
 
 petalYellow
-botania:petal - 4
 botania:mushroom - 4
+botania:petal - 4
 
 
 pickaxeSilver
@@ -20679,10 +20679,10 @@ forestry:slabs.fireproof.1 - any
 forestry:slabs.fireproof.2 - any
 forestry:slabs.fireproof.3 - any
 forestry:slabs.vanilla.fireproof.0 - any
-bewitchment:juniper_wood_slab - 0
 bewitchment:cypress_wood_slab - 0
-bewitchment:dragons_blood_slab - 0
 bewitchment:elder_wood_slab - 0
+bewitchment:juniper_wood_slab - 0
+bewitchment:dragons_blood_slab - 0
 thebetweenlands:weedwood_plank_slab - 0
 thebetweenlands:rubber_tree_plank_slab - 0
 thebetweenlands:giant_root_plank_slab - 0
@@ -20934,11 +20934,11 @@ minecraft:soul_sand - 0
 
 
 specialCarbon
+primal:ash_yew - 0
+primal:ash_ironwood - 0
 primal:fermented_jungle - 0
 primal:ash_wolf - 0
 primal:ash_bone - 0
-primal:ash_yew - 0
-primal:ash_ironwood - 0
 
 
 splitAcacia
@@ -22410,8 +22410,8 @@ primal:opal_workblade - any
 
 torch
 minecraft:torch - 0
-primal:torch_nether_lit - 0
 primal:ignis_fatuus - any
+primal:torch_nether_lit - 0
 thebetweenlands:sulfur_torch - 0
 
 
