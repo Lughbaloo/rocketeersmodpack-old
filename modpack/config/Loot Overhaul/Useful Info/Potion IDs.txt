@@ -1,0 +1,1410 @@
+## Potion IDs                                                          ##
+#########################################################################
+## In the form:                                                        ##
+## <potion name>                                                       ##
+##    - Id: <potion id>                                                ##
+##    - Color: <potion color>                                          ##
+##    - Is Instant: <true if an instant potion (like health)>          ##
+##    - Is Bad: <true if considered a 'bad' potion>                    ##
+##    - Is Beneficial: <true if considered 'beneficial' (client only)> ##
+#########################################################################
+adpother:respirator_effect
+   - Id: 0
+   - Color: -11776948
+   - Is Instant: false
+   - Is Bad: false
+
+
+minecraft:speed
+   - Id: 1
+   - Color: 8171462
+   - Is Instant: false
+   - Is Bad: false
+
+
+minecraft:slowness
+   - Id: 2
+   - Color: 5926017
+   - Is Instant: false
+   - Is Bad: true
+
+
+minecraft:haste
+   - Id: 3
+   - Color: 14270531
+   - Is Instant: false
+   - Is Bad: false
+
+
+minecraft:mining_fatigue
+   - Id: 4
+   - Color: 4866583
+   - Is Instant: false
+   - Is Bad: true
+
+
+minecraft:strength
+   - Id: 5
+   - Color: 9643043
+   - Is Instant: false
+   - Is Bad: false
+
+
+minecraft:instant_health
+   - Id: 6
+   - Color: 16262179
+   - Is Instant: true
+   - Is Bad: false
+
+
+minecraft:instant_damage
+   - Id: 7
+   - Color: 4393481
+   - Is Instant: true
+   - Is Bad: true
+
+
+minecraft:jump_boost
+   - Id: 8
+   - Color: 2293580
+   - Is Instant: false
+   - Is Bad: false
+
+
+minecraft:nausea
+   - Id: 9
+   - Color: 5578058
+   - Is Instant: false
+   - Is Bad: true
+
+
+minecraft:regeneration
+   - Id: 10
+   - Color: 13458603
+   - Is Instant: false
+   - Is Bad: false
+
+
+minecraft:resistance
+   - Id: 11
+   - Color: 10044730
+   - Is Instant: false
+   - Is Bad: false
+
+
+minecraft:fire_resistance
+   - Id: 12
+   - Color: 14981690
+   - Is Instant: false
+   - Is Bad: false
+
+
+minecraft:water_breathing
+   - Id: 13
+   - Color: 3035801
+   - Is Instant: false
+   - Is Bad: false
+
+
+minecraft:invisibility
+   - Id: 14
+   - Color: 8356754
+   - Is Instant: false
+   - Is Bad: false
+
+
+minecraft:blindness
+   - Id: 15
+   - Color: 2039587
+   - Is Instant: false
+   - Is Bad: true
+
+
+minecraft:night_vision
+   - Id: 16
+   - Color: 2039713
+   - Is Instant: false
+   - Is Bad: false
+
+
+minecraft:hunger
+   - Id: 17
+   - Color: 5797459
+   - Is Instant: false
+   - Is Bad: true
+
+
+minecraft:weakness
+   - Id: 18
+   - Color: 4738376
+   - Is Instant: false
+   - Is Bad: true
+
+
+minecraft:poison
+   - Id: 19
+   - Color: 5149489
+   - Is Instant: false
+   - Is Bad: true
+
+
+minecraft:wither
+   - Id: 20
+   - Color: 3484199
+   - Is Instant: false
+   - Is Bad: true
+
+
+minecraft:health_boost
+   - Id: 21
+   - Color: 16284963
+   - Is Instant: false
+   - Is Bad: false
+
+
+minecraft:absorption
+   - Id: 22
+   - Color: 2445989
+   - Is Instant: false
+   - Is Bad: false
+
+
+minecraft:saturation
+   - Id: 23
+   - Color: 16262179
+   - Is Instant: true
+   - Is Bad: false
+
+
+minecraft:glowing
+   - Id: 24
+   - Color: 9740385
+   - Is Instant: false
+   - Is Bad: false
+
+
+minecraft:levitation
+   - Id: 25
+   - Color: 13565951
+   - Is Instant: false
+   - Is Bad: true
+
+
+minecraft:luck
+   - Id: 26
+   - Color: 3381504
+   - Is Instant: false
+   - Is Bad: false
+
+
+minecraft:unluck
+   - Id: 27
+   - Color: 12624973
+   - Is Instant: false
+   - Is Bad: true
+
+
+biomesoplenty:curse
+   - Id: 28
+   - Color: 304618
+   - Is Instant: false
+   - Is Bad: true
+
+
+dungeontactics:cryo_effect
+   - Id: 29
+   - Color: 1
+   - Is Instant: false
+   - Is Bad: true
+
+
+ic2:radiation
+   - Id: 30
+   - Color: 5149489
+   - Is Instant: false
+   - Is Bad: true
+
+
+toughasnails:hypothermia
+   - Id: 31
+   - Color: 11063295
+   - Is Instant: false
+   - Is Bad: true
+
+
+toughasnails:hyperthermia
+   - Id: 32
+   - Color: 16753408
+   - Is Instant: false
+   - Is Bad: true
+
+
+toughasnails:thirst
+   - Id: 33
+   - Color: 6411546
+   - Is Instant: false
+   - Is Bad: true
+
+
+toughasnails:cold_resistance
+   - Id: 34
+   - Color: 7842303
+   - Is Instant: false
+   - Is Bad: false
+
+
+toughasnails:heat_resistance
+   - Id: 35
+   - Color: 15025952
+   - Is Instant: false
+   - Is Bad: false
+
+
+toughasnails:hydration
+   - Id: 36
+   - Color: 1794003
+   - Is Instant: true
+   - Is Bad: false
+
+
+naturesaura:breathless
+   - Id: 37
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: true
+
+
+twilightforest:frosted
+   - Id: 38
+   - Color: 5688317
+   - Is Instant: false
+   - Is Bad: true
+
+
+tconstruct:carry
+   - Id: 39
+   - Color: 16777215
+   - Is Instant: false
+   - Is Bad: false
+
+
+tconstruct:enderference
+   - Id: 40
+   - Color: 2201695
+   - Is Instant: false
+   - Is Bad: true
+
+
+tconstruct:insatiable
+   - Id: 41
+   - Color: 16777215
+   - Is Instant: false
+   - Is Bad: true
+
+
+tconstruct:magnetic
+   - Id: 42
+   - Color: 16777215
+   - Is Instant: false
+   - Is Bad: false
+
+
+tconstruct:momentum
+   - Id: 43
+   - Color: 16777215
+   - Is Instant: false
+   - Is Bad: false
+
+
+tconstruct:dot
+   - Id: 44
+   - Color: 16777215
+   - Is Instant: false
+   - Is Bad: true
+
+
+tconstruct:splinter
+   - Id: 45
+   - Color: 16777215
+   - Is Instant: false
+   - Is Bad: true
+
+
+immersiveengineering:flammable
+   - Id: 46
+   - Color: 9387807
+   - Is Instant: false
+   - Is Bad: true
+
+
+immersiveengineering:slippery
+   - Id: 47
+   - Color: 1511427
+   - Is Instant: false
+   - Is Bad: true
+
+
+immersiveengineering:conductive
+   - Id: 48
+   - Color: 6881280
+   - Is Instant: false
+   - Is Bad: true
+
+
+immersiveengineering:sticky
+   - Id: 49
+   - Color: 10250240
+   - Is Instant: false
+   - Is Bad: true
+
+
+immersiveengineering:stunned
+   - Id: 50
+   - Color: 6441624
+   - Is Instant: false
+   - Is Bad: true
+
+
+immersiveengineering:concretefeet
+   - Id: 51
+   - Color: 6441624
+   - Is Instant: false
+   - Is Bad: true
+
+
+immersiveengineering:flashed
+   - Id: 52
+   - Color: 6441624
+   - Is Instant: false
+   - Is Bad: true
+
+
+botania:soulcross
+   - Id: 53
+   - Color: 4670781
+   - Is Instant: false
+   - Is Bad: false
+
+
+botania:featherfeet
+   - Id: 54
+   - Color: 2534911
+   - Is Instant: false
+   - Is Bad: false
+
+
+botania:emptiness
+   - Id: 55
+   - Color: 16437247
+   - Is Instant: false
+   - Is Bad: false
+
+
+botania:bloodthirst
+   - Id: 56
+   - Color: 12779520
+   - Is Instant: false
+   - Is Bad: false
+
+
+botania:allure
+   - Id: 57
+   - Color: 13540
+   - Is Instant: false
+   - Is Bad: false
+
+
+botania:clear
+   - Id: 58
+   - Color: 16777215
+   - Is Instant: true
+   - Is Bad: false
+
+
+quark:blue
+   - Id: 59
+   - Color: 255
+   - Is Instant: false
+   - Is Bad: true
+
+
+quark:black
+   - Id: 60
+   - Color: 3158064
+   - Is Instant: false
+   - Is Bad: true
+
+
+quark:white
+   - Id: 61
+   - Color: 13421772
+   - Is Instant: false
+   - Is Bad: true
+
+
+quark:resilience
+   - Id: 62
+   - Color: 5970436
+   - Is Instant: false
+   - Is Bad: false
+
+
+quark:curse
+   - Id: 63
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: true
+
+
+quark:danger_sight
+   - Id: 64
+   - Color: 575715
+   - Is Instant: false
+   - Is Bad: false
+
+
+bewitchment:wednesday
+   - Id: 65
+   - Color: 65280
+   - Is Instant: false
+   - Is Bad: false
+
+
+bewitchment:absence
+   - Id: 66
+   - Color: 16777215
+   - Is Instant: true
+   - Is Bad: false
+
+
+bewitchment:purification
+   - Id: 67
+   - Color: 16744447
+   - Is Instant: true
+   - Is Bad: false
+
+
+bewitchment:corruption
+   - Id: 68
+   - Color: 6029439
+   - Is Instant: true
+   - Is Bad: true
+
+
+bewitchment:magic_resistance
+   - Id: 69
+   - Color: 13027014
+   - Is Instant: false
+   - Is Bad: false
+
+
+bewitchment:magic_weakness
+   - Id: 70
+   - Color: 8323264
+   - Is Instant: false
+   - Is Bad: true
+
+
+bewitchment:hellworld
+   - Id: 71
+   - Color: 13763074
+   - Is Instant: true
+   - Is Bad: true
+
+
+bewitchment:iceworld
+   - Id: 72
+   - Color: 1105116
+   - Is Instant: true
+   - Is Bad: true
+
+
+bewitchment:rubedo
+   - Id: 73
+   - Color: 16711680
+   - Is Instant: true
+   - Is Bad: false
+
+
+bewitchment:citrinitas
+   - Id: 74
+   - Color: 16776960
+   - Is Instant: true
+   - Is Bad: false
+
+
+bewitchment:desertification
+   - Id: 75
+   - Color: 16761856
+   - Is Instant: true
+   - Is Bad: false
+
+
+bewitchment:fertility
+   - Id: 76
+   - Color: 4243456
+   - Is Instant: true
+   - Is Bad: false
+
+
+bewitchment:harvest
+   - Id: 77
+   - Color: 16744192
+   - Is Instant: true
+   - Is Bad: false
+
+
+bewitchment:spore_cloud
+   - Id: 78
+   - Color: 8339327
+   - Is Instant: true
+   - Is Bad: true
+
+
+bewitchment:blight
+   - Id: 79
+   - Color: 8339456
+   - Is Instant: true
+   - Is Bad: true
+
+
+bewitchment:ruin
+   - Id: 80
+   - Color: 6316128
+   - Is Instant: true
+   - Is Bad: true
+
+
+bewitchment:pesticide
+   - Id: 81
+   - Color: 32512
+   - Is Instant: true
+   - Is Bad: true
+
+
+bewitchment:arachnophobia
+   - Id: 82
+   - Color: 12632256
+   - Is Instant: true
+   - Is Bad: true
+
+
+bewitchment:mending
+   - Id: 83
+   - Color: 16776960
+   - Is Instant: true
+   - Is Bad: false
+
+
+bewitchment:holy_water
+   - Id: 84
+   - Color: 8355839
+   - Is Instant: true
+   - Is Bad: false
+
+
+bewitchment:wolfsbane
+   - Id: 85
+   - Color: 4129023
+   - Is Instant: true
+   - Is Bad: false
+
+
+bewitchment:deviants_decomposure
+   - Id: 86
+   - Color: 14450448
+   - Is Instant: true
+   - Is Bad: true
+
+
+bewitchment:sleeping
+   - Id: 87
+   - Color: 16711807
+   - Is Instant: true
+   - Is Bad: true
+
+
+bewitchment:volatility
+   - Id: 88
+   - Color: 16736256
+   - Is Instant: false
+   - Is Bad: true
+
+
+bewitchment:grace
+   - Id: 89
+   - Color: 13027014
+   - Is Instant: false
+   - Is Bad: false
+
+
+bewitchment:shell_armor
+   - Id: 90
+   - Color: 49216
+   - Is Instant: false
+   - Is Bad: false
+
+
+bewitchment:deflection
+   - Id: 91
+   - Color: 12583167
+   - Is Instant: false
+   - Is Bad: false
+
+
+bewitchment:revealing
+   - Id: 92
+   - Color: 50431
+   - Is Instant: true
+   - Is Bad: true
+
+
+bewitchment:disrobing
+   - Id: 93
+   - Color: 4226848
+   - Is Instant: true
+   - Is Bad: true
+
+
+bewitchment:sinking
+   - Id: 94
+   - Color: 4194496
+   - Is Instant: false
+   - Is Bad: true
+
+
+bewitchment:cursed_leaps
+   - Id: 95
+   - Color: 1098816
+   - Is Instant: true
+   - Is Bad: true
+
+
+bewitchment:hellfire
+   - Id: 96
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: true
+
+
+bewitchment:fear
+   - Id: 97
+   - Color: 1098816
+   - Is Instant: false
+   - Is Bad: true
+
+
+bewitchment:mortal_coil
+   - Id: 98
+   - Color: 4929057
+   - Is Instant: false
+   - Is Bad: true
+
+
+bewitchment:corrosion
+   - Id: 99
+   - Color: 776785
+   - Is Instant: false
+   - Is Bad: true
+
+
+bewitchment:bulk
+   - Id: 100
+   - Color: 6684672
+   - Is Instant: false
+   - Is Bad: false
+
+
+bewitchment:butterfingers
+   - Id: 101
+   - Color: 16309886
+   - Is Instant: true
+   - Is Bad: true
+
+
+bewitchment:rhino_hide
+   - Id: 102
+   - Color: 12500670
+   - Is Instant: false
+   - Is Bad: false
+
+
+bewitchment:paper_skin
+   - Id: 103
+   - Color: 14932681
+   - Is Instant: false
+   - Is Bad: true
+
+
+bewitchment:rage
+   - Id: 104
+   - Color: 6684672
+   - Is Instant: true
+   - Is Bad: true
+
+
+bewitchment:friendship
+   - Id: 105
+   - Color: 16040642
+   - Is Instant: true
+   - Is Bad: false
+
+
+ebwizardry:frost
+   - Id: 106
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: true
+
+
+ebwizardry:transience
+   - Id: 107
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: false
+
+
+ebwizardry:fireskin
+   - Id: 108
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: false
+
+
+ebwizardry:ice_shroud
+   - Id: 109
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: false
+
+
+ebwizardry:static_aura
+   - Id: 110
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: false
+
+
+ebwizardry:decay
+   - Id: 111
+   - Color: 3932268
+   - Is Instant: false
+   - Is Bad: true
+
+
+ebwizardry:sixth_sense
+   - Id: 112
+   - Color: 13041409
+   - Is Instant: false
+   - Is Bad: false
+
+
+ebwizardry:arcane_jammer
+   - Id: 113
+   - Color: 13585058
+   - Is Instant: false
+   - Is Bad: true
+
+
+ebwizardry:mind_trick
+   - Id: 114
+   - Color: 6297219
+   - Is Instant: false
+   - Is Bad: true
+
+
+ebwizardry:mind_control
+   - Id: 115
+   - Color: 3279684
+   - Is Instant: false
+   - Is Bad: true
+
+
+ebwizardry:font_of_mana
+   - Id: 116
+   - Color: 16770491
+   - Is Instant: false
+   - Is Bad: false
+
+
+ebwizardry:fear
+   - Id: 117
+   - Color: 12386560
+   - Is Instant: false
+   - Is Bad: true
+
+
+ebwizardry:curse_of_soulbinding
+   - Id: 118
+   - Color: 983055
+   - Is Instant: false
+   - Is Bad: true
+
+
+ebwizardry:paralysis
+   - Id: 119
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: true
+
+
+ebwizardry:muffle
+   - Id: 120
+   - Color: 4482265
+   - Is Instant: false
+   - Is Bad: false
+
+
+ebwizardry:ward
+   - Id: 121
+   - Color: 13210064
+   - Is Instant: false
+   - Is Bad: false
+
+
+ebwizardry:slow_time
+   - Id: 122
+   - Color: 6022075
+   - Is Instant: false
+   - Is Bad: false
+
+
+ebwizardry:empowerment
+   - Id: 123
+   - Color: 8611773
+   - Is Instant: false
+   - Is Bad: false
+
+
+ebwizardry:curse_of_enfeeblement
+   - Id: 124
+   - Color: 3538955
+   - Is Instant: false
+   - Is Bad: true
+
+
+ebwizardry:curse_of_undeath
+   - Id: 125
+   - Color: 6839296
+   - Is Instant: false
+   - Is Bad: true
+
+
+ebwizardry:containment
+   - Id: 126
+   - Color: 7964876
+   - Is Instant: false
+   - Is Bad: true
+
+
+ebwizardry:frost_step
+   - Id: 127
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: false
+
+
+mod_lavacow:corroded
+   - Id: 128
+   - Color: -14416121
+   - Is Instant: false
+   - Is Bad: true
+
+
+mod_lavacow:soiled
+   - Id: 129
+   - Color: -9479108
+   - Is Instant: false
+   - Is Bad: true
+
+
+immersiveintelligence:suppression
+   - Id: 130
+   - Color: 14924569
+   - Is Instant: false
+   - Is Bad: true
+
+
+immersiveintelligence:broken_armor
+   - Id: 131
+   - Color: 7690585
+   - Is Instant: false
+   - Is Bad: true
+
+
+bewitchment:suns_blessing
+   - Id: 132
+   - Color: 16768834
+   - Is Instant: false
+   - Is Bad: false
+
+
+bewitchment:geomancy
+   - Id: 133
+   - Color: 13500280
+   - Is Instant: false
+   - Is Bad: false
+
+
+bewitchment:frozen
+   - Id: 134
+   - Color: 14215167
+   - Is Instant: false
+   - Is Bad: false
+
+
+bewitchment:poison_resist
+   - Id: 135
+   - Color: 6750003
+   - Is Instant: false
+   - Is Bad: false
+
+
+primal:aconite
+   - Id: 136
+   - Color: -16645630
+   - Is Instant: false
+   - Is Bad: true
+
+
+primal:yew
+   - Id: 137
+   - Color: -16645630
+   - Is Instant: false
+   - Is Bad: true
+
+
+primal:adrenaline
+   - Id: 138
+   - Color: -16645630
+   - Is Instant: false
+   - Is Bad: false
+
+
+primal:porphyria
+   - Id: 139
+   - Color: -16645630
+   - Is Instant: false
+   - Is Bad: true
+
+
+primal:water_burn
+   - Id: 140
+   - Color: -16645630
+   - Is Instant: false
+   - Is Bad: true
+
+
+primal:sun_burn
+   - Id: 141
+   - Color: -16645630
+   - Is Instant: false
+   - Is Bad: true
+
+
+totaltinkers:berserker
+   - Id: 142
+   - Color: 16711680
+   - Is Instant: false
+   - Is Bad: false
+
+
+midnight:stunned
+   - Id: 143
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: true
+
+
+midnight:pollinated
+   - Id: 144
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: false
+
+
+midnight:dragon_guard
+   - Id: 145
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: false
+
+
+midnight:darkness
+   - Id: 146
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: true
+
+
+midnight:tormented
+   - Id: 147
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: true
+
+
+midnight:unstable_fall
+   - Id: 148
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: false
+
+
+midnight:confusion
+   - Id: 149
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: true
+
+
+roots:freeze
+   - Id: 150
+   - Color: 16777215
+   - Is Instant: false
+   - Is Bad: false
+
+
+roots:geas
+   - Id: 151
+   - Color: 16769280
+   - Is Instant: false
+   - Is Bad: false
+
+
+roots:time_stop
+   - Id: 152
+   - Color: 7566195
+   - Is Instant: false
+   - Is Bad: false
+
+
+roots:invulnerability
+   - Id: 153
+   - Color: 6053227
+   - Is Instant: false
+   - Is Bad: false
+
+
+roots:petal_shell
+   - Id: 154
+   - Color: 13475270
+   - Is Instant: false
+   - Is Bad: false
+
+
+roots:danger_sense
+   - Id: 155
+   - Color: 11021870
+   - Is Instant: false
+   - Is Bad: false
+
+
+roots:animal_sense
+   - Id: 156
+   - Color: 1955616
+   - Is Instant: false
+   - Is Bad: false
+
+
+astralsorcery:potioncheatdeath
+   - Id: 157
+   - Color: 16733969
+   - Is Instant: false
+   - Is Bad: false
+
+
+astralsorcery:potionbleed
+   - Id: 158
+   - Color: 7672320
+   - Is Instant: false
+   - Is Bad: true
+
+
+astralsorcery:potionspellplague
+   - Id: 159
+   - Color: 6816144
+   - Is Instant: false
+   - Is Bad: true
+
+
+astralsorcery:potiondropmodifier
+   - Id: 160
+   - Color: 16765204
+   - Is Instant: false
+   - Is Bad: false
+
+
+astralsorcery:potiontimefreeze
+   - Id: 161
+   - Color: 12098303
+   - Is Instant: false
+   - Is Bad: false
+
+
+thebetweenlands:effect_petrify
+   - Id: 162
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: false
+
+
+thebetweenlands:effect_isolatedsenses
+   - Id: 163
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: false
+
+
+thebetweenlands:effect_limbless
+   - Id: 164
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: false
+
+
+thebetweenlands:effect_deformed
+   - Id: 165
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: false
+
+
+thebetweenlands:effect_foggedmind
+   - Id: 166
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: false
+
+
+thebetweenlands:effect_heavyweight
+   - Id: 167
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: false
+
+
+thebetweenlands:effect_basilisk
+   - Id: 168
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: false
+
+
+thebetweenlands:effect_weakbow
+   - Id: 169
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: false
+
+
+thebetweenlands:effect_blindman
+   - Id: 170
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: false
+
+
+thebetweenlands:effect_slugarm
+   - Id: 171
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: false
+
+
+thebetweenlands:effect_stenching
+   - Id: 172
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: false
+
+
+thebetweenlands:effect_drunkard
+   - Id: 173
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: false
+
+
+thebetweenlands:effect_starvation
+   - Id: 174
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: false
+
+
+thebetweenlands:effect_poisonsting
+   - Id: 175
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: false
+
+
+thebetweenlands:effect_decay
+   - Id: 176
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: false
+
+
+thebetweenlands:effect_draining
+   - Id: 177
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: false
+
+
+thebetweenlands:effect_lumbering
+   - Id: 178
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: false
+
+
+thebetweenlands:effect_weakness
+   - Id: 179
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: false
+
+
+thebetweenlands:effect_hunterssensemaster
+   - Id: 180
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: false
+
+
+thebetweenlands:effect_wings
+   - Id: 181
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: false
+
+
+thebetweenlands:effect_gillsgrowth
+   - Id: 182
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: false
+
+
+thebetweenlands:effect_unclouded
+   - Id: 183
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: false
+
+
+thebetweenlands:effect_lightweight
+   - Id: 184
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: false
+
+
+thebetweenlands:effect_spiderbreed
+   - Id: 185
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: false
+
+
+thebetweenlands:effect_sagittarius
+   - Id: 186
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: false
+
+
+thebetweenlands:effect_catseyes
+   - Id: 187
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: false
+
+
+thebetweenlands:effect_swiftarm
+   - Id: 188
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: false
+
+
+thebetweenlands:effect_masking
+   - Id: 189
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: false
+
+
+thebetweenlands:effect_hunterssense
+   - Id: 190
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: false
+
+
+thebetweenlands:effect_feasting
+   - Id: 191
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: false
+
+
+thebetweenlands:effect_toughskin
+   - Id: 192
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: false
+
+
+thebetweenlands:effect_ripening
+   - Id: 193
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: false
+
+
+thebetweenlands:effect_healing
+   - Id: 194
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: false
+
+
+thebetweenlands:effect_nimblefeet
+   - Id: 195
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: false
+
+
+thebetweenlands:effect_strength
+   - Id: 196
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: false
+
+
+thebetweenlands:root_bound
+   - Id: 197
+   - Color: 5926017
+   - Is Instant: false
+   - Is Bad: true
+
+
+thebetweenlands:enlightened
+   - Id: 198
+   - Color: 5926017
+   - Is Instant: false
+   - Is Bad: false
+
+
+hungeroverhaul:wellfed
+   - Id: 199
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: false
+
+
