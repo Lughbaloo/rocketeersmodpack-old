@@ -248,20 +248,20 @@ mod_lavacow:corrosive
    - Max Level: 5
 
 
-cofhcore:holding
+futuremc:channeling
    - Id: 30
-   - Rarity: UNCOMMON
+   - Rarity: VERY_RARE
    - Treasure: false
    - Min Level: 1
-   - Max Level: 4
+   - Max Level: 1
 
 
-cofhcore:insight
+futuremc:impaling
    - Id: 31
-   - Rarity: UNCOMMON
+   - Rarity: RARE
    - Treasure: false
    - Min Level: 1
-   - Max Level: 3
+   - Max Level: 5
 
 
 minecraft:efficiency
@@ -296,8 +296,40 @@ minecraft:fortune
    - Max Level: 3
 
 
-cofhcore:leech
+futuremc:loyalty
    - Id: 36
+   - Rarity: UNCOMMON
+   - Treasure: false
+   - Min Level: 1
+   - Max Level: 3
+
+
+futuremc:riptide
+   - Id: 37
+   - Rarity: RARE
+   - Treasure: false
+   - Min Level: 1
+   - Max Level: 3
+
+
+cofhcore:holding
+   - Id: 38
+   - Rarity: UNCOMMON
+   - Treasure: false
+   - Min Level: 1
+   - Max Level: 4
+
+
+cofhcore:insight
+   - Id: 39
+   - Rarity: UNCOMMON
+   - Treasure: false
+   - Min Level: 1
+   - Max Level: 3
+
+
+cofhcore:leech
+   - Id: 40
    - Rarity: UNCOMMON
    - Treasure: false
    - Min Level: 1
@@ -305,7 +337,7 @@ cofhcore:leech
 
 
 cofhcore:multishot
-   - Id: 37
+   - Id: 41
    - Rarity: UNCOMMON
    - Treasure: false
    - Min Level: 1
@@ -313,7 +345,7 @@ cofhcore:multishot
 
 
 cofhcore:smashing
-   - Id: 38
+   - Id: 42
    - Rarity: RARE
    - Treasure: false
    - Min Level: 1
@@ -321,7 +353,7 @@ cofhcore:smashing
 
 
 cofhcore:smelting
-   - Id: 39
+   - Id: 43
    - Rarity: RARE
    - Treasure: false
    - Min Level: 1
@@ -329,7 +361,7 @@ cofhcore:smelting
 
 
 cofhcore:soulbound
-   - Id: 40
+   - Id: 44
    - Rarity: UNCOMMON
    - Treasure: false
    - Min Level: 1
@@ -337,7 +369,7 @@ cofhcore:soulbound
 
 
 cofhcore:vorpal
-   - Id: 41
+   - Id: 45
    - Rarity: RARE
    - Treasure: false
    - Min Level: 1
@@ -345,7 +377,7 @@ cofhcore:vorpal
 
 
 astralsorcery:enchantment.as.nightvision
-   - Id: 42
+   - Id: 46
    - Rarity: VERY_RARE
    - Treasure: false
    - Min Level: 1
@@ -353,17 +385,9 @@ astralsorcery:enchantment.as.nightvision
 
 
 astralsorcery:enchantment.as.smelting
-   - Id: 43
+   - Id: 47
    - Rarity: VERY_RARE
    - Treasure: false
-   - Min Level: 1
-   - Max Level: 1
-
-
-charm:curse_break
-   - Id: 44
-   - Rarity: RARE
-   - Treasure: true
    - Min Level: 1
    - Max Level: 1
 
@@ -396,6 +420,14 @@ minecraft:infinity
    - Id: 51
    - Rarity: VERY_RARE
    - Treasure: false
+   - Min Level: 1
+   - Max Level: 1
+
+
+charm:curse_break
+   - Id: 52
+   - Rarity: RARE
+   - Treasure: true
    - Min Level: 1
    - Max Level: 1
 

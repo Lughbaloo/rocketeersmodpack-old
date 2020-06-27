@@ -92,11 +92,11 @@ primal:arrow_water - 0
 
 
 ash
+primal:ash_wolf - 0
+primal:ash_bone - 0
 primal:ash_common - 0
 primal:ash_yew - 0
 primal:ash_ironwood - 0
-primal:ash_wolf - 0
-primal:ash_bone - 0
 
 
 ashBone
@@ -2472,6 +2472,10 @@ blockNeptunium237
 nuclearcraft:block_depleted_neptunium - 0
 
 
+blockNetherite
+futuremc:netherite_block - 0
+
+
 blockNethersteel
 bewitchment:nethersteel - 0
 bewitchment:nethersteel_symbol - 0
@@ -4249,6 +4253,10 @@ cropAvocado
 harvestcraft:avocadoitem - 0
 
 
+cropBamboo
+futuremc:bamboo - 0
+
+
 cropBambooshoot
 harvestcraft:bambooshootitem - 0
 
@@ -4706,6 +4714,10 @@ harvestcraft:strawberryitem - 0
 
 cropSunflower
 harvestcraft:sunflowerseedsitem - 0
+
+
+cropSweetBerry
+futuremc:sweet_berries - 0
 
 
 cropSweetpotato
@@ -6087,8 +6099,8 @@ nuclearcraft:dust - 10
 dye
 minecraft:dye - any
 botania:dye - any
-bewitchment:iron_gall_ink - 0
 bewitchment:catechu_brown - 0
+bewitchment:iron_gall_ink - 0
 
 
 dyeBlack
@@ -6096,6 +6108,7 @@ minecraft:dye - 0
 biomesoplenty:black_dye - 0
 botania:dye - 15
 bewitchment:iron_gall_ink - 0
+futuremc:dye - 3
 primal:sinuous_resin - 0
 quark:root_dye - 1
 mysticalworld:ink_bottle - 0
@@ -6106,6 +6119,7 @@ minecraft:dye - 4
 biomesoplenty:blue_dye - 0
 bewitchment:blue_ink_cap - 0
 botania:dye - 11
+futuremc:dye - 1
 quark:root_dye - 0
 
 
@@ -6115,6 +6129,7 @@ biomesoplenty:brown_dye - 0
 nuclearcraft:cocoa_solids - 0
 botania:dye - 12
 bewitchment:catechu_brown - 0
+futuremc:dye - 2
 primal:paraffin_clump - 0
 
 
@@ -6182,6 +6197,7 @@ dyeWhite
 minecraft:dye - 15
 biomesoplenty:white_dye - 0
 botania:dye - 0
+futuremc:dye - 0
 quark:root_dye - 2
 
 
@@ -6210,10 +6226,10 @@ immersiveintelligence:material - 0
 
 
 elementalFume
-bewitchment:stone_ichor - 0
 bewitchment:swirl_of_depths - 0
 bewitchment:heaven_extract - 0
 bewitchment:fiery_unguent - 0
+bewitchment:stone_ichor - 0
 
 
 elvenDragonstone
@@ -11110,9 +11126,9 @@ gemAlexandrite
 
 
 gemAll
-bewitchment:garnet - 0
-bewitchment:amethyst - 0
 bewitchment:opal - 0
+bewitchment:amethyst - 0
+bewitchment:garnet - 0
 minecraft:quartz - 0
 minecraft:diamond - 0
 minecraft:emerald - 0
@@ -11940,6 +11956,10 @@ ingotAmericium243Oxide
 nuclearcraft:americium - 9
 
 
+ingotAncientDebris
+futuremc:netherite_scrap - 0
+
+
 ingotArdite
 tconstruct:ingots - 1
 mctbasemod:materials - 172
@@ -12361,6 +12381,10 @@ nuclearcraft:neptunium - 4
 
 ingotNeptunium237Oxide
 nuclearcraft:neptunium - 5
+
+
+ingotNetherite
+futuremc:netherite_ingot - 0
 
 
 ingotNickel
@@ -13537,12 +13561,12 @@ animania:salt - 0
 
 listAllseed
 bewitchment:hellebore_seeds - 0
-bewitchment:garlic_seeds - 0
-bewitchment:aconitum_seeds - 0
 bewitchment:belladonna_seeds - 0
-bewitchment:mandrake_seeds - 0
-bewitchment:white_sage_seeds - 0
 bewitchment:wormwood_seeds - 0
+bewitchment:aconitum_seeds - 0
+bewitchment:white_sage_seeds - 0
+bewitchment:garlic_seeds - 0
+bewitchment:mandrake_seeds - 0
 minecraft:wheat_seeds - 0
 minecraft:beetroot_seeds - 0
 minecraft:pumpkin_seeds - 0
@@ -13950,6 +13974,23 @@ forestry:logs.fireproof.6 - any
 forestry:logs.fireproof.7 - any
 forestry:logs.vanilla.fireproof.0 - any
 forestry:logs.vanilla.fireproof.1 - any
+externaltweaker:stripped_acacia_log - 0
+externaltweaker:stripped_jungle_log - 0
+externaltweaker:stripped_birch_log - 0
+externaltweaker:stripped_oak_log - 0
+externaltweaker:stripped_spruce_log - 0
+externaltweaker:stripped_dark_oak_log - 0
+externaltweaker:stripped_acacia_wood - 0
+externaltweaker:stripped_jungle_wood - 0
+externaltweaker:stripped_birch_wood - 0
+externaltweaker:stripped_oak_wood - 0
+externaltweaker:stripped_spruce_wood - 0
+externaltweaker:stripped_dark_oak_wood - 0
+externaltweaker:acacia_wood - 0
+externaltweaker:jungle_wood - 0
+externaltweaker:birch_wood - 0
+externaltweaker:oak_wood - 0
+externaltweaker:spruce_wood - 0
 primal:logs_stripped - 0
 primal:logs_stripped - 1
 primal:logs_stripped - 2
@@ -15694,6 +15735,10 @@ oreAmethyst
 biomesoplenty:gem_ore - 0
 bewitchment:amethyst_ore - 0
 mysticalworld:amethyst_ore - 0
+
+
+oreAncientDebris
+futuremc:ancient_debris - 0
 
 
 oreApatite
@@ -19006,6 +19051,10 @@ seedStrawberry
 harvestcraft:strawberryseeditem - 0
 
 
+seedSweetBerry
+futuremc:sweet_berries - 0
+
+
 seedSweetpotato
 harvestcraft:sweetpotatoseeditem - 0
 
@@ -19400,10 +19449,10 @@ forestry:slabs.fireproof.1 - any
 forestry:slabs.fireproof.2 - any
 forestry:slabs.fireproof.3 - any
 forestry:slabs.vanilla.fireproof.0 - any
-bewitchment:dragons_blood_slab - 0
+bewitchment:juniper_wood_slab - 0
 bewitchment:cypress_wood_slab - 0
 bewitchment:elder_wood_slab - 0
-bewitchment:juniper_wood_slab - 0
+bewitchment:dragons_blood_slab - 0
 thebetweenlands:weedwood_plank_slab - 0
 thebetweenlands:rubber_tree_plank_slab - 0
 thebetweenlands:giant_root_plank_slab - 0
@@ -19655,11 +19704,11 @@ minecraft:soul_sand - 0
 
 
 specialCarbon
-primal:ash_yew - 0
-primal:ash_ironwood - 0
 primal:fermented_jungle - 0
 primal:ash_wolf - 0
 primal:ash_bone - 0
+primal:ash_yew - 0
+primal:ash_ironwood - 0
 
 
 splitAcacia
@@ -21123,8 +21172,8 @@ primal:opal_workblade - any
 
 torch
 minecraft:torch - 0
-primal:ignis_fatuus - any
 primal:torch_nether_lit - 0
+primal:ignis_fatuus - any
 thebetweenlands:sulfur_torch - 0
 
 
@@ -21154,6 +21203,11 @@ engineersdoors:trapdoor_treated - 0
 trapdoorWood
 minecraft:trapdoor - 0
 minecraft:trapdoor - any
+externaltweaker:acacia_trapdoor - 0
+externaltweaker:jungle_trapdoor - 0
+externaltweaker:birch_trapdoor - 0
+externaltweaker:spruce_trapdoor - 0
+externaltweaker:dark_oak_trapdoor - 0
 quark:spruce_trapdoor - 0
 quark:birch_trapdoor - 0
 quark:jungle_trapdoor - 0
