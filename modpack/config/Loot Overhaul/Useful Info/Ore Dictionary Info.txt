@@ -41,6 +41,15 @@ animalFur
 primal:animal_fur - 0
 
 
+animania:prime_mutton
+
+
+animania:prime_rabbit
+
+
+animania_prime_chicken
+
+
 arilYew
 primal:yew_aril - 0
 
@@ -327,7 +336,6 @@ botania:blazeblock - 0
 
 blockBone
 thebetweenlands:slimy_bone_block - 0
-minecraft:bone_block - 0
 
 
 blockBoron
@@ -2404,10 +2412,6 @@ minecraft:iron_block - 0
 minecraft:gold_block - 0
 
 
-blockMithril
-dungeontactics:mithril_block - 0
-
-
 blockMossy
 chisel:cobblestonemossy - 0
 chisel:cobblestonemossy - 1
@@ -2899,7 +2903,6 @@ immersiveengineering:storage - 3
 iceandfire:silver_block - 0
 mctbasemod:block_materials1 - 7
 primal:metalblock - 6
-dungeontactics:silver_block - 0
 
 
 blockSlime
@@ -2949,7 +2952,6 @@ immersiveengineering:storage - 8
 mctbasemod:block_materials1 - 5
 primal:metalblock - 1
 tcomplement:storage - 1
-dungeontactics:steel_block - 0
 
 
 blockSteeleaf
@@ -3622,10 +3624,6 @@ cauldron
 primal:cauldron - any
 
 
-chainIron
-dungeontactics:ironlinks - 0
-
-
 charcoal
 minecraft:coal - 1
 primal:charcoal_fair - 0
@@ -4065,56 +4063,7 @@ bewitchment:tallow - 0
 primal:wax_residue - 0
 
 
-clusterAluminium
-dungeontactics:aluminium_cluster - 0
-
-
-clusterCopper
-dungeontactics:copper_cluster - 0
-
-
-clusterGold
-dungeontactics:gold_cluster - 0
-
-
 clusterIron
-dungeontactics:iron_cluster - 0
-
-
-clusterLead
-dungeontactics:lead_cluster - 0
-
-
-clusterMithril
-dungeontactics:mithril_cluster - 0
-
-
-clusterNickel
-dungeontactics:nickel_cluster - 0
-
-
-clusterOsmium
-dungeontactics:osmium_cluster - 0
-
-
-clusterPlatinum
-dungeontactics:platinum_cluster - 0
-
-
-clusterSilver
-dungeontactics:silver_cluster - 0
-
-
-clusterTin
-dungeontactics:tin_cluster - 0
-
-
-clusterTitanium
-dungeontactics:titanium_cluster - 0
-
-
-clusterTungsten
-dungeontactics:tungsten_cluster - 0
 
 
 coal
@@ -5464,7 +5413,6 @@ nuclearcraft:compound - 10
 
 dustAluminium
 magneticraft:dusts - 7
-dungeontactics:aluminium_dust - 0
 
 
 dustAluminum
@@ -5557,7 +5505,6 @@ dustCoal
 ic2:dust - 2
 nuclearcraft:gem_dust - 7
 mctbasemod:materials - 507
-dungeontactics:coal_dust - 0
 
 
 dustCobalt
@@ -5592,7 +5539,6 @@ immersiveengineering:metal - 9
 mctbasemod:materials - 23
 primal:copper_dust - 0
 magneticraft:dusts - 2
-dungeontactics:copper_dust - 0
 
 
 dustCrudeIron
@@ -5703,10 +5649,6 @@ dustFerroboron
 dustFireDragonsteel
 
 
-dustFlint
-minecraft:flint - 0
-
-
 dustFluix
 appliedenergistics2:material - 8
 
@@ -5731,7 +5673,6 @@ immersiveengineering:metal - 19
 mctbasemod:materials - 12
 primal:gold_dust - 0
 magneticraft:dusts - 1
-dungeontactics:gold_dust - 0
 
 
 dustGraphite
@@ -5772,7 +5713,6 @@ immersiveengineering:metal - 18
 mctbasemod:materials - 1
 primal:iron_dust - 0
 magneticraft:dusts - 0
-dungeontactics:iron_dust - 0
 
 
 dustKnightslime
@@ -5789,7 +5729,6 @@ immersiveengineering:metal - 11
 mctbasemod:materials - 67
 primal:lead_dust - 0
 magneticraft:dusts - 3
-dungeontactics:lead_dust - 0
 
 
 dustLithium
@@ -5833,7 +5772,6 @@ ic2:dust - 33
 
 dustMithril
 magneticraft:dusts - 9
-dungeontactics:mithril_dust - 0
 
 
 dustNetherQuartz
@@ -5850,7 +5788,6 @@ immersiveengineering:metal - 13
 mctbasemod:materials - 45
 primal:nickel_dust - 0
 magneticraft:dusts - 10
-dungeontactics:nickel_dust - 0
 
 
 dustObsidian
@@ -5861,7 +5798,6 @@ nuclearcraft:gem_dust - 3
 dustOsmium
 mctbasemod:materials - 89
 magneticraft:dusts - 11
-dungeontactics:osmium_dust - 0
 
 
 dustPhosphorus
@@ -5874,7 +5810,6 @@ dustPigiron
 dustPlatinum
 immersiveintelligence:material_dust - 2
 primal:platinum_dust - 0
-dungeontactics:platinum_dust - 0
 
 
 dustPotassiumFluoride
@@ -5978,7 +5913,6 @@ immersiveengineering:metal - 12
 mctbasemod:materials - 56
 primal:silver_dust - 0
 magneticraft:dusts - 12
-dungeontactics:silver_dust - 0
 
 
 dustSodiumFluoride
@@ -5993,7 +5927,6 @@ dustSteel
 immersiveengineering:metal - 17
 mctbasemod:materials - 122
 magneticraft:dusts - 6
-dungeontactics:steel_dust - 0
 
 
 dustStone
@@ -6037,38 +5970,22 @@ nuclearcraft:dust - 1
 mctbasemod:materials - 34
 primal:tin_dust - 0
 magneticraft:dusts - 13
-dungeontactics:tin_dust - 0
-
-
-dustTinyAluminium
-dungeontactics:aluminium_tinydust - 0
 
 
 dustTinyBronze
 ic2:dust - 18
 
 
-dustTinyCoal
-dungeontactics:coal_tinydust - 0
-
-
 dustTinyCopper
 ic2:dust - 19
-dungeontactics:copper_tinydust - 0
 
 
 dustTinyGold
 ic2:dust - 20
-dungeontactics:gold_tinydust - 0
-
-
-dustTinyGunpowder
-dungeontactics:gunpowder_tinydust - 0
 
 
 dustTinyIron
 ic2:dust - 21
-dungeontactics:iron_tinydust - 0
 
 
 dustTinyLapis
@@ -6077,40 +5994,18 @@ ic2:dust - 22
 
 dustTinyLead
 ic2:dust - 23
-dungeontactics:lead_tinydust - 0
 
 
 dustTinyLithium
 ic2:dust - 24
 
 
-dustTinyMithril
-dungeontactics:mithril_tinydust - 0
-
-
-dustTinyNickel
-dungeontactics:nickel_tinydust - 0
-
-
 dustTinyObsidian
 ic2:dust - 25
 
 
-dustTinyOsmium
-dungeontactics:osmium_tinydust - 0
-
-
-dustTinyPlatinum
-dungeontactics:platinum_tinydust - 0
-
-
 dustTinySilver
 ic2:dust - 26
-dungeontactics:silver_tinydust - 0
-
-
-dustTinySteel
-dungeontactics:steel_tinydust - 0
 
 
 dustTinySulfur
@@ -6119,19 +6014,6 @@ ic2:dust - 27
 
 dustTinyTin
 ic2:dust - 28
-dungeontactics:tin_tinydust - 0
-
-
-dustTinyTitanium
-dungeontactics:titanium_tinydust - 0
-
-
-dustTinyTungsten
-dungeontactics:tungsten_tinydust - 0
-
-
-dustTitanium
-dungeontactics:titanium_dust - 0
 
 
 dustTough
@@ -6140,7 +6022,6 @@ dustTough
 dustTungsten
 immersiveintelligence:material_dust - 3
 magneticraft:dusts - 5
-dungeontactics:tungsten_dust - 0
 
 
 dustUnsweetenedChocolate
@@ -6329,10 +6210,10 @@ immersiveintelligence:material - 0
 
 
 elementalFume
-bewitchment:swirl_of_depths - 0
 bewitchment:stone_ichor - 0
-bewitchment:fiery_unguent - 0
+bewitchment:swirl_of_depths - 0
 bewitchment:heaven_extract - 0
+bewitchment:fiery_unguent - 0
 
 
 elvenDragonstone
@@ -8282,7 +8163,6 @@ harvestcraft:fivespiceitem - 0
 foodFlour
 harvestcraft:flouritem - 0
 roots:flour - 0
-dungeontactics:flour - 0
 
 
 foodFootlong
@@ -11231,8 +11111,8 @@ gemAlexandrite
 
 gemAll
 bewitchment:garnet - 0
-bewitchment:opal - 0
 bewitchment:amethyst - 0
+bewitchment:opal - 0
 minecraft:quartz - 0
 minecraft:diamond - 0
 minecraft:emerald - 0
@@ -12456,7 +12336,6 @@ nuclearcraft:marshmallow - 0
 
 ingotMithril
 magneticraft:ingots - 9
-dungeontactics:mithril_ingot - 0
 
 
 ingotNeptunium236
@@ -12617,7 +12496,6 @@ iceandfire:silver_ingot - 0
 mctbasemod:materials - 62
 primal:silver_ingot - 0
 magneticraft:ingots - 12
-dungeontactics:silver_ingot - 0
 
 
 ingotSoularium
@@ -12636,7 +12514,6 @@ mctbasemod:materials - 128
 primal:steel_ingot - 0
 tcomplement:materials - 10
 magneticraft:ingots - 6
-dungeontactics:steel_ingot - 0
 
 
 ingotSteeleaf
@@ -13660,12 +13537,12 @@ animania:salt - 0
 
 listAllseed
 bewitchment:hellebore_seeds - 0
+bewitchment:garlic_seeds - 0
+bewitchment:aconitum_seeds - 0
+bewitchment:belladonna_seeds - 0
 bewitchment:mandrake_seeds - 0
 bewitchment:white_sage_seeds - 0
-bewitchment:belladonna_seeds - 0
-bewitchment:garlic_seeds - 0
 bewitchment:wormwood_seeds - 0
-bewitchment:aconitum_seeds - 0
 minecraft:wheat_seeds - 0
 minecraft:beetroot_seeds - 0
 minecraft:pumpkin_seeds - 0
@@ -14871,7 +14748,6 @@ mctbasemod:materials - 291
 nuggetDiamond
 mctbasemod:materials - 478
 agricraft:agri_nugget - 1
-dungeontactics:diamond_nugget - 0
 
 
 nuggetDraconium
@@ -14994,7 +14870,6 @@ nuggetMarshmallow
 
 nuggetMithril
 magneticraft:nuggets - 9
-dungeontactics:mithril_nugget - 0
 
 
 nuggetNeptunium236
@@ -15118,7 +14993,6 @@ mctbasemod:materials - 60
 primal:silver_nugget - 0
 magneticraft:nuggets - 12
 agricraft:agri_nugget - 7
-dungeontactics:silver_nugget - 0
 
 
 nuggetSoularium
@@ -15131,7 +15005,6 @@ mctbasemod:materials - 126
 primal:steel_nugget - 0
 tcomplement:materials - 20
 magneticraft:nuggets - 6
-dungeontactics:steel_nugget - 0
 
 
 nuggetSyrmorite
@@ -15947,7 +15820,6 @@ oreDarkChocolate
 oreDiamond
 minecraft:diamond_ore - 0
 mctbasemod:ore_cracked1 - 8
-dungeontactics:enddiamond_ore - 0
 
 
 oreDraconium
@@ -15995,7 +15867,6 @@ bewitchment:garnet_ore - 0
 oreGold
 minecraft:gold_ore - 0
 mctbasemod:ore_cracked1 - 4
-dungeontactics:nethergold_ore - 0
 
 
 oreGreenMiddleGem
@@ -16031,7 +15902,6 @@ oreKnightslime
 oreLapis
 minecraft:lapis_ore - 0
 mctbasemod:ore_cracked1 - 6
-dungeontactics:endlapis_ore - 0
 
 
 oreLead
@@ -16071,7 +15941,6 @@ oreMarshmallow
 
 
 oreMithril
-dungeontactics:mithril_ore - 0
 
 
 oreNagrilite
@@ -16537,7 +16406,6 @@ magneticraft:ores - 4
 oreQuartz
 minecraft:quartz_ore - 0
 mctbasemod:ore_cracked2 - 2
-dungeontactics:stonequartz_ore - 0
 
 
 oreQuartzBlack
@@ -16574,7 +16442,6 @@ immersiveengineering:ore - 3
 iceandfire:silver_ore - 0
 mctbasemod:ore_cracked1 - 10
 magneticraft:ores - 1
-dungeontactics:silver_ore - 0
 
 
 oreSodium
@@ -19195,14 +19062,6 @@ seedZucchini
 harvestcraft:zucchiniseeditem - 0
 
 
-seeds
-minecraft:wheat_seeds - 0
-minecraft:pumpkin_seeds - 0
-minecraft:melon_seeds - 0
-minecraft:beetroot_seeds - 0
-minecraft:nether_wart - 0
-
-
 servo
 nuclearcraft:part - 7
 
@@ -19541,10 +19400,10 @@ forestry:slabs.fireproof.1 - any
 forestry:slabs.fireproof.2 - any
 forestry:slabs.fireproof.3 - any
 forestry:slabs.vanilla.fireproof.0 - any
-bewitchment:elder_wood_slab - 0
-bewitchment:cypress_wood_slab - 0
-bewitchment:juniper_wood_slab - 0
 bewitchment:dragons_blood_slab - 0
+bewitchment:cypress_wood_slab - 0
+bewitchment:elder_wood_slab - 0
+bewitchment:juniper_wood_slab - 0
 thebetweenlands:weedwood_plank_slab - 0
 thebetweenlands:rubber_tree_plank_slab - 0
 thebetweenlands:giant_root_plank_slab - 0
@@ -20068,10 +19927,6 @@ mctbasemod:materials - 85
 
 stickArdite
 mctbasemod:materials - 173
-
-
-stickBone
-minecraft:bone - 0
 
 
 stickBronze
@@ -21461,7 +21316,6 @@ thebetweenlands:sapling_hearthgrove - 0
 thebetweenlands:sapling_nibbletwig - 0
 quark:variant_sapling - any
 twilightforest:twilight_sapling - any
-minecraft:sapling - 0
 
 
 tubeVacuumDiamond
