@@ -1,6 +1,6 @@
 {
 	"__name_comment": "An OreDictionary entry will be made (if one does not already exist) using this name.",
-	"name": "Crude_Iron",
+	"name": "Iron_New",
 	"__make_comment": "A list of materials to be made by the mod.  Currently only 'fluid' is valid, which will cause the fluid to be made and recipes to use the smeltery.  Use an empty array to NOT make a fluid, any parts defined below to be crafted using solid materials and the part builder instead.",
 	"make": ["fluid"],
 	"__color_comment": "The three colors are all in the format #AARRGGBB.  Tinkers will change fully transparent materials to fully opaque!",
@@ -8,11 +8,11 @@
 	"whitelist": {
 		"__comment": "Everything in the whitelist will be added to the OreDictionary with the above name.",
 		"oredict": [],
-		"ingots": ["ingotCrudeIron"],
-		"nuggets": ["nuggetCrudeIron"],
-		"dusts": ["dustCrudeIron"],
+		"ingots": ["ingotIron"],
+		"nuggets": [],
+		"dusts": [],
 		"gems": [],
-		"blocks": ["blockCrudeIron"],
+		"blocks": [],
 		"ores": []
 	},
 	"blacklist": {
@@ -21,7 +21,7 @@
 		"ores": []
 	},
 	"fluidData": {
-		"color": "#FF541A1A",
+		"color": "#FF007F0E",
 		"density": 2000,
 		"viscosity": 10000,
 		"temperature": 400,
@@ -44,7 +44,7 @@
 		"attack": 4.0,
 		"handleModifier": 1,
 		"handleDurability": 50,
-		"color": "#FF7A7369",
+		"color": "#FF007F0E",
 		"temperature": 200,
 		"__projectiles_comment": "Set to true to enable building Shurikens",
 		"projectiles": true,
@@ -75,8 +75,8 @@
 	"localizations": [{
 		"__comment": "The name of the material in various languages.  solid = the material and the tool.  liquid = the name of the fluid.  bucket = the name of the bucket.  To add more languages just add another object with the 4 elements",
 		"locale": "en_US",
-		"solid": "Crude Iron",
-		"liquid": "Molten Crude Iron",
-		"bucket": "Crude Iron Bucket"
+		"solid": "Iron",
+		"liquid": "Molten Iron",
+		"bucket": "Bucket of Molten Iron"
 	}]
 }
