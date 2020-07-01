@@ -1,0 +1,10 @@
+{
+    "type": "colored",
+    "suffix": "bone_base",
+    "parameters": {
+        "color": "a93df5",
+        "shinyness": 0.1,
+        "brightness": 0.1,
+        "hueshift": 0.0
+    }
+}

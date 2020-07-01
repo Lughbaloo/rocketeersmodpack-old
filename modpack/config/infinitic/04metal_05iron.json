@@ -1,0 +1,59 @@
+{
+    "name": "metal_iron",
+    "make": ["fluid"],
+    "textColor": "#FF000000",
+    "whitelist": {
+        "oredict": [],
+        "ingots": [],
+        "nuggets": [],
+        "dusts": [],
+        "gems": [],
+        "blocks": [],
+        "ores": []
+    },
+    "fluidData": {
+        "color": "#FF000000",
+        "density": 2000,
+        "viscosity": 10000,
+        "temperature": 400,
+        "luminosity": 10,
+        "__comment": "rarity can be COMMON, UNCOMMON, RARE or EPIC",
+        "rarity": "COMMON"
+    },
+    "canCraftToolForge": true,
+    "toolData": {
+        "durability": 100,
+        "harvestLevel": 1,
+        "extraDurability": 100,
+        "miningSpeed": 1.0,
+        "attack": 1.0,
+        "handleModifier": 1,
+        "handleDurability": 100,
+        "color": "#FF000000",
+        "temperature": 100,
+        "projectiles": false,
+        "drawSpeed": 1.0,
+        "range": 1.0,
+        "bonusDamage": 1.0,
+        "stringModifier": 0.0,
+        "shaftModifier": 0,
+        "bonusAmmo": 0.0,
+        "accuracy": 0,
+        "fletchingModifier": 0,
+        "traits": [],
+        "headTraits": [],
+        "handleTraits": [],
+        "extraTraits": [],
+        "bowTraits": [],
+        "stringTraits": [],
+        "projectileTraits": [],
+        "shaftTraits": [],
+        "fletchingTraits": []
+    },
+    "localizations": [{
+        "locale": "en_US",
+        "solid": "Iron",
+        "liquid": "Molten Iron",
+        "bucket": "Bucket of Molten Iron"
+    }]
+}
