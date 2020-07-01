@@ -1,7 +1,7 @@
 {
     "name": "metal_tin",
     "make": ["fluid"],
-    "textColor": "#FF000000",
+    "textColor": "#FFFFFFFF",
     "whitelist": {
         "oredict": [],
         "ingots": [],
@@ -12,7 +12,7 @@
         "ores": []
     },
     "fluidData": {
-        "color": "#FF000000",
+        "color": "#FFFFFFFF",
         "density": 2000,
         "viscosity": 10000,
         "temperature": 400,
@@ -29,7 +29,7 @@
         "attack": 1.0,
         "handleModifier": 1,
         "handleDurability": 100,
-        "color": "#FF000000",
+        "color": "#FFFFFFFF",
         "temperature": 100,
         "projectiles": false,
         "drawSpeed": 1.0,

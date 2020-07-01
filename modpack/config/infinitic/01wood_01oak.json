@@ -1,7 +1,7 @@
 {
     "name": "wood_oak",
     "make": [],
-    "textColor": "#FF000000",
+    "textColor": "#FFFFFFFF",
     "whitelist": {
         "oredict": [],
         "ingots": [],
@@ -20,7 +20,7 @@
         "attack": 1.0,
         "handleModifier": 1,
         "handleDurability": 100,
-        "color": "#FF000000",
+        "color": "#FFFFFFFF",
         "temperature": 100,
         "projectiles": false,
         "drawSpeed": 1.0,
