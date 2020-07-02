@@ -1,0 +1,1 @@
+mods.magneticraft.CrushingTable.addRecipe(<primal:crude_iron_nugget>, <primal:iron_strand>, false);

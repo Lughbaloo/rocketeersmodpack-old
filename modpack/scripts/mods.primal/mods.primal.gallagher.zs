@@ -1,0 +1,1 @@
+mods.primal.Gallagher.removeAll();
