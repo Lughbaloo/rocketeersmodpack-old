@@ -6,7 +6,7 @@
         "burning": "true"
       }
     },
-    "temperature": 5.0
+    "temperature": 10.0
   },
   {
     "state": {
@@ -41,7 +41,7 @@
       "block": "biomesoplenty:hot_spring_water",
       "properties": {}
     },
-    "temperature": 5.0
+    "temperature": 8.0
   },
   {
     "state": {
@@ -70,5 +70,39 @@
       "properties": {}
     },
     "temperature": -6.0
+  },
+  {
+    "state": {
+      "block": "primal:hibachi",
+      "properties": {
+		"lit": "true"
+	  }
+    },
+    "temperature": 6.0
+  },
+  {
+    "state": {
+      "block": "primal:smelter",
+      "properties": {
+		"lit": "true"
+	  }
+    },
+    "temperature": 8.0
+  },
+  {
+    "state": {
+      "block": "primal:torch_wood",
+      "properties": {
+		"lit": "true"
+	  }
+    },
+    "temperature": 4.0
+  },
+    {
+    "state": {
+      "block": "minecraft:torch",
+      "properties": {}
+    },
+    "temperature": 4.0
   }
 ]
