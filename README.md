@@ -26,6 +26,8 @@ Chapter : It's Honest Work
 The farming chapter, this set of quests focuses on growing crops and tending livestock. It also encompasses cooking and culinary exploration. While it does not feed directly into another chapter, anyone passing through the farming chapter will find themselves situated for life with things like biofuel, extra hearts, food and drink, as well as plenty of materials to exponentially grow automated factories.
 
 
+
+
 Planned Chapters:
 Chapter : Harnessing Electricity
 
