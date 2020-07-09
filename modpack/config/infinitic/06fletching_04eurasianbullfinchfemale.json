@@ -1,0 +1,50 @@
+{
+    "name": "fletching_eurasianbullfinchfemale",
+    "make": [],
+    "textColor": "#FFFFFFFF",
+    "whitelist": {
+        "oredict": [],
+        "ingots": ["birdwmod:feather_eurasianbullfinchfemale"],
+        "nuggets": [],
+        "dusts": [],
+        "gems": [],
+        "blocks": [],
+        "ores": []
+    },
+    "canCraftToolForge": false,
+    "toolData": {
+        "durability": 0,
+        "harvestLevel": 0,
+        "extraDurability": 0,
+        "miningSpeed": 0,
+        "attack": 0,
+        "handleModifier": 0,
+        "handleDurability": 0,
+        "color": "#FFFFFFFF",
+        "temperature": 0,
+        "projectiles": false,
+        "drawSpeed": 0.0,
+        "range": 0.0,
+        "bonusDamage": 0.0,
+        "stringModifier": 0.0,
+        "shaftModifier": 0,
+        "bonusAmmo": 0.0,
+        "accuracy": 1,
+        "fletchingModifier": 1,
+        "traits": [],
+        "headTraits": [],
+        "handleTraits": [],
+        "extraTraits": [],
+        "bowTraits": [],
+        "stringTraits": [],
+        "projectileTraits": [],
+        "shaftTraits": [],
+        "fletchingTraits": []
+    },
+    "localizations": [{
+        "locale": "en_US",
+        "solid": "Eurasian Bullfinch Female Feather",
+        "liquid": "Eurasian Bullfinch Female Feather",
+        "bucket": "Eurasian Bullfinch Female Feather"
+    }]
+}
