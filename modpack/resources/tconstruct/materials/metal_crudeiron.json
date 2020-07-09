@@ -1,5 +1,6 @@
 {
     "type": "metal",
+	"suffix": "crudeiron",
     "parameters": {
         "color": "7D736A",
         "shinyness": 0,
