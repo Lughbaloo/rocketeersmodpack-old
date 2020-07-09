@@ -4,11 +4,11 @@
     "textColor": "#FFFFFFFF",
     "whitelist": {
         "oredict": [],
-        "ingots": ["primal:crude_iron_ingot"],
-        "nuggets": ["primal:crude_iron_nugget"],
+        "ingots": ["minecraft:bedrock"],
+        "nuggets": [],
         "dusts": [],
         "gems": [],
-        "blocks": ["primal:metalblock"],
+        "blocks": [],
         "ores": []
     },
     "fluidData": {

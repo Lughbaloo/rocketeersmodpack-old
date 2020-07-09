@@ -1,0 +1,1 @@
+mods.tconstruct.Alloy.addRecipe(<liquid:metal_bronze> * 8, [<liquid:metal_copper> * 7, <liquid:metal_tin>]);

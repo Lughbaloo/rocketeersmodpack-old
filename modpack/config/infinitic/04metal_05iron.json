@@ -4,12 +4,12 @@
     "textColor": "#FFFFFFFF",
     "whitelist": {
         "oredict": [],
-        "ingots": ["minecraft:iron_ingot"],
-        "nuggets": ["minecraft:iron_nugget"],
+        "ingots": ["minecraft:bedrock"],
+        "nuggets": [],
         "dusts": [],
         "gems": [],
-        "blocks": ["minecraft:iron_block"],
-        "ores": ["minecraft:iron_ore"]
+        "blocks": [],
+        "ores": []
     },
     "fluidData": {
         "color": "#FFF56915",
