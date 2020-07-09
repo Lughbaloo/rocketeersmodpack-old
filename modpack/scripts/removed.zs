@@ -30,3 +30,6 @@ mods.jei.JEI.removeAndHide(<engineersdecor:labeled_crate>);
 #	immersiveintelligence
 mods.jei.JEI.removeAndHide(<immersiveintelligence:small_crate:*>);
 mods.jei.JEI.removeAndHide(<immersiveintelligence:metal_device:0>);
+
+#	toughasnails
+recipes.remove(<toughasnails:canteen>);
