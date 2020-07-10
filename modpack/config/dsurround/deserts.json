@@ -1,0 +1,12 @@
+{
+        "biomes":[
+                {
+                        "conditions": "biome.isSANDY",
+                        "dust": true,
+                        "dustColor": "204,185,102",
+                        "fog": true,
+                        "fogDensity": 0.04,
+                        "fogColor": "204,185,102"
+                }
+        ]
+}
